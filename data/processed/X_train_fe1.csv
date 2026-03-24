@@ -1,0 +1,953 @@
+Gender,Age,Academic_degree,Years_Experience,Years_experience_lastorganization,Sector,Department,JobTitle,MonthlySalary,Allowances,MedicalInsurance,Bonus,OverTime,Payment_Overtime,Rewards&Wages_Satisfaction,Get_ Deserved_Promotion,Training_programs_ During_last_three_years,Useful_Training_Programs,Business_Travel,Job_Support,Recognition,Emotional_Commitment,Job_Engagement,Distance_to_work,Work_Live_Balance,Physical_Stress,Psychological_Exhaustion,Job_Stability,Health_Issues,Environment_Satisfaction,Job_Satisfaction,Job_Opportunities,Maritalstatus_married,Maritalstatus_single,Salary_per_Experience,Opportunity_Training_Score,Experience_Gap_LastOrg
+0,2,2,2,1,food production sector,hr,hiring specialist,3,2,1,1,0,1,1,1,1,1,1,3,0,1,2,1,1,2,1,0,1,2,2,1,1,0,1.0,1,1
+0,1,2,2,2,transport sector,relations,relations manager,1,0,1,0,0,1,1,1,2,1,2,3,1,2,2,2,2,0,0,0,1,2,2,1,1,0,0.3333333333333333,2,0
+1,1,2,1,1,medical sector,customers service,receptionist,2,0,0,0,0,1,0,0,0,0,1,1,0,1,2,1,1,2,2,0,1,1,1,0,1,0,1.0,0,0
+0,2,1,2,2,medical sector,sales,sales representative,3,2,1,0,0,1,0,0,0,0,1,1,1,1,1,1,2,1,2,0,0,3,1,1,0,1,1.0,0,0
+0,1,2,1,1,financial sector,sales,consultant,2,2,1,1,1,3,0,0,1,1,1,1,0,3,1,2,1,2,2,0,0,1,1,0,0,1,1.0,0,0
+1,2,2,2,2,medical sector,patient affairs,nurse,1,0,0,0,0,2,0,0,0,0,2,1,0,1,1,3,1,2,0,1,1,3,3,1,0,1,0.3333333333333333,0,0
+0,2,2,1,1,transport sector,processes,operations supervisor,1,0,1,0,0,1,0,0,0,0,1,1,0,3,2,1,2,1,1,0,0,2,2,0,0,1,0.5,0,0
+1,1,3,1,1,financial sector,administration,administrative manager,1,0,0,0,0,1,0,0,1,1,1,2,0,2,2,2,2,2,1,1,0,2,2,0,0,1,0.5,0,0
+0,2,2,2,2,tourism sector,relations,relations manager,2,3,1,1,0,1,1,1,0,0,3,3,1,2,3,3,3,0,0,1,0,2,2,1,1,0,0.6666666666666666,0,0
+0,1,1,1,1,food production sector,processes,driver,1,2,0,0,0,1,0,0,0,0,1,3,1,2,2,1,2,1,1,0,0,2,2,0,0,1,0.5,0,0
+1,2,3,2,2,medical sector,patient affairs,doctor,5,2,1,0,0,2,0,0,1,1,2,3,0,1,3,2,1,2,2,0,0,3,2,0,0,1,1.6666666666666667,0,0
+1,2,1,1,1,food production sector,customers service,receptionist,1,0,1,0,0,1,0,0,1,1,1,1,1,2,1,1,2,1,1,1,0,2,2,0,1,0,0.5,0,0
+0,2,2,3,1,tourism sector,safety & security,security and safety specialist,1,0,0,1,0,1,0,0,0,0,1,1,0,3,1,2,2,2,2,0,0,1,1,0,1,0,0.25,0,2
+1,3,2,1,1,economic sector,marketing,marketing specialist,1,0,0,0,1,2,0,0,0,0,1,1,0,1,2,1,2,1,2,0,0,1,1,0,1,0,0.5,0,0
+1,1,2,3,3,medical sector,technical support,it specialist,1,0,1,0,0,3,1,1,1,0,1,2,1,2,2,1,2,1,1,1,0,2,2,0,0,1,0.25,0,0
+1,2,2,2,2,economic sector,administration,manger assistant,2,1,1,0,0,1,0,0,2,1,1,2,1,1,1,1,2,0,1,0,0,2,2,0,1,0,0.6666666666666666,0,0
+1,1,2,1,1,medical sector,customers service,receptionist,1,0,0,0,0,1,0,0,0,0,1,1,0,1,2,2,1,0,1,0,0,2,1,0,0,1,0.5,0,0
+0,2,2,2,1,transport sector,processes,operations supervisor,2,0,1,1,0,1,0,0,1,1,1,2,1,2,2,2,2,1,1,0,0,2,2,1,1,0,0.6666666666666666,1,1
+0,2,2,3,3,engineering consulting companies,relations,relationships specialist,2,2,1,0,1,3,1,1,2,1,2,2,0,2,2,3,2,2,1,0,0,2,2,1,1,0,0.5,2,0
+0,2,2,2,1,education sector,technical support,engineer,2,1,1,0,0,1,0,0,0,0,1,1,0,1,2,3,2,2,2,0,0,1,1,0,1,0,0.6666666666666666,0,1
+1,1,2,1,1,communications and it sector,customers service,customer services representative,2,1,1,0,0,1,0,0,2,1,1,2,0,2,2,2,2,0,0,1,1,2,2,1,0,1,1.0,2,0
+1,1,3,1,1,medical sector,patient affairs,nurse,1,3,1,1,1,3,1,1,3,1,2,3,1,2,2,1,2,1,1,1,0,1,3,0,1,0,0.5,0,0
+1,1,3,1,1,education sector,administration,manger assistant,1,0,1,0,0,1,0,0,3,1,1,2,1,2,2,2,2,1,1,1,0,2,2,1,1,0,0.5,3,0
+1,2,2,1,1,education sector,teaching,teacher,1,0,0,0,1,2,0,0,1,1,1,2,1,2,2,1,1,2,2,0,0,2,2,0,1,0,0.5,0,0
+1,3,2,2,2,medical sector,patient affairs,nurse,1,1,1,0,1,3,0,0,1,1,1,2,1,3,2,1,3,1,0,1,0,3,2,0,1,0,0.3333333333333333,0,0
+1,2,1,1,1,tourism sector,hr,manger assistant,2,1,0,1,1,3,1,1,1,1,1,3,1,3,3,1,3,1,1,1,0,3,3,0,0,1,1.0,0,0
+1,2,2,2,2,tourism sector,accounting,accountant,1,2,1,0,0,1,0,0,0,0,1,1,0,1,1,3,2,0,2,0,0,1,1,1,0,1,0.3333333333333333,0,0
+1,1,2,1,1,education sector,teaching,trainer,1,0,0,0,0,1,0,0,0,0,1,1,1,3,2,1,3,0,0,1,0,3,2,1,1,0,0.5,0,0
+0,1,2,2,2,food production sector,processes,operations supervisor,2,2,1,0,1,2,0,0,0,0,1,2,1,3,1,2,2,2,2,0,0,1,1,1,1,0,0.6666666666666666,0,0
+0,1,1,2,2,transport sector,information technology,it specialist,1,2,1,1,1,3,1,1,2,1,2,2,1,3,2,2,3,0,0,1,0,2,2,0,0,1,0.3333333333333333,0,0
+1,1,2,1,1,medical sector,customers service,receptionist,2,0,0,0,0,1,1,1,0,0,1,2,1,3,2,2,2,0,0,0,0,1,1,0,0,1,1.0,0,0
+1,3,3,5,5,energy sector,hr,hr specialist,3,1,1,1,0,1,1,1,3,1,2,2,1,3,2,2,2,0,0,1,0,2,3,1,0,1,0.5,3,0
+1,1,2,2,2,education sector,teaching,teacher,1,0,0,0,0,1,0,0,0,0,1,1,0,1,2,2,2,1,1,0,0,1,1,0,0,1,0.3333333333333333,0,0
+1,2,2,1,1,medical sector,patient affairs,nurse,1,3,0,1,1,1,1,1,3,1,1,3,1,3,2,2,2,1,1,1,0,2,2,0,1,0,0.5,0,0
+1,3,1,1,1,food production sector,sales,salesman,1,0,1,0,1,3,0,0,0,0,1,2,1,2,2,1,2,1,1,0,0,3,2,0,1,0,0.5,0,0
+1,1,2,1,1,industry sector,hr,hr specialist,2,1,1,0,1,2,1,1,0,0,1,1,1,3,1,2,2,1,2,0,0,1,2,0,0,1,1.0,0,0
+1,1,2,2,2,education sector,teaching,teacher,2,0,0,0,0,1,1,1,0,0,1,3,1,2,3,2,3,1,1,1,0,2,2,0,1,0,0.6666666666666666,0,0
+1,1,2,2,1,medical sector,patient affairs,radiographer,1,0,0,0,1,3,0,0,0,0,1,1,0,1,1,2,1,2,1,0,0,1,1,1,0,1,0.3333333333333333,0,1
+0,2,2,2,2,communications and it sector,sales,sales executive,2,2,1,0,1,2,0,0,2,0,1,2,0,2,2,2,1,0,0,0,0,2,2,1,1,0,0.6666666666666666,2,0
+1,2,3,1,1,education sector,administration,manger assistant,1,0,1,0,0,1,0,0,0,0,1,2,0,3,2,3,2,2,1,0,0,1,3,0,1,0,0.5,0,0
+1,1,1,2,2,food production sector,sales,supervisor,2,3,1,1,1,3,0,0,3,1,1,2,1,2,2,2,1,1,1,0,0,3,2,0,0,0,0.6666666666666666,0,0
+0,3,1,3,2,financial sector,hr,coordinator,2,0,0,0,0,1,0,0,0,0,1,2,1,2,2,2,2,1,1,0,0,1,1,1,1,0,0.5,0,1
+0,1,2,2,2,education sector,teaching,teacher,1,1,1,1,0,1,1,1,2,1,1,3,1,3,2,2,2,1,1,1,0,2,2,1,0,1,0.3333333333333333,2,0
+0,1,2,2,1,medical sector,relations,relationships specialist,2,1,1,1,1,3,1,1,1,1,1,3,1,3,1,3,1,2,2,1,1,3,2,1,0,1,0.6666666666666666,1,1
+0,1,2,1,1,medical sector,patient affairs,nutrition specialist,2,0,0,0,1,3,0,0,0,0,1,1,0,2,1,2,1,1,2,0,0,1,1,0,0,1,1.0,0,0
+0,1,1,1,1,medical sector,administration,manger assistant,1,0,1,0,1,3,0,0,2,1,1,2,1,2,2,1,1,0,1,0,0,2,2,0,0,1,0.5,0,0
+1,2,1,1,1,medical sector,patient affairs,nurse,1,0,1,0,1,3,1,0,1,1,1,2,1,2,2,1,3,0,0,1,0,3,3,1,1,0,0.5,1,0
+1,3,2,3,3,education sector,teaching,teacher,3,0,0,0,0,1,1,0,2,1,2,2,1,2,2,1,3,1,1,1,0,2,2,0,0,1,0.75,0,0
+0,1,2,5,5,education sector,teaching,teacher,1,0,1,0,0,1,0,0,1,1,1,2,0,3,3,2,2,2,2,0,0,2,2,0,1,0,0.16666666666666666,0,0
+1,2,2,1,1,medical sector,patient affairs,nurse,1,0,1,1,1,3,1,0,1,1,1,2,1,2,2,2,2,1,1,0,0,2,2,1,1,0,0.5,1,0
+0,1,2,2,1,food production sector,technical support,engineer,2,2,1,0,0,2,0,0,0,0,1,1,0,1,1,1,2,0,1,0,0,1,2,1,0,1,0.6666666666666666,0,1
+0,1,1,1,1,tourism sector,customers service,customer services representative,2,0,1,0,0,1,1,1,2,1,2,3,1,3,2,2,2,1,1,0,0,3,2,1,0,1,1.0,2,0
+0,3,2,1,1,financial sector,sales,salesman,2,2,1,1,0,1,1,1,1,1,2,3,1,3,2,2,3,0,0,1,0,3,3,0,1,0,1.0,0,0
+0,2,3,2,1,communications and it sector,sales,sales executive,2,1,1,1,0,1,0,1,2,1,1,2,1,2,2,2,2,0,1,0,0,2,2,1,1,0,0.6666666666666666,2,1
+1,1,2,2,1,medical sector,marketing,marketing specialist,1,0,1,1,0,1,0,0,0,0,1,1,1,2,2,1,2,2,2,1,0,2,2,1,0,1,0.3333333333333333,0,1
+1,2,1,2,2,medical sector,customers service,customer services representative,2,2,1,0,0,1,0,0,0,0,1,1,0,1,1,3,1,1,2,0,1,1,1,0,1,0,0.6666666666666666,0,0
+0,1,2,5,5,education sector,administration,administrative manager,4,1,0,0,0,1,1,0,1,1,1,1,1,3,3,1,3,1,2,1,0,2,3,0,1,0,0.6666666666666666,0,0
+1,2,2,2,1,education sector,administration,manger assistant,2,1,1,0,1,2,0,0,0,0,1,1,0,2,1,3,1,2,2,0,0,2,2,1,0,1,0.6666666666666666,0,1
+0,2,4,2,2,education sector,teaching,lecturer,3,1,1,1,1,3,1,1,1,1,2,2,1,3,2,2,2,1,0,1,0,2,3,0,1,0,1.0,0,0
+0,1,3,1,1,law firm,legal affairs,lawyer,2,0,1,0,0,2,1,1,0,1,2,2,1,2,2,2,2,0,1,1,0,2,2,0,0,1,1.0,0,0
+1,1,2,1,1,industry sector,information technology,application specialist,2,2,1,0,0,1,0,0,0,0,1,2,1,3,3,2,1,2,2,0,0,2,2,0,0,1,1.0,0,0
+1,2,1,1,1,medical sector,hr,hr specialist,1,0,0,0,0,1,1,1,0,0,1,1,1,2,2,2,3,0,1,1,0,2,2,0,1,0,0.5,0,0
+1,4,4,5,5,medical sector,patient affairs,doctor,7,2,1,0,1,2,1,0,1,1,3,2,1,2,3,3,1,1,1,1,0,2,2,1,1,0,1.1666666666666667,1,0
+0,2,2,1,1,financial sector,banking operations,banking operations,2,2,0,1,0,1,1,0,1,1,1,2,1,2,1,1,3,1,0,0,0,2,1,1,1,0,1.0,1,0
+0,1,2,1,1,medical sector,patient affairs,nurse,1,0,0,0,0,1,1,1,3,1,2,3,1,3,3,1,3,0,0,1,0,2,2,0,0,1,0.5,0,0
+1,2,2,2,2,communications and it sector,administration,secretariat,2,1,1,0,1,3,1,1,2,1,2,3,1,3,2,2,2,1,1,1,0,3,3,0,1,0,0.6666666666666666,0,0
+1,2,2,2,2,education sector,administration,administrative manager,3,2,1,1,1,3,1,1,3,1,2,3,1,3,2,2,2,1,0,1,0,2,3,0,1,0,1.0,0,0
+1,2,2,2,2,financial sector,marketing,marketing specialist,2,3,1,1,1,3,1,1,3,1,1,3,1,3,2,2,2,1,0,1,0,3,3,1,1,0,0.6666666666666666,3,0
+1,2,2,2,2,medical sector,patient affairs,dentist,4,1,1,1,0,3,1,0,0,0,2,2,1,3,2,2,1,2,2,1,1,2,2,1,1,0,1.3333333333333333,0,0
+0,1,2,1,1,communications and it sector,information technology,it specialist,2,2,1,0,0,1,0,0,0,0,1,1,0,3,1,1,1,2,2,0,0,2,1,1,0,1,1.0,0,0
+0,2,2,2,1,industry sector,processes,operation and maintenance manager (acting),3,2,1,1,1,3,0,0,1,1,3,2,1,3,2,2,1,2,2,1,0,2,3,1,1,0,1.0,1,1
+0,3,3,5,5,education sector,teaching,teacher,1,0,0,0,0,2,1,0,2,0,1,2,1,2,1,1,2,0,0,0,0,2,2,0,1,0,0.16666666666666666,0,0
+1,1,2,2,1,medical sector,accounting,accountant,2,0,1,0,0,1,0,0,1,1,1,3,1,2,2,1,2,0,0,0,0,2,2,1,0,1,0.6666666666666666,1,1
+1,2,2,2,2,education sector,administration,administrative manager,2,0,1,1,0,2,1,1,1,1,1,2,1,3,1,2,3,0,0,1,0,2,3,0,1,0,0.6666666666666666,0,0
+1,3,3,2,2,energy sector,accounting,financial analyst,3,2,1,0,1,2,0,0,1,1,2,2,1,2,2,1,2,1,1,0,0,2,2,1,1,0,1.0,1,0
+1,1,2,2,2,medical sector,patient affairs,nurse,1,2,0,0,0,1,0,0,0,0,1,1,0,1,2,1,2,1,2,0,0,1,1,0,0,1,0.3333333333333333,0,0
+1,1,2,1,1,food production sector,customers service,customer services representative,1,0,1,0,1,2,0,0,1,1,1,2,0,2,2,2,1,2,2,0,0,2,1,1,0,1,0.5,1,0
+0,3,1,5,2,transport sector,administration,administrative manager,3,0,0,0,1,2,0,0,0,0,3,2,1,2,2,2,2,2,2,0,0,2,2,1,1,0,0.5,0,3
+0,2,3,2,1,education sector,administration,manger assistant,2,0,1,0,0,1,1,1,3,1,2,3,1,3,3,2,3,0,0,1,1,3,3,0,1,0,0.6666666666666666,0,1
+1,1,2,2,2,education sector,teaching,teacher,1,0,1,0,0,1,0,0,0,1,1,1,0,2,2,3,2,2,2,0,0,2,2,0,1,0,0.3333333333333333,0,0
+0,3,2,5,5,education sector,teaching,teacher,1,2,1,1,0,2,1,1,1,1,1,2,1,3,2,1,2,1,1,1,0,3,2,1,1,0,0.16666666666666666,1,0
+1,2,2,2,2,education sector,administration,administrative manager,1,1,0,0,1,3,1,1,1,1,1,3,1,3,3,2,3,1,0,1,0,2,2,0,0,1,0.3333333333333333,0,0
+0,1,2,2,1,energy sector,processes,operations supervisor,3,1,1,0,0,1,0,1,1,1,1,2,1,2,2,1,2,0,1,0,1,3,2,0,1,0,1.0,0,1
+0,2,1,2,2,financial sector,sales,salesman,2,2,1,1,1,3,0,0,2,0,2,3,0,1,1,1,2,0,2,0,0,3,2,0,1,0,0.6666666666666666,0,0
+1,2,2,2,2,education sector,teaching,teacher,2,0,1,1,1,3,1,1,3,1,2,3,1,3,2,2,2,1,1,1,1,3,2,1,1,0,0.6666666666666666,3,0
+1,2,2,2,2,education sector,teaching,teacher,2,0,1,1,0,2,1,1,3,1,2,2,0,2,2,2,2,0,0,1,1,2,1,1,1,0,0.6666666666666666,3,0
+0,1,1,2,2,transport sector,administration,manger assistant,2,3,1,1,1,3,1,1,3,1,3,3,1,3,3,1,3,1,0,1,0,2,3,0,0,1,0.6666666666666666,0,0
+1,2,2,3,1,industry sector,administration,manger assistant,2,2,0,0,1,2,0,0,1,0,1,1,0,1,1,1,1,2,2,0,0,1,1,1,0,1,0.5,1,2
+1,4,4,6,2,medical sector,patient affairs,doctor,2,0,1,0,1,3,0,0,1,1,1,2,1,3,3,1,3,1,1,0,0,2,2,1,1,0,0.2857142857142857,1,4
+1,2,1,2,2,financial sector,administration,secretariat,2,1,1,0,0,1,0,0,0,0,1,1,0,1,2,1,1,1,1,0,0,1,1,1,1,0,0.6666666666666666,0,0
+1,1,3,2,1,tourism sector,hr,hiring specialist,2,1,1,1,0,1,1,1,1,1,1,2,1,3,1,2,2,0,0,1,0,2,2,1,1,0,0.6666666666666666,1,1
+1,2,1,1,1,food production sector,sales,sales representative,1,0,1,0,1,3,0,0,0,0,1,1,1,2,2,1,1,1,2,0,0,1,2,0,1,0,0.5,0,0
+0,2,2,1,1,financial sector,banking operations,banking operations,2,2,1,0,0,1,0,0,1,0,1,1,0,1,1,2,1,2,2,0,0,1,1,0,0,1,1.0,0,0
+0,2,2,2,2,education sector,teaching,teacher,1,2,1,1,0,2,1,0,2,1,1,3,1,3,3,1,3,0,0,1,0,3,3,0,1,0,0.3333333333333333,0,0
+0,1,2,1,1,transport sector,sales,sales representative,2,0,0,0,0,1,0,0,0,0,2,2,0,2,2,2,2,0,2,0,0,2,2,0,1,0,1.0,0,0
+0,2,2,3,3,financial sector,accounting,admin accountant,2,2,1,0,0,1,0,0,1,1,2,2,1,3,2,1,2,1,1,1,0,3,2,0,1,0,0.5,0,0
+1,1,1,2,1,media sector,sales,salesman,1,2,1,1,1,3,1,1,1,1,1,2,0,2,2,1,2,1,0,1,1,2,2,1,0,1,0.3333333333333333,1,1
+1,2,3,2,2,education sector,administration,administrative manager,3,3,1,1,0,1,1,1,3,1,1,3,1,2,2,2,2,0,0,0,0,2,2,1,1,0,1.0,3,0
+1,2,2,1,1,education sector,teaching,teacher,2,0,0,0,0,1,0,0,0,0,1,1,0,1,2,1,3,1,2,0,0,1,1,0,1,0,1.0,0,0
+0,1,2,1,1,education sector,teaching,teacher,1,0,0,0,0,1,0,0,0,0,1,1,0,1,2,2,2,1,1,0,0,2,1,0,0,1,0.5,0,0
+0,2,2,4,4,education sector,teaching,teacher,2,0,0,0,0,2,1,0,0,0,1,1,0,1,3,1,3,1,1,0,0,1,1,0,1,0,0.4,0,0
+1,2,3,2,2,education sector,teaching,teacher,2,0,0,0,0,1,1,0,1,1,1,1,1,2,2,2,2,1,1,1,0,2,2,0,1,0,0.6666666666666666,0,0
+0,1,2,1,1,tourism sector,administration,manger assistant,2,2,1,1,1,1,0,1,1,1,1,2,1,3,2,2,2,1,1,1,0,3,2,1,0,1,1.0,1,0
+1,2,2,1,1,tourism sector,customers service,customer services representative,1,0,0,0,0,1,0,0,0,0,1,2,1,2,1,3,1,1,1,0,0,3,1,0,1,0,0.5,0,0
+0,1,2,1,1,medical sector,customers service,receptionist,1,1,0,0,0,1,0,0,0,0,1,2,0,1,3,1,3,1,1,0,0,2,2,0,0,0,0.5,0,0
+1,1,2,1,1,restaurant sector,processes,manger assistant,1,2,1,0,1,3,1,0,1,1,1,2,1,2,2,2,2,1,1,0,0,2,2,0,0,1,0.5,0,0
+1,2,2,2,1,education sector,teaching,trainer,1,0,0,0,0,1,0,0,0,0,1,1,0,1,3,2,2,0,0,0,1,2,2,1,1,0,0.3333333333333333,0,1
+1,3,2,2,1,medical sector,administration,secretariat,1,0,1,0,0,1,0,0,0,0,1,1,0,1,2,3,3,0,0,0,0,2,1,0,0,0,0.3333333333333333,0,1
+0,1,2,1,1,medical sector,patient affairs,pharmacist,3,3,1,1,1,3,1,0,3,1,3,3,1,3,2,1,3,0,0,1,0,3,2,1,1,0,1.5,3,0
+0,1,2,2,2,education sector,administration,administrative manager,2,0,1,0,0,1,1,1,3,1,1,2,1,3,3,1,3,1,1,1,0,3,3,0,1,0,0.6666666666666666,0,0
+0,1,1,1,1,transport sector,processes,warehouse officer,1,0,0,0,1,3,0,0,1,1,1,3,1,3,2,2,3,1,1,0,0,2,2,0,0,1,0.5,0,0
+0,2,2,4,4,education sector,teaching,teacher,2,1,0,0,0,1,0,0,2,1,1,1,0,1,1,2,1,2,2,0,0,1,1,0,1,0,0.4,0,0
+0,2,3,2,2,education sector,teaching,teacher,2,2,1,1,1,3,1,1,3,1,1,3,1,3,2,2,2,0,1,1,0,2,3,0,1,0,0.6666666666666666,0,0
+0,1,1,2,2,food production sector,processes,electrical engineer,1,2,1,0,1,3,0,0,2,1,1,1,1,1,2,1,1,2,2,0,0,3,1,1,0,1,0.3333333333333333,2,0
+1,2,2,1,1,education sector,teaching,teacher,2,0,0,0,0,1,1,1,0,0,1,2,0,2,2,1,2,0,1,1,0,2,2,0,0,1,1.0,0,0
+0,1,1,1,1,medical sector,customers service,receptionist,1,0,1,0,0,1,1,1,0,1,1,2,1,2,2,2,2,0,0,1,0,3,2,0,0,1,0.5,0,0
+1,2,3,2,2,education sector,administration,manger assistant,2,3,1,1,1,3,1,1,2,1,1,3,1,3,2,2,2,1,1,1,0,2,2,0,1,0,0.6666666666666666,0,0
+0,3,2,3,2,medical sector,patient affairs,pharmacist,1,1,1,1,1,3,1,0,1,1,3,3,1,2,2,2,2,0,0,1,0,2,2,1,1,0,0.25,1,1
+1,2,2,1,1,education sector,teaching,teacher,1,0,0,0,1,2,0,0,1,1,1,1,1,2,2,3,2,2,2,0,0,2,2,1,1,0,0.5,1,0
+1,2,2,1,1,medical sector,patient affairs,dentist,2,2,0,1,0,1,1,1,0,0,1,3,1,3,3,1,2,1,0,1,0,3,3,1,1,0,1.0,0,0
+0,1,2,2,2,food production sector,administration,supervisor,3,2,1,1,1,3,1,1,3,1,2,3,1,3,2,1,2,0,0,1,0,3,3,0,0,1,1.0,0,0
+0,2,3,2,2,food production sector,administration,administrative manager,2,2,1,0,1,3,0,0,1,1,2,2,0,2,2,2,2,2,2,0,0,2,1,1,1,0,0.6666666666666666,1,0
+0,3,1,4,4,medical sector,administration,administrative manager,3,3,0,1,0,1,1,1,1,1,1,3,1,3,2,2,2,0,0,1,0,3,3,1,1,0,0.6,1,0
+1,2,2,3,1,medical sector,patient affairs,radiographer,1,0,1,0,0,3,1,1,3,1,1,3,1,3,1,2,2,0,0,0,0,3,3,1,1,0,0.25,3,2
+1,1,2,1,1,financial sector,sales,salesman,2,1,1,1,0,1,0,0,2,1,3,1,0,2,2,2,1,2,2,0,1,1,1,1,0,1,1.0,2,0
+1,3,4,3,3,medical sector,patient affairs,doctor,3,3,1,1,1,3,1,1,2,1,1,3,1,2,2,2,2,0,0,1,1,3,3,1,1,0,0.75,2,0
+1,2,2,2,1,education sector,safety & security,security and safety specialist,1,0,0,0,1,2,0,0,0,0,1,1,0,1,2,2,1,2,2,0,0,1,1,0,0,1,0.3333333333333333,0,1
+1,3,1,1,1,food production sector,sales,salesman,1,0,1,0,1,3,0,0,0,0,1,2,1,3,2,1,2,1,1,0,0,3,2,0,1,0,0.5,0,0
+0,2,1,3,1,communications and it sector,customers service,customer services representative,1,2,1,0,0,1,0,0,1,1,1,2,0,1,1,3,1,2,2,0,0,1,1,0,1,0,0.25,0,2
+1,3,3,1,1,education sector,administration,administrative manager,3,0,1,0,0,1,1,1,3,1,1,3,1,3,3,2,2,0,0,1,1,2,3,1,1,0,1.5,3,0
+0,1,2,1,1,medical sector,patient affairs,doctor,7,3,1,1,1,3,1,1,1,1,3,3,1,3,2,3,1,2,0,0,0,2,2,0,0,1,3.5,0,0
+0,1,2,2,1,food production sector,accounting,accountant,1,0,0,0,0,1,1,0,0,0,1,2,1,2,2,1,3,1,2,0,0,2,2,0,1,0,0.3333333333333333,0,1
+0,3,2,1,1,medical sector,relations,relations manager,2,2,1,0,0,2,0,0,0,0,3,1,0,1,2,2,2,1,1,0,0,2,1,1,1,0,1.0,0,0
+1,3,1,2,2,food production sector,production,production supervisor,1,0,0,0,0,2,0,0,0,0,1,2,0,1,2,2,2,2,2,0,1,1,1,1,1,0,0.3333333333333333,0,0
+0,1,2,1,1,engineering consulting companies,processes,civil engineer,2,3,1,0,0,1,1,1,1,1,1,2,1,3,3,1,3,0,1,1,0,2,2,1,1,0,1.0,1,0
+1,2,2,2,2,medical sector,patient affairs,nurse,2,3,1,1,1,3,1,1,2,1,2,2,1,3,2,2,2,0,2,1,0,3,2,1,1,0,0.6666666666666666,2,0
+1,2,2,2,2,education sector,teaching,teacher,1,0,0,0,0,1,0,0,1,1,1,1,0,2,1,2,2,2,2,0,0,2,1,0,1,0,0.3333333333333333,0,0
+0,1,1,2,1,transport sector,hr,hr specialist,2,2,1,0,1,2,0,0,0,0,3,2,1,3,1,2,2,0,2,1,1,3,3,1,0,1,0.6666666666666666,0,1
+0,2,2,3,2,medical sector,patient affairs,doctor,1,1,1,0,1,3,1,1,1,1,2,2,1,2,2,2,2,1,1,0,0,2,2,1,1,0,0.25,1,1
+1,1,2,3,3,"environment, water, and agriculture sector",hr,hr specialist,2,2,1,1,0,1,1,1,2,1,1,3,1,3,2,2,2,1,0,1,0,3,3,0,1,0,0.5,0,0
+0,1,3,2,1,"environment, water, and agriculture sector",accounting,accountant,2,1,1,0,0,1,0,1,1,1,1,2,1,2,2,2,2,2,2,0,0,2,2,1,1,0,0.6666666666666666,1,1
+0,1,1,2,2,communications and it sector,customers service,customer services representative,2,0,1,1,0,1,1,0,2,1,1,2,0,2,2,1,1,1,1,1,0,2,2,0,0,1,0.6666666666666666,0,0
+0,2,2,1,1,"environment, water, and agriculture sector",customers service,receptionist,2,0,0,0,0,1,0,0,0,0,1,1,1,2,2,2,3,1,1,0,1,2,1,0,1,0,1.0,0,0
+0,2,2,2,1,economic sector,processes,operations supervisor,2,0,1,0,1,3,0,0,2,1,1,2,1,2,2,1,2,0,1,0,0,2,2,1,1,0,0.6666666666666666,2,1
+0,2,2,2,1,engineering consulting companies,processes,civil engineer,1,0,0,0,0,2,0,0,0,0,1,1,0,1,2,2,3,2,1,0,0,1,1,0,0,1,0.3333333333333333,0,1
+1,2,3,1,1,medical sector,patient affairs,nurse,3,2,1,0,1,3,1,1,3,1,2,3,1,3,2,2,2,0,0,1,0,3,2,1,1,0,1.5,3,0
+0,2,3,2,2,medical sector,patient affairs,nurse,1,3,0,0,0,1,0,1,0,0,1,2,1,2,1,2,1,0,0,1,0,3,2,0,0,1,0.3333333333333333,0,0
+0,2,3,3,2,communications and it sector,information technology,cybersecurity director,3,1,0,0,1,3,0,1,2,1,2,1,1,2,2,3,3,1,2,1,0,3,2,1,1,0,0.75,2,1
+1,1,1,2,2,food production sector,sales,supervisor,1,3,1,0,1,3,0,0,1,0,1,1,0,1,1,2,1,2,2,0,0,1,1,1,1,0,0.3333333333333333,1,0
+1,2,2,2,2,transport sector,customers service,customer services representative,2,3,1,1,1,3,1,1,3,1,1,3,1,3,2,2,2,1,0,1,0,3,3,0,1,0,0.6666666666666666,0,0
+0,1,2,1,1,transport sector,hr,hr specialist,2,2,1,0,0,2,1,0,1,1,2,1,0,1,1,1,2,2,2,0,0,2,1,0,0,1,1.0,0,0
+1,1,1,1,1,education sector,safety & security,security and safety specialist,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,3,1,1,0,0,2,1,0,0,1,0.5,0,0
+0,2,3,1,1,medical sector,patient affairs,nurse,2,4,1,1,1,3,1,1,3,1,2,3,1,3,1,2,2,1,1,1,1,3,3,1,1,0,1.0,3,0
+0,2,1,2,1,food production sector,sales,salesman,1,1,1,1,1,3,1,0,1,1,3,2,1,3,3,1,1,0,1,1,0,2,2,1,1,0,0.3333333333333333,1,1
+1,1,1,1,1,food production sector,sales,salesman,1,3,1,0,1,3,1,0,1,1,1,2,1,3,3,2,2,1,1,1,0,2,2,1,0,1,0.5,1,0
+0,3,2,2,2,education sector,teaching,teacher,1,2,1,0,0,1,1,1,2,1,1,3,1,3,2,1,3,1,0,1,0,3,3,1,1,0,0.3333333333333333,2,0
+0,2,2,2,2,education sector,teaching,teacher,2,4,1,1,1,2,1,1,3,1,2,3,1,3,2,2,2,0,0,1,1,2,2,1,1,0,0.6666666666666666,3,0
+1,1,2,1,1,medical sector,patient affairs,nurse,1,0,1,0,0,3,0,0,1,0,1,1,1,2,2,1,1,2,1,1,0,2,2,1,0,1,0.5,1,0
+0,1,2,1,1,communications and it sector,sales,sales executive,2,0,1,1,0,1,0,0,1,1,1,3,1,3,2,2,2,1,1,1,0,3,2,1,0,1,1.0,1,0
+1,2,2,1,1,medical sector,patient affairs,doctor,1,0,0,0,1,2,0,0,1,1,1,3,1,3,2,1,2,1,1,1,0,2,2,1,1,0,0.5,1,0
+1,2,2,2,2,financial sector,sales,sales executive,2,2,1,0,0,1,0,0,0,0,2,1,0,1,1,2,1,2,2,1,1,1,1,0,0,1,0.6666666666666666,0,0
+0,2,2,2,2,education sector,teaching,teacher,2,2,1,1,1,3,1,1,1,1,1,3,1,3,2,2,2,2,0,1,0,3,3,1,0,1,0.6666666666666666,1,0
+0,2,2,2,2,food production sector,administration,supervisor,3,1,1,1,1,3,1,1,2,1,2,2,1,3,2,1,3,0,0,1,0,2,2,0,1,0,1.0,0,0
+1,2,2,1,1,education sector,teaching,teacher,1,0,0,0,0,1,0,0,3,1,1,1,1,3,1,2,1,1,1,0,1,1,2,0,1,0,0.5,0,0
+0,1,2,2,2,transport sector,relations,relationships specialist,2,3,1,1,1,3,1,1,3,1,3,3,1,3,3,1,3,1,0,1,0,2,3,0,1,0,0.6666666666666666,0,0
+1,1,3,1,1,law firm,legal affairs,lawyer,1,1,0,0,0,2,0,0,1,1,1,2,0,2,2,1,1,2,2,0,0,2,1,0,0,1,0.5,0,0
+0,2,3,2,1,transport sector,processes,operations supervisor,3,1,1,1,1,2,1,1,2,1,2,3,1,2,2,3,1,1,1,0,1,2,2,1,1,0,1.0,2,1
+1,2,3,2,2,education sector,teaching,lecturer,2,1,0,0,0,1,0,0,2,1,1,2,1,2,1,2,2,1,1,0,0,2,2,1,1,0,0.6666666666666666,2,0
+1,1,2,1,1,medical sector,customers service,customer services representative,1,1,1,0,0,1,0,0,0,0,1,2,0,2,2,1,2,1,0,1,0,1,2,0,1,0,0.5,0,0
+0,1,2,1,1,financial sector,banking operations,banking operations,2,2,1,1,1,1,0,0,1,1,1,3,1,2,3,2,3,1,1,0,0,2,2,1,0,1,1.0,1,0
+0,2,2,3,1,financial sector,customers service,customer services representative,1,2,1,0,1,3,0,0,0,0,1,1,0,1,3,2,2,2,1,0,0,2,1,1,0,1,0.25,0,2
+0,2,2,1,1,transport sector,production,production supervisor,2,3,1,1,1,3,1,1,1,1,1,3,1,3,2,2,2,1,0,1,1,2,2,0,1,0,1.0,0,0
+1,2,2,1,1,industry sector,production,production supervisor,1,1,0,0,0,1,0,0,0,0,1,1,0,1,3,2,2,1,1,0,0,1,1,1,0,1,0.5,0,0
+0,1,2,1,1,economic sector,sales,sales representative,1,1,0,0,0,1,0,0,0,0,1,1,0,1,1,3,1,2,2,0,1,1,1,0,0,1,0.5,0,0
+0,2,1,3,2,financial sector,sales,consultant,2,3,1,0,0,1,0,0,1,0,1,3,1,1,2,1,2,2,2,0,0,3,1,0,1,0,0.5,0,1
+0,2,2,3,3,industry sector,processes,data entry operator,3,1,0,1,0,3,1,1,0,0,1,2,1,2,2,2,2,1,2,1,0,2,2,0,0,1,0.75,0,0
+1,2,2,2,2,education sector,administration,administrative manager,3,4,1,1,1,3,1,1,3,1,1,3,1,3,2,2,2,1,1,1,0,3,3,0,1,0,1.0,0,0
+1,1,2,1,1,medical sector,patient affairs,data entry operator,1,0,1,0,0,1,0,0,1,1,2,2,1,3,2,1,2,1,1,0,0,2,2,1,0,1,0.5,1,0
+0,1,2,2,2,transport sector,processes,passenger services assistant,2,2,1,1,1,3,0,0,1,1,3,2,1,3,3,3,1,2,2,0,0,2,2,1,0,1,0.6666666666666666,1,0
+1,1,2,1,1,education sector,teaching,teacher,2,0,0,0,0,1,0,0,3,0,1,1,1,2,2,2,2,0,0,0,0,2,3,0,0,1,1.0,0,0
+0,1,1,2,1,food production sector,technical support,it specialist,2,1,1,0,1,2,0,0,1,1,2,2,1,2,1,2,2,0,1,0,0,2,2,1,0,1,0.6666666666666666,1,1
+1,1,2,2,1,financial sector,accounting,accountant,2,2,1,1,1,3,0,0,1,0,1,1,1,1,2,2,1,1,2,0,0,1,1,1,0,1,0.6666666666666666,1,1
+1,1,2,1,1,communications and it sector,customers service,customer services representative,1,2,1,1,0,1,0,0,1,1,1,3,1,2,2,1,3,2,1,0,0,2,1,1,0,1,0.5,1,0
+1,2,2,3,2,education sector,teaching,teacher,1,1,1,0,0,1,0,0,1,1,1,1,0,2,2,1,2,2,0,0,0,2,1,1,1,0,0.25,1,1
+1,1,2,1,1,medical sector,processes,data entry operator,2,3,1,1,0,1,0,0,0,0,1,1,0,2,2,2,2,2,2,0,0,2,2,0,0,1,1.0,0,0
+1,1,1,1,1,medical sector,processes,operations supervisor,1,0,0,0,0,1,0,0,0,0,1,1,0,1,3,1,2,1,1,0,1,1,1,0,0,1,0.5,0,0
+1,1,2,1,1,industry sector,information technology,application specialist,1,1,1,0,1,2,0,0,0,0,1,1,0,2,2,2,2,2,2,0,1,1,1,0,0,1,0.5,0,0
+0,1,2,1,1,financial sector,sales,sales executive,2,1,1,0,0,1,1,0,1,1,2,2,1,2,1,2,3,0,1,0,0,2,2,0,0,1,1.0,0,0
+1,1,2,1,1,education sector,teaching,teacher,1,0,0,0,0,1,0,0,0,0,1,1,0,1,2,2,2,2,2,0,0,1,1,0,0,1,0.5,0,0
+1,1,2,1,1,food production sector,sales,salesman,1,1,1,0,1,3,0,0,0,0,1,2,0,1,1,2,2,2,1,1,0,2,2,0,0,1,0.5,0,0
+0,2,2,1,1,financial sector,accounting,accountant,2,1,1,0,0,1,1,0,0,0,1,2,1,1,1,1,2,0,0,1,0,3,2,0,1,0,1.0,0,0
+1,1,1,2,2,medical sector,customers service,receptionist,2,0,0,0,0,1,1,1,0,1,1,3,1,2,2,1,2,1,0,1,1,2,2,0,0,1,0.6666666666666666,0,0
+1,1,2,1,1,financial sector,customers service,customer services representative,2,2,1,1,1,3,1,1,3,1,2,2,1,3,2,2,2,0,0,1,0,3,3,0,1,0,1.0,0,0
+0,3,3,3,1,medical sector,administration,administrative manager,2,1,1,0,0,2,0,0,0,0,1,2,1,3,3,3,2,0,2,0,0,2,2,0,1,0,0.5,0,2
+1,2,2,2,2,medical sector,patient affairs,nurse,1,1,1,0,1,3,1,1,2,1,1,3,1,3,3,2,3,1,1,1,0,3,3,1,1,0,0.3333333333333333,2,0
+1,1,3,1,1,medical sector,accounting,accountant,3,2,1,1,0,1,1,1,1,1,2,2,1,2,2,2,2,0,0,1,0,2,2,0,0,1,1.5,0,0
+1,2,2,1,1,financial sector,banking operations,banking operations,2,2,1,1,0,1,0,0,1,1,2,2,0,3,2,1,2,2,2,0,0,1,2,0,1,0,1.0,0,0
+1,2,1,1,1,education sector,teaching,teacher,1,0,0,0,0,1,0,0,0,0,1,1,1,2,2,1,2,1,0,0,0,3,3,1,1,0,0.5,0,0
+0,1,2,1,1,medical sector,patient affairs,pharmacist,2,1,1,0,1,3,0,0,3,1,1,3,0,3,3,3,3,2,2,1,0,3,3,1,0,1,1.0,3,0
+1,2,2,2,2,education sector,teaching,teacher,2,0,1,0,0,1,0,1,0,1,1,1,1,2,2,2,2,0,0,1,0,2,2,0,1,0,0.6666666666666666,0,0
+1,2,3,2,1,education sector,teaching,teacher,1,0,0,1,0,1,0,0,1,1,1,1,1,3,2,2,1,2,2,0,0,2,2,0,1,0,0.3333333333333333,0,1
+1,1,1,1,1,communications and it sector,customers service,customer services representative,1,0,0,0,0,1,0,0,3,0,1,1,1,2,2,1,3,0,0,0,0,2,1,0,1,0,0.5,0,0
+1,3,1,1,1,food production sector,safety & security,security and safety specialist,1,0,0,0,0,2,0,1,0,0,1,2,1,3,3,1,3,1,2,1,0,3,3,1,1,0,0.5,0,0
+0,1,1,1,1,economic sector,relations,relationships specialist,2,0,1,0,0,1,0,0,2,1,1,2,1,2,2,3,2,0,1,0,0,2,2,0,0,1,1.0,0,0
+0,2,3,2,2,education sector,teaching,teacher,2,4,1,1,1,3,1,1,3,1,1,3,1,3,2,2,2,0,0,1,0,2,3,1,1,0,0.6666666666666666,3,0
+1,1,2,1,1,medical sector,patient affairs,nurse,2,1,0,0,1,3,0,0,1,0,1,2,0,2,3,3,2,1,1,1,0,2,2,0,0,1,1.0,0,0
+0,1,2,1,1,communications and it sector,sales,sales representative,2,1,0,0,1,2,0,0,3,0,1,1,0,2,2,2,3,1,2,0,0,2,2,0,0,1,1.0,0,0
+0,2,1,2,1,communications and it sector,technical support,it specialist,1,0,1,0,0,1,0,0,2,1,2,1,0,2,2,1,2,1,1,0,0,2,2,0,0,1,0.3333333333333333,0,1
+0,2,3,2,1,energy sector,administration,administrative manager,3,1,1,1,1,3,1,1,1,1,3,3,1,3,3,3,1,2,2,1,1,3,3,1,1,0,1.0,1,1
+1,3,2,6,6,education sector,administration,administrative manager,4,0,0,0,0,1,0,0,2,1,2,2,1,3,3,1,3,0,1,1,0,3,3,0,0,0,0.5714285714285714,0,0
+0,3,2,4,1,food production sector,processes,quality controller,2,0,0,0,0,2,0,0,0,0,2,1,0,3,1,2,1,2,2,0,0,1,1,0,1,0,0.4,0,3
+0,3,2,1,1,financial sector,banking operations,banking operations,2,2,1,1,0,1,0,0,1,1,2,3,0,3,3,1,3,0,2,1,0,3,3,0,1,0,1.0,0,0
+1,2,2,2,2,education sector,teaching,teacher,2,1,0,0,0,2,0,0,2,0,1,1,0,1,3,2,2,0,0,0,0,1,1,0,1,0,0.6666666666666666,0,0
+1,1,1,1,1,transport sector,sales,purchase specialist,1,3,1,1,1,3,1,1,3,1,2,3,1,2,3,1,3,1,1,0,0,2,2,1,0,1,0.5,3,0
+0,1,3,1,1,energy sector,information technology,it specialist,3,2,1,0,1,3,0,0,0,0,1,1,1,3,2,2,1,1,2,0,0,2,2,1,0,1,1.5,0,0
+0,2,2,2,2,medical sector,patient affairs,pharmacist,2,1,1,0,1,3,0,0,3,1,1,1,0,1,2,2,1,2,2,0,0,1,1,0,1,0,0.6666666666666666,0,0
+0,1,2,1,1,education sector,teaching,teacher,2,0,0,0,0,1,1,0,0,0,1,2,1,1,3,1,3,1,1,1,0,2,3,0,1,0,1.0,0,0
+0,1,2,2,2,communications and it sector,customers service,customer services representative,2,1,1,0,1,2,0,0,1,1,1,2,1,2,2,3,1,2,2,0,1,2,2,0,0,1,0.6666666666666666,0,0
+1,1,1,2,2,food production sector,sales,sales representative,1,2,1,1,1,3,0,1,2,1,1,2,1,2,2,2,2,2,2,0,0,1,2,1,0,1,0.3333333333333333,2,0
+1,2,2,2,1,education sector,teaching,teacher,1,0,1,0,0,1,0,0,0,0,1,1,1,3,2,1,1,2,1,0,1,2,2,0,1,0,0.3333333333333333,0,1
+0,1,1,1,1,medical sector,customers service,receptionist,2,0,1,0,1,3,1,1,2,1,1,3,1,3,2,2,2,0,0,1,0,2,2,0,0,1,1.0,0,0
+0,2,2,3,3,transport sector,administration,administrative manager,3,1,1,1,1,3,1,1,0,1,2,3,1,3,2,2,2,1,1,1,0,2,2,1,1,0,0.75,0,0
+1,1,2,1,1,medical sector,patient affairs,doctor,2,1,1,0,0,2,0,0,0,0,1,2,0,2,2,1,1,2,2,0,0,2,1,0,1,0,1.0,0,0
+1,3,4,4,4,medical sector,administration,supervisor,4,4,1,1,1,3,1,1,3,1,1,3,1,3,2,2,3,1,1,1,0,3,3,0,1,0,0.8,0,0
+1,1,2,1,1,medical sector,hr,hr specialist,2,2,1,1,0,1,0,0,1,1,1,1,0,1,1,1,1,2,2,1,0,2,1,0,0,1,1.0,0,0
+0,1,1,1,1,"environment, water, and agriculture sector",processes,driver,1,1,1,1,1,3,1,1,1,1,3,1,1,1,3,1,3,2,2,1,1,1,3,1,1,0,0.5,1,0
+0,2,2,2,1,energy sector,processes,electrical engineer,3,2,1,1,1,3,1,0,0,0,1,2,1,3,2,3,2,1,1,0,0,3,2,0,0,1,1.0,0,1
+1,1,1,2,1,medical sector,customers service,customer services representative,2,0,1,1,0,1,0,0,1,1,1,2,1,2,1,2,1,1,1,0,0,2,2,1,0,1,0.6666666666666666,1,1
+1,1,2,2,2,education sector,teaching,teacher,2,0,0,0,0,1,1,0,0,0,1,2,0,2,2,3,2,0,0,0,0,1,2,0,0,1,0.6666666666666666,0,0
+1,1,2,3,2,communications and it sector,customers service,supervisor,1,2,1,0,0,1,0,0,0,0,1,1,0,1,2,3,2,0,1,0,0,1,3,1,1,0,0.25,0,1
+0,2,1,3,1,financial sector,safety & security,security and safety specialist,1,1,0,0,0,1,1,0,0,0,1,3,1,3,2,2,3,2,0,0,1,3,2,0,1,0,0.25,0,2
+0,1,2,1,1,economic sector,administration,manger assistant,2,1,1,1,0,1,1,0,1,1,1,3,1,2,1,2,2,0,0,1,1,2,2,1,0,1,1.0,1,0
+1,2,1,1,1,economic sector,sales,salesman,1,1,1,1,0,1,1,1,1,1,1,2,0,2,1,2,3,2,2,1,0,2,2,1,1,0,0.5,1,0
+1,2,3,2,1,food production sector,administration,administrative manager,2,2,1,0,1,2,1,0,0,0,2,2,0,3,1,3,1,0,2,0,0,2,2,0,0,1,0.6666666666666666,0,1
+1,1,1,1,1,financial sector,sales,sales representative,2,2,0,0,0,1,0,0,1,1,1,3,1,3,2,2,2,1,1,0,0,3,1,1,0,1,1.0,1,0
+0,2,4,3,3,medical sector,administration,administrative manager,3,3,1,1,1,3,1,1,2,1,1,3,1,3,2,1,3,1,0,1,1,3,3,0,1,0,0.75,0,0
+1,1,1,1,1,medical sector,customers service,receptionist,1,0,0,0,0,1,0,0,0,0,1,2,0,2,1,2,2,1,2,0,0,2,1,0,0,1,0.5,0,0
+0,1,2,1,1,medical sector,patient affairs,doctor,1,1,1,0,1,3,0,0,0,0,3,1,0,1,2,2,2,2,2,0,0,2,1,1,0,1,0.5,0,0
+1,1,2,1,1,medical sector,patient affairs,doctor,1,1,0,1,1,3,0,1,1,1,2,2,1,2,2,3,2,2,2,1,1,2,2,1,0,1,0.5,1,0
+1,2,2,4,1,education sector,teaching,teacher,1,0,0,0,0,3,0,0,1,1,1,1,0,1,2,1,2,1,2,0,1,1,1,1,0,0,0.2,1,3
+0,1,1,2,2,financial sector,accounting,admin accountant,2,1,1,1,1,3,0,1,2,1,1,2,0,2,2,1,2,0,1,0,0,2,2,1,1,0,0.6666666666666666,2,0
+1,1,2,1,1,tourism sector,administration,supervisor,1,0,0,0,0,1,0,0,0,0,1,2,1,2,2,2,1,2,1,0,0,2,3,1,0,1,0.5,0,0
+1,1,1,1,1,communications and it sector,customers service,customer services representative,2,0,1,1,1,3,0,0,1,1,1,2,0,1,1,2,2,0,0,0,0,2,2,0,0,1,1.0,0,0
+1,2,2,1,1,medical sector,hr,hr specialist,2,2,1,0,0,1,1,1,1,1,1,1,1,3,2,3,2,1,1,1,0,3,2,0,1,0,1.0,0,0
+0,3,2,3,3,education sector,accounting,accountant,1,2,1,1,1,3,0,0,0,0,1,1,0,3,1,3,2,2,2,0,0,2,2,1,1,0,0.25,0,0
+1,1,2,1,1,food production sector,administration,administrative manager,1,3,1,0,1,2,0,0,0,0,1,1,0,2,2,1,2,2,2,0,0,2,1,1,0,1,0.5,0,0
+0,2,2,2,1,energy sector,processes,engineer,3,2,1,0,0,1,0,0,0,0,1,2,0,1,2,3,2,0,0,0,0,3,2,1,0,1,1.0,0,1
+0,2,2,2,1,financial sector,hr,hiring specialist,2,1,1,1,1,3,1,1,1,1,1,3,1,2,2,2,2,0,1,1,0,3,3,1,0,1,0.6666666666666666,1,1
+0,2,3,2,2,financial sector,hr,hiring specialist,3,1,1,1,0,1,1,1,2,1,2,2,1,2,2,1,2,0,1,1,0,2,2,1,1,0,1.0,2,0
+1,1,2,1,1,education sector,administration,manger assistant,1,0,0,0,0,1,0,0,0,0,1,1,1,2,2,2,3,1,2,0,0,1,2,0,0,1,0.5,0,0
+1,2,2,1,1,medical sector,patient affairs,doctor,7,2,0,0,1,3,1,1,1,1,1,2,1,2,2,3,2,1,1,1,0,2,2,1,1,0,3.5,1,0
+0,1,2,1,1,financial sector,accounting,accountant,3,2,1,0,1,2,0,0,0,0,1,2,1,2,2,2,2,1,1,1,0,3,2,1,0,1,1.5,0,0
+1,1,2,2,1,education sector,teaching,teacher,1,0,1,0,1,2,0,0,2,1,1,1,0,3,3,2,3,2,2,0,0,2,2,1,1,0,0.3333333333333333,2,1
+1,1,2,1,1,communications and it sector,customers service,customer services representative,1,1,0,1,0,1,0,0,0,0,2,1,0,1,2,1,3,2,2,0,1,1,1,1,0,1,0.5,0,0
+0,1,2,1,1,medical sector,patient affairs,pharmacist,1,2,1,0,1,3,0,0,1,1,1,2,0,1,2,1,1,2,2,0,1,2,1,0,0,1,0.5,0,0
+1,2,2,2,2,media sector,administration,administrative manager,3,1,1,1,1,3,1,1,1,1,3,3,1,2,3,3,1,0,1,1,1,3,3,1,1,0,1.0,1,0
+0,2,1,3,3,financial sector,administration,administrative manager,2,0,1,0,0,1,1,1,0,0,2,2,1,3,3,1,2,0,0,1,0,3,3,0,1,0,0.5,0,0
+1,1,3,1,1,education sector,teaching,teacher,1,0,1,0,0,1,0,0,1,0,1,1,0,1,2,2,1,2,2,0,0,1,1,0,0,1,0.5,0,0
+0,1,2,1,1,food production sector,processes,quality specialist,3,2,1,1,0,1,0,0,0,0,1,2,1,3,3,1,2,1,0,1,0,3,2,1,0,1,1.5,0,0
+1,2,1,1,1,medical sector,patient affairs,nurse,1,0,0,0,1,3,1,1,0,1,1,3,1,2,2,1,3,0,1,0,0,1,1,1,0,1,0.5,0,0
+1,2,2,2,2,education sector,administration,administrative manager,2,0,1,0,0,1,1,1,3,1,1,2,1,3,3,1,3,1,0,1,0,2,2,0,1,0,0.6666666666666666,0,0
+1,1,2,1,1,communications and it sector,customers service,customer services representative,1,0,1,0,0,1,0,0,1,1,1,2,1,3,1,3,1,0,0,1,0,3,2,1,0,1,0.5,1,0
+0,3,1,3,1,medical sector,safety & security,security and safety specialist,1,2,1,0,1,3,1,0,0,0,1,1,1,2,2,2,3,0,2,1,1,2,2,0,1,0,0.25,0,2
+1,1,2,2,1,food production sector,sales,salesman,1,2,1,1,1,3,0,0,1,1,1,2,0,2,2,1,2,2,2,0,0,2,1,1,0,1,0.3333333333333333,1,1
+0,2,2,2,2,industry sector,administration,administrative manager,2,1,1,1,1,3,1,1,1,1,2,3,1,3,2,1,3,0,2,1,0,3,3,0,1,0,0.6666666666666666,0,0
+1,1,2,1,1,engineering consulting companies,hr,hr specialist,1,2,0,0,0,1,0,0,0,0,1,1,0,1,1,2,3,0,2,0,0,1,1,0,0,1,0.5,0,0
+0,3,2,2,2,education sector,teaching,teacher,1,2,1,0,0,2,0,0,1,1,1,2,1,2,2,1,2,2,2,0,0,2,2,0,1,0,0.3333333333333333,0,0
+1,2,2,2,2,medical sector,patient affairs,nurse,1,0,0,0,0,1,0,0,0,0,1,1,0,1,2,2,2,1,1,0,0,1,1,0,1,0,0.3333333333333333,0,0
+0,1,1,1,1,food production sector,sales,sales executive,1,0,0,0,1,3,0,0,0,0,1,1,1,2,2,1,2,2,1,0,0,3,2,0,0,1,0.5,0,0
+0,2,3,2,2,education sector,teaching,lecturer,3,1,1,1,0,1,1,1,1,1,1,2,1,2,2,3,2,0,1,1,0,2,2,1,1,0,1.0,1,0
+1,3,1,3,3,education sector,administration,manger assistant,2,1,1,0,0,2,1,0,3,1,1,3,1,3,3,1,3,1,0,1,0,3,3,0,0,0,0.5,0,0
+1,2,2,1,1,medical sector,patient affairs,nurse,1,3,1,1,0,2,0,0,0,0,1,2,0,2,2,2,2,2,1,0,0,2,2,1,1,0,0.5,0,0
+0,1,2,1,1,medical sector,patient affairs,dentist,1,0,0,0,0,1,0,1,1,0,1,2,1,1,2,2,2,2,2,0,1,2,2,1,0,1,0.5,1,0
+0,2,2,2,2,transport sector,marketing,marketing specialist,2,2,1,0,0,1,0,0,1,1,1,2,1,3,1,3,1,2,2,0,0,2,2,1,1,0,0.6666666666666666,1,0
+1,1,1,2,2,communications and it sector,customers service,receptionist,1,1,1,1,1,1,1,1,3,1,2,3,1,3,2,2,2,1,0,1,1,2,2,1,0,1,0.3333333333333333,3,0
+0,2,1,3,3,financial sector,accounting,admin accountant,2,2,1,1,0,3,1,0,0,0,1,2,1,2,1,3,1,2,2,0,0,2,2,0,1,0,0.5,0,0
+1,1,1,2,2,food production sector,sales,supervisor,1,3,1,0,1,3,0,1,0,0,1,1,0,2,3,2,2,2,1,0,0,2,2,1,0,1,0.3333333333333333,0,0
+1,1,1,1,1,financial sector,sales,supervisor,1,1,1,0,1,2,0,0,0,0,1,2,0,2,2,3,2,2,2,1,0,2,2,0,0,1,0.5,0,0
+0,2,2,2,2,"environment, water, and agriculture sector",sales,purchase specialist,3,1,1,0,0,1,1,1,1,1,2,2,1,2,1,2,2,1,1,1,0,2,2,1,1,0,1.0,1,0
+1,1,2,1,1,medical sector,customers service,receptionist,1,0,1,1,1,3,0,0,1,0,1,1,0,1,3,1,2,2,2,0,0,1,1,1,0,1,0.5,1,0
+1,1,1,2,2,food production sector,sales,sales executive,2,3,1,1,1,3,1,1,1,1,2,2,1,2,2,2,2,2,2,1,0,2,3,1,0,1,0.6666666666666666,1,0
+1,2,2,2,1,education sector,teaching,teacher,2,1,1,0,1,2,0,0,0,0,1,1,0,1,1,2,3,2,2,0,0,2,1,1,1,0,0.6666666666666666,0,1
+1,1,2,2,1,medical sector,patient affairs,receptionist,1,1,1,0,1,3,0,0,0,0,1,2,0,1,2,2,2,1,2,0,0,1,1,0,0,1,0.3333333333333333,0,1
+0,2,2,2,2,education sector,teaching,teacher,1,0,0,0,0,1,1,0,0,0,1,2,0,2,2,2,2,0,0,1,0,2,2,0,1,0,0.3333333333333333,0,0
+0,2,1,1,1,food production sector,production,production supervisor,1,3,1,1,1,3,1,1,1,1,2,3,1,2,3,1,3,0,0,1,0,3,3,1,1,0,0.5,1,0
+1,1,2,1,1,financial sector,sales,sales representative,2,3,1,1,1,3,1,1,1,1,1,3,1,3,2,2,2,0,0,1,0,2,3,0,0,1,1.0,0,0
+1,1,1,2,1,financial sector,sales,sales representative,2,3,1,1,0,1,0,0,0,0,1,2,0,1,3,2,3,0,0,0,0,3,3,1,1,0,0.6666666666666666,0,1
+1,2,2,3,1,financial sector,marketing,marketing specialist,1,2,1,0,0,2,0,0,1,1,2,1,0,1,2,2,2,0,0,0,0,2,1,1,1,0,0.25,1,2
+1,3,2,4,4,education sector,teaching,teacher,3,1,0,0,0,1,1,1,2,1,1,2,1,2,2,1,2,1,0,1,0,2,2,0,1,0,0.6,0,0
+0,1,4,1,1,medical sector,processes,operations supervisor,2,4,1,1,1,3,1,1,2,1,2,2,1,3,2,3,2,1,0,1,0,3,2,1,1,0,1.0,2,0
+1,3,2,1,1,education sector,administration,administrative manager,1,0,0,0,0,1,1,0,0,0,1,1,0,3,2,1,2,0,1,0,0,2,1,1,1,0,0.5,0,0
+1,2,2,1,1,education sector,information technology,it specialist,1,0,0,0,0,1,0,0,0,0,1,2,0,3,2,2,1,1,1,0,0,1,1,0,1,0,0.5,0,0
+0,2,2,2,1,financial sector,banking operations,banking operations,2,2,1,0,1,1,0,0,1,0,1,1,0,1,1,3,2,2,1,0,0,1,1,1,1,0,0.6666666666666666,1,1
+0,1,1,1,1,food production sector,accounting,accountant,1,2,1,0,1,3,0,0,1,1,1,2,1,3,2,2,2,2,0,0,0,3,2,1,0,1,0.5,1,0
+0,1,2,2,1,financial sector,administration,financial manager,3,2,1,1,0,1,1,1,1,1,1,3,1,2,3,3,2,1,1,1,0,2,2,1,0,1,1.0,1,1
+1,1,2,1,1,financial sector,banking operations,banking operations,2,2,1,1,1,1,1,1,1,1,1,2,1,2,2,2,1,2,2,0,0,1,2,1,1,0,1.0,1,0
+0,1,2,2,2,energy sector,processes,operations supervisor,2,2,1,1,1,3,1,1,3,1,1,3,1,3,2,2,3,1,0,1,0,3,3,1,1,0,0.6666666666666666,3,0
+0,2,2,2,1,medical sector,patient affairs,pharmacist,2,1,1,1,1,3,0,0,1,1,1,2,0,3,2,3,2,2,2,1,0,2,1,1,1,0,0.6666666666666666,1,1
+0,1,1,1,1,energy sector,safety & security,security and safety specialist,1,1,0,0,0,1,1,0,0,0,1,3,1,3,3,1,3,0,0,1,0,3,3,0,0,1,0.5,0,0
+1,2,2,2,2,financial sector,relations,relationships specialist,3,2,1,1,0,2,0,0,1,0,1,1,0,1,1,1,1,2,2,0,0,1,1,0,0,1,1.0,0,0
+1,2,2,1,1,medical sector,patient affairs,nurse,1,2,1,1,1,2,1,1,2,1,2,3,1,3,2,2,2,0,0,1,1,2,2,1,1,0,0.5,2,0
+1,1,2,1,1,financial sector,marketing,marketing specialist,2,2,1,1,0,1,1,0,1,1,1,2,1,3,2,1,2,0,1,1,0,2,2,0,0,1,1.0,0,0
+1,1,1,1,1,"environment, water, and agriculture sector",accounting,accountant,2,0,0,0,0,1,0,0,0,0,1,1,0,1,3,1,3,1,1,0,0,1,2,0,0,1,1.0,0,0
+1,1,3,1,1,medical sector,hr,hr specialist,2,2,1,0,0,1,0,1,1,1,1,2,0,1,2,3,1,1,1,0,0,2,2,1,0,1,1.0,1,0
+1,1,2,1,1,law firm,legal affairs,customer services representative,2,1,1,0,1,3,0,0,1,1,1,2,1,3,2,3,2,0,2,0,0,2,2,0,0,1,1.0,0,0
+1,1,2,1,1,food production sector,accounting,accountant,1,0,0,0,1,2,0,0,0,0,1,1,0,1,1,1,1,2,2,0,0,2,1,0,0,1,0.5,0,0
+1,1,1,2,1,industry sector,sales,supervisor,1,1,1,0,1,3,0,0,1,1,3,1,1,3,3,3,3,2,2,0,0,1,1,1,0,1,0.3333333333333333,1,1
+1,1,2,1,1,energy sector,accounting,accountant,2,0,1,1,0,1,0,0,1,1,1,2,1,2,2,2,1,0,0,0,0,2,2,1,0,1,1.0,1,0
+1,2,2,1,1,education sector,administration,manger assistant,1,0,1,0,1,2,0,1,0,0,1,1,1,3,2,1,2,2,0,0,0,1,2,0,1,0,0.5,0,0
+1,2,1,1,1,medical sector,processes,insurance officer,1,0,0,0,0,3,0,0,0,0,1,1,0,1,1,2,1,2,2,0,0,1,1,0,0,1,0.5,0,0
+1,2,1,2,2,food production sector,sales,salesman,1,1,1,1,1,3,0,0,1,0,1,2,0,2,2,2,2,2,2,0,0,2,1,0,0,0,0.3333333333333333,0,0
+0,1,2,2,1,medical sector,accounting,accountant,2,2,1,0,0,1,0,1,1,1,1,2,1,2,1,2,2,1,1,0,0,2,2,1,0,1,0.6666666666666666,1,1
+0,2,3,2,1,financial sector,hr,hr specialist,3,2,1,1,0,1,1,1,1,1,2,3,1,3,3,2,2,0,1,1,1,3,3,1,1,0,1.0,1,1
+0,1,2,1,1,industry sector,sales,purchase specialist,2,3,1,1,1,2,0,0,1,1,2,2,0,2,2,3,2,1,0,1,0,2,2,0,0,1,1.0,0,0
+1,1,2,1,1,industry sector,processes,quality specialist,2,2,0,0,0,1,0,0,1,1,1,2,0,3,1,3,1,2,2,0,0,2,1,0,1,0,1.0,0,0
+1,1,2,1,1,financial sector,sales,salesman,2,2,1,0,0,2,0,0,3,1,1,1,0,3,2,1,3,1,2,0,0,1,2,0,1,0,1.0,0,0
+0,1,2,2,1,food production sector,sales,purchase specialist,2,1,1,1,0,1,1,1,1,1,2,2,1,2,2,1,2,0,0,1,1,2,2,1,1,0,0.6666666666666666,1,1
+1,1,1,1,1,communications and it sector,customers service,customer services representative,1,0,0,1,1,2,1,1,2,1,1,3,1,2,2,2,1,2,1,1,0,3,3,1,0,1,0.5,2,0
+1,1,2,1,1,medical sector,patient affairs,nurse,1,0,0,0,1,2,0,0,1,1,1,1,0,2,1,1,1,1,1,0,0,1,1,0,0,1,0.5,0,0
+1,2,2,1,1,medical sector,patient affairs,nurse,1,0,1,1,0,2,1,0,1,1,1,2,1,2,2,2,2,1,1,1,0,2,2,0,0,1,0.5,0,0
+0,2,2,2,2,education sector,administration,administrative manager,2,0,1,0,1,3,1,1,0,1,1,3,1,2,2,3,1,0,1,1,0,2,2,0,1,0,0.6666666666666666,0,0
+0,1,3,2,1,financial sector,sales,sales executive,2,2,1,1,0,1,1,1,1,1,2,2,1,2,2,2,3,0,1,1,0,2,2,1,1,0,0.6666666666666666,1,1
+0,2,1,1,1,economic sector,sales,salesman,1,1,1,0,0,1,0,0,0,0,1,2,0,3,1,2,2,2,2,0,0,2,2,0,0,1,0.5,0,0
+0,1,1,1,1,transport sector,sales,purchase specialist,1,2,1,1,1,3,1,1,1,1,3,3,1,3,2,1,3,1,1,1,0,2,3,0,0,1,0.5,0,0
+0,2,1,2,2,food production sector,customers service,receptionist,2,1,1,0,0,1,1,1,1,1,1,3,1,3,2,1,2,0,0,1,1,3,3,0,1,0,0.6666666666666666,0,0
+1,3,1,4,4,education sector,administration,supervisor,1,2,1,1,0,1,1,1,2,1,1,2,1,3,3,2,2,1,0,1,0,3,3,0,1,0,0.2,0,0
+0,2,3,2,2,medical sector,patient affairs,nurse,1,3,1,1,1,3,1,1,2,1,2,3,1,3,2,2,2,0,0,1,0,2,2,1,1,0,0.3333333333333333,2,0
+0,1,1,1,1,financial sector,customers service,customer services representative,2,0,1,0,0,1,1,1,1,1,1,2,1,2,2,1,2,1,1,0,0,2,2,1,0,1,1.0,1,0
+0,1,2,1,1,education sector,teaching,teacher,1,0,0,0,0,1,0,0,0,0,1,1,0,1,2,3,2,2,1,0,0,1,1,0,0,1,0.5,0,0
+0,2,2,3,3,financial sector,hr,hr specialist,3,1,0,1,0,1,1,1,0,0,1,2,1,2,2,1,2,1,2,1,0,2,2,0,0,1,0.75,0,0
+1,1,2,1,1,medical sector,customers service,receptionist,1,0,0,0,0,1,0,0,0,0,1,1,0,1,2,1,3,1,2,0,0,1,1,0,1,0,0.5,0,0
+1,1,2,1,1,education sector,teaching,teacher,1,0,0,0,0,1,1,0,3,1,1,2,1,3,2,3,2,2,0,1,0,3,3,0,0,1,0.5,0,0
+0,1,2,1,1,medical sector,customers service,customer services representative,1,0,0,0,0,1,0,0,0,0,1,1,0,1,2,1,2,2,2,0,1,1,1,0,0,1,0.5,0,0
+0,1,2,1,1,education sector,teaching,teacher,1,0,0,0,0,1,0,0,1,0,3,3,1,3,1,3,1,0,2,1,0,3,3,1,0,1,0.5,1,0
+1,2,2,2,2,education sector,teaching,teacher,3,0,0,0,0,1,1,1,3,1,1,2,1,3,2,2,2,1,1,1,0,2,3,1,1,0,1.0,3,0
+1,1,1,1,1,economic sector,sales,sales representative,1,1,1,1,1,3,0,0,0,1,1,1,0,1,2,3,2,2,2,0,0,1,1,0,0,1,0.5,0,0
+0,1,3,1,1,medical sector,customers service,receptionist,2,2,1,1,1,3,1,1,1,1,1,3,1,3,3,1,3,1,1,1,0,2,2,0,1,0,1.0,0,0
+1,2,2,1,1,medical sector,patient affairs,nurse,1,0,1,0,0,2,1,1,0,0,2,2,1,3,3,1,3,0,0,1,0,3,3,1,0,1,0.5,0,0
+0,2,3,2,2,transport sector,accounting,accountant,3,4,1,1,1,3,1,1,3,1,3,3,1,3,3,2,2,0,0,1,0,2,3,0,1,0,1.0,0,0
+1,1,2,2,1,medical sector,information technology,application specialist,2,0,1,0,0,2,0,0,0,0,1,2,1,1,2,2,1,2,2,0,1,2,2,1,1,0,0.6666666666666666,0,1
+1,2,2,3,1,medical sector,administration,administrative manager,1,2,1,0,0,1,0,0,0,0,1,1,1,1,2,1,3,1,1,0,0,1,1,1,0,1,0.25,0,2
+0,2,4,3,1,medical sector,patient affairs,pharmacist,1,2,0,0,1,3,1,0,1,1,1,2,1,3,3,1,2,2,1,1,0,3,2,1,1,0,0.25,1,2
+1,1,2,2,1,communications and it sector,technical support,it specialist,2,1,1,0,0,1,1,0,2,1,1,2,1,2,2,3,1,2,2,0,0,2,2,1,0,1,0.6666666666666666,2,1
+1,2,2,1,1,education sector,customers service,customer services representative,1,2,1,0,0,1,0,1,1,1,2,3,1,3,3,1,2,0,1,1,0,3,3,1,1,0,0.5,1,0
+1,2,3,3,3,education sector,teaching,lecturer,2,1,0,0,0,1,0,0,2,0,1,1,0,1,3,2,1,2,2,0,0,2,1,0,0,1,0.5,0,0
+1,1,2,1,1,economic sector,sales,sales representative,1,1,1,1,1,3,0,0,1,0,1,1,0,1,1,2,2,2,2,0,1,2,1,0,0,1,0.5,0,0
+1,3,2,6,6,education sector,teaching,teacher,1,1,0,1,0,1,1,1,3,1,1,3,1,3,3,2,3,1,0,1,0,3,3,0,1,0,0.14285714285714285,0,0
+1,3,2,3,3,education sector,teaching,teacher,2,0,0,0,0,2,1,0,3,0,1,2,1,2,3,1,2,1,0,1,0,3,2,0,1,0,0.5,0,0
+0,1,2,2,1,education sector,teaching,teacher,2,0,1,0,0,1,0,0,1,0,1,1,0,1,3,2,1,2,2,0,0,2,1,0,1,0,0.6666666666666666,0,1
+0,2,3,2,2,energy sector,accounting,accountant,2,1,1,1,0,1,1,0,1,1,1,3,1,3,2,2,2,0,1,0,0,2,2,0,1,0,0.6666666666666666,0,0
+0,3,2,3,3,education sector,teaching,teacher,1,2,1,0,0,3,1,1,2,1,1,3,1,3,3,1,2,2,0,1,0,3,2,0,1,0,0.25,0,0
+1,2,2,1,1,medical sector,customers service,receptionist,2,0,1,0,0,1,1,1,2,1,1,3,1,3,3,1,2,1,1,1,0,2,2,0,1,0,1.0,0,0
+1,1,2,1,1,food production sector,sales,sales representative,1,2,1,1,1,3,0,0,1,0,1,1,1,2,2,2,2,1,1,0,0,2,2,1,0,1,0.5,1,0
+0,2,3,2,2,financial sector,accounting,admin accountant,3,1,1,1,0,1,1,1,3,1,2,2,1,3,2,3,2,0,0,1,0,2,2,1,0,1,1.0,3,0
+1,1,2,2,1,communications and it sector,sales,sales executive,2,1,1,0,0,1,0,0,1,1,1,2,1,2,2,3,1,2,1,1,1,2,2,1,1,0,0.6666666666666666,1,1
+1,1,2,1,1,medical sector,technical support,it specialist,1,0,0,0,1,2,0,0,1,1,1,1,0,1,3,3,1,2,2,0,1,1,2,0,0,1,0.5,0,0
+0,2,2,2,2,education sector,sales,sales representative,1,2,1,0,0,1,0,0,1,1,2,2,1,3,2,1,2,0,0,0,0,2,2,0,1,0,0.3333333333333333,0,0
+1,1,2,2,1,education sector,teaching,teacher,2,1,0,0,0,1,0,0,0,0,1,2,1,2,2,1,3,2,2,0,0,1,1,1,1,0,0.6666666666666666,0,1
+1,2,1,1,1,engineering consulting companies,customers service,customer services representative,1,0,1,1,1,3,0,0,0,0,1,1,0,1,2,3,2,2,2,0,1,2,1,1,0,1,0.5,0,0
+1,1,2,1,1,education sector,administration,manger assistant,1,2,1,0,1,2,1,0,1,1,1,3,1,1,1,1,3,2,0,0,0,2,2,0,1,0,0.5,0,0
+1,1,3,1,1,law firm,legal affairs,lawyer,2,1,0,0,0,1,0,0,1,1,1,2,0,1,2,2,3,0,2,1,0,3,2,1,1,0,1.0,1,0
+0,1,2,1,1,medical sector,patient affairs,pharmacist,1,1,1,0,1,3,0,0,1,0,1,2,0,2,2,2,2,2,2,0,0,2,2,0,1,0,0.5,0,0
+1,1,3,1,1,medical sector,administration,hr specialist,2,2,1,1,1,3,1,1,2,1,2,3,1,3,2,2,2,0,0,1,0,3,3,0,0,1,1.0,0,0
+0,1,2,2,2,medical sector,patient affairs,nurse,2,4,1,1,1,3,1,1,2,1,2,3,1,3,2,2,2,0,0,1,0,3,3,1,0,1,0.6666666666666666,2,0
+0,3,2,4,4,education sector,teaching,teacher,1,2,1,0,0,2,1,0,1,1,2,2,1,3,2,1,3,1,0,0,0,3,2,0,1,0,0.2,0,0
+0,1,2,1,1,education sector,teaching,teacher,1,1,1,0,0,2,0,0,1,1,2,2,0,2,2,2,2,2,2,1,0,2,2,0,0,1,0.5,0,0
+0,2,2,2,2,economic sector,processes,scribe,2,1,0,0,1,3,0,0,0,0,1,2,0,2,1,1,2,1,1,0,0,1,1,1,0,0,0.6666666666666666,0,0
+0,2,3,2,2,education sector,teaching,teacher,1,0,1,1,0,1,1,1,3,1,1,2,1,3,1,1,3,1,0,1,0,2,3,0,1,0,0.3333333333333333,0,0
+0,1,2,2,2,transport sector,technical support,engineer,2,4,1,1,1,3,1,1,0,1,1,3,1,3,2,2,2,0,0,1,0,2,3,0,1,0,0.6666666666666666,0,0
+1,1,1,1,1,medical sector,customers service,receptionist,1,0,0,0,0,1,0,0,0,0,1,1,0,2,2,2,2,1,1,0,0,2,1,0,0,1,0.5,0,0
+0,2,1,3,1,financial sector,customers service,customer services representative,2,2,1,0,0,2,0,0,1,1,2,2,1,1,1,1,1,2,2,0,0,3,3,0,1,0,0.5,0,2
+0,1,4,2,2,education sector,teaching,teacher,3,0,0,0,1,2,0,0,0,0,1,1,0,3,2,2,2,0,0,1,0,2,2,0,1,0,1.0,0,0
+0,1,1,2,2,transport sector,customers service,customer services representative,2,2,1,1,1,3,1,1,1,1,1,3,1,2,2,2,2,1,1,0,0,2,2,0,1,0,0.6666666666666666,0,0
+0,1,1,1,1,financial sector,sales,sales representative,2,1,1,0,0,2,1,1,1,1,1,3,1,2,2,1,2,0,1,0,1,3,2,1,0,1,1.0,1,0
+1,1,1,1,1,medical sector,customers service,receptionist,1,0,1,0,0,1,1,1,0,1,1,3,1,2,2,2,2,1,1,1,0,2,2,0,0,1,0.5,0,0
+1,1,2,1,1,medical sector,patient affairs,nurse,1,1,1,1,1,1,1,1,0,1,1,2,1,3,2,1,3,1,0,1,0,2,2,0,1,0,0.5,0,0
+1,1,2,1,1,economic sector,sales,salesman,1,1,1,0,0,1,0,0,0,0,1,1,0,1,3,2,1,2,2,0,0,1,1,0,0,1,0.5,0,0
+1,2,2,2,2,medical sector,administration,administrative manager,3,1,1,1,1,3,1,1,2,1,2,3,1,2,2,1,2,1,1,1,0,2,2,1,1,0,1.0,2,0
+1,1,2,2,2,education sector,teaching,teacher,2,0,1,0,0,1,1,1,3,1,1,3,1,2,2,1,3,1,1,1,0,1,3,0,0,1,0.6666666666666666,0,0
+0,1,2,1,1,economic sector,accounting,accountant,1,0,0,0,0,2,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,2,2,1,0,1,0.5,0,0
+1,1,3,2,2,financial sector,administration,financial manager,3,3,1,1,1,3,1,1,2,1,1,3,1,2,2,2,2,1,0,1,0,2,2,0,1,0,1.0,0,0
+0,1,2,1,1,"environment, water, and agriculture sector",safety & security,security and safety specialist,1,0,0,0,1,3,0,0,1,1,1,2,1,2,1,3,1,2,2,0,0,1,1,1,1,0,0.5,1,0
+0,3,3,2,2,energy sector,processes,electrical engineer,4,2,1,1,1,3,0,0,1,0,2,2,0,1,2,1,3,0,2,1,0,2,2,0,1,0,1.3333333333333333,0,0
+1,2,2,2,2,medical sector,patient affairs,doctor,2,2,1,0,0,2,0,1,0,0,2,2,1,2,2,2,2,2,2,0,1,2,2,0,0,1,0.6666666666666666,0,0
+0,1,2,1,1,medical sector,patient affairs,pharmacist,2,2,1,1,1,3,1,1,2,1,2,3,0,3,2,2,3,2,2,0,0,2,2,0,1,0,1.0,0,0
+1,2,2,2,1,financial sector,hr,hr specialist,1,1,0,0,0,1,0,0,3,0,1,1,0,3,2,3,3,0,0,0,0,3,1,1,0,1,0.3333333333333333,3,1
+0,1,2,1,1,medical sector,processes,operations supervisor,2,2,1,0,1,2,0,0,1,1,1,2,0,3,2,3,3,1,1,0,0,1,1,1,0,1,1.0,1,0
+1,1,2,1,1,medical sector,patient affairs,dentist,2,0,0,0,0,1,0,0,0,0,2,2,1,2,2,2,2,2,2,1,0,2,2,0,0,1,1.0,0,0
+0,2,2,3,3,education sector,teaching,teacher,2,0,1,1,1,3,1,1,3,1,1,3,1,3,2,2,2,0,1,1,0,2,3,1,1,0,0.5,3,0
+1,2,2,2,1,food production sector,sales,sales executive,1,3,1,1,1,3,0,0,1,1,1,3,1,3,3,1,3,1,0,0,0,1,1,1,0,1,0.3333333333333333,1,1
+1,2,3,2,2,education sector,administration,administrative manager,2,0,1,0,0,1,1,1,3,1,1,2,1,3,2,2,2,0,0,1,1,3,3,0,1,0,0.6666666666666666,0,0
+1,2,2,2,2,medical sector,patient affairs,nurse,1,4,1,1,1,3,1,1,2,1,1,3,1,3,3,2,2,0,2,1,1,2,2,1,1,0,0.3333333333333333,2,0
+0,3,2,2,2,education sector,teaching,teacher,1,0,1,0,0,1,0,0,1,1,1,3,1,3,3,1,3,1,1,1,0,3,3,1,1,0,0.3333333333333333,1,0
+1,3,2,3,3,education sector,administration,manger assistant,2,0,0,0,0,1,0,0,2,1,1,1,1,2,2,1,1,0,1,1,0,2,1,0,1,0,0.5,0,0
+0,2,2,1,1,education sector,teaching,teacher,1,0,0,1,1,3,0,0,0,0,1,1,1,2,1,3,1,2,2,0,0,1,1,1,1,0,0.5,0,0
+1,3,2,5,2,education sector,teaching,teacher,1,2,1,0,0,1,0,0,0,0,1,3,1,2,2,2,2,2,2,1,0,2,2,1,1,0,0.16666666666666666,0,3
+0,2,3,1,1,medical sector,processes,administrative manager,2,2,1,0,1,2,0,0,1,0,1,2,0,2,2,2,2,2,2,1,1,2,2,1,0,0,1.0,1,0
+0,1,1,1,1,food production sector,processes,operations supervisor,1,3,1,1,1,3,1,1,0,0,1,2,1,3,2,2,3,0,0,0,1,2,2,0,0,1,0.5,0,0
+0,1,2,2,2,economic sector,administration,administrative manager,3,1,1,0,0,1,1,1,1,1,3,3,1,3,2,1,2,1,1,1,0,3,3,0,1,0,1.0,0,0
+1,2,1,2,1,food production sector,marketing,marketing specialist,1,1,1,0,0,1,0,0,0,0,1,1,1,1,2,1,1,2,2,0,0,2,3,1,0,0,0.3333333333333333,0,1
+0,3,2,1,1,transport sector,administration,administrative manager,7,2,1,1,1,3,1,1,1,1,3,3,1,3,2,2,2,1,1,1,0,3,3,1,1,0,3.5,1,0
+0,2,1,2,2,food production sector,technical support,electrical engineer,1,3,1,1,1,3,1,1,2,1,3,3,1,3,2,1,3,2,0,1,1,2,3,0,0,1,0.3333333333333333,0,0
+0,2,3,2,2,education sector,teaching,lecturer,3,1,0,0,0,1,1,1,2,1,1,2,0,2,2,2,2,0,0,1,1,2,2,0,1,0,1.0,0,0
+1,3,2,4,4,education sector,teaching,teacher,2,0,0,0,0,1,0,0,3,0,1,1,1,3,3,2,2,2,2,1,1,1,2,0,1,0,0.4,0,0
+0,2,3,4,3,energy sector,processes,operations supervisor,3,2,1,1,1,3,1,0,3,1,2,2,0,1,2,2,2,1,0,1,0,2,2,1,1,0,0.6,3,1
+1,1,1,1,1,medical sector,patient affairs,nurse,1,1,1,1,0,3,0,1,1,1,2,2,1,2,2,2,2,0,2,1,0,1,2,1,1,0,0.5,1,0
+1,1,2,2,2,financial sector,sales,sales executive,2,1,1,0,0,2,0,0,1,0,1,1,0,3,1,1,1,2,2,0,0,2,1,0,1,0,0.6666666666666666,0,0
+1,1,2,2,1,communications and it sector,marketing,marketing specialist,3,1,1,1,0,1,1,1,2,1,2,3,1,2,1,2,2,1,1,0,0,2,2,1,0,1,1.0,2,1
+1,2,2,1,1,medical sector,patient affairs,doctor,2,1,1,0,0,3,0,0,0,0,1,2,1,2,2,1,1,1,1,0,1,2,1,0,1,0,1.0,0,0
+1,1,1,1,1,financial sector,accounting,financial analyst,1,0,1,1,1,3,0,0,1,1,2,2,1,2,3,2,3,1,1,0,0,2,2,1,0,1,0.5,1,0
+1,1,1,1,1,transport sector,hr,coordinator,2,4,1,1,1,3,1,1,1,1,1,3,1,3,2,2,2,2,0,1,0,2,2,0,0,1,1.0,0,0
+0,2,2,2,1,energy sector,processes,electrical engineer,3,1,0,0,1,3,0,0,1,1,1,1,0,2,2,1,3,1,1,1,0,1,1,1,1,0,1.0,1,1
+0,1,1,1,1,food production sector,production,production supervisor,1,2,0,1,1,3,1,1,1,1,1,2,1,2,2,2,2,0,0,1,0,2,2,0,0,1,0.5,0,0
+1,1,2,2,2,medical sector,administration,manger assistant,2,1,1,0,0,2,0,0,1,0,1,2,1,2,2,1,3,2,2,0,0,1,1,1,0,1,0.6666666666666666,1,0
+0,2,3,2,2,medical sector,patient affairs,doctor,2,4,1,1,1,3,1,1,3,1,1,3,1,3,2,2,2,0,0,1,0,2,3,0,1,0,0.6666666666666666,0,0
+1,1,2,2,2,financial sector,sales,consultant,1,0,0,1,1,2,0,1,0,0,1,1,1,3,2,3,2,0,1,0,0,3,2,0,1,0,0.3333333333333333,0,0
+1,1,2,1,1,medical sector,patient affairs,nurse,1,2,1,1,0,1,0,0,1,1,1,1,1,2,2,2,3,2,2,0,0,3,2,1,0,1,0.5,1,0
+1,1,1,1,1,education sector,teaching,trainer,1,0,0,0,0,1,0,0,0,0,1,2,1,1,1,2,3,2,2,0,0,1,1,0,0,1,0.5,0,0
+1,1,2,1,1,education sector,teaching,teacher,2,0,0,0,0,1,1,1,3,1,1,1,0,1,2,1,3,0,0,0,1,2,1,0,1,0,1.0,0,0
+1,2,2,1,1,financial sector,banking operations,banking operations,2,2,1,1,1,1,0,0,3,1,1,2,0,3,1,3,2,1,2,0,0,2,1,1,1,0,1.0,3,0
+0,2,2,2,2,industry sector,technical support,mechanical engineer,3,2,1,1,1,3,1,1,2,1,3,2,1,2,2,2,2,1,1,1,0,1,3,0,0,1,1.0,0,0
+1,1,2,1,1,medical sector,hr,coordinator,1,0,0,0,0,1,0,0,0,0,1,1,1,3,2,2,2,0,0,0,0,2,2,0,1,0,0.5,0,0
+1,2,2,1,1,medical sector,customers service,customer services representative,1,2,1,0,0,2,0,0,0,0,1,1,0,1,1,2,3,0,2,0,0,1,1,0,1,0,0.5,0,0
+0,2,1,1,1,food production sector,processes,quality specialist,1,3,1,0,0,2,0,1,0,0,1,3,1,2,2,2,3,1,2,0,1,2,1,0,1,0,0.5,0,0
+1,1,2,1,1,communications and it sector,customers service,customer services representative,1,2,1,0,0,1,1,0,0,0,1,2,1,2,2,2,2,0,2,0,0,2,2,0,1,0,0.5,0,0
+0,1,1,2,2,food production sector,production,production supervisor,2,2,1,0,0,1,0,0,0,0,1,2,0,2,2,3,1,2,2,0,0,2,1,1,0,1,0.6666666666666666,0,0
+1,3,2,5,5,education sector,teaching,teacher,2,0,0,0,0,1,1,1,3,1,1,2,1,3,3,1,3,2,2,1,1,3,3,0,1,0,0.3333333333333333,0,0
+0,2,2,2,1,engineering consulting companies,processes,project engineer,3,2,1,0,0,1,0,0,1,1,2,2,1,2,2,2,1,2,2,0,0,3,1,1,1,0,1.0,1,1
+1,1,2,2,1,industry sector,accounting,accountant,2,2,1,0,0,2,0,0,0,0,1,1,1,3,1,2,1,2,2,0,0,1,1,1,0,1,0.6666666666666666,0,1
+1,1,2,2,2,energy sector,administration,secretariat,2,2,1,1,0,1,1,1,2,0,2,2,1,2,2,2,2,1,1,0,0,1,2,0,1,0,0.6666666666666666,0,0
+0,2,3,2,2,transport sector,administration,administrative manager,4,4,1,1,1,3,1,1,3,1,2,3,1,2,2,2,3,2,0,1,0,2,3,1,1,0,1.3333333333333333,3,0
+1,1,2,2,1,education sector,teaching,teacher,2,0,0,0,0,1,0,0,0,0,1,1,0,1,2,1,2,1,2,0,0,1,1,1,1,0,0.6666666666666666,0,1
+0,3,2,4,1,industry sector,safety & security,engineer,6,2,1,1,1,3,1,1,3,1,3,2,1,3,2,3,2,1,1,1,0,2,2,1,1,0,1.2,3,3
+1,1,2,1,1,law firm,legal affairs,lawyer,1,2,0,0,1,2,0,0,0,0,1,2,0,2,2,1,2,1,0,0,1,2,1,1,0,1,0.5,0,0
+1,1,2,2,1,financial sector,accounting,scribe,1,0,1,0,0,1,1,0,2,1,1,2,0,2,1,2,3,2,2,0,0,2,3,0,1,0,0.3333333333333333,0,1
+1,1,2,2,1,media sector,administration,graphic designer,2,4,0,0,1,2,0,0,0,0,1,2,1,3,3,2,3,1,0,0,0,3,2,1,0,1,0.6666666666666666,0,1
+1,1,2,1,1,education sector,teaching,teacher,2,0,1,0,0,1,1,1,0,0,1,3,1,3,2,2,1,0,1,1,1,2,3,1,0,1,1.0,0,0
+0,1,1,2,2,transport sector,technical support,engineer,3,2,1,1,1,3,1,1,3,1,1,3,1,3,2,2,2,1,1,1,1,2,2,1,0,0,1.0,3,0
+1,1,2,1,1,medical sector,patient affairs,supervisor,3,2,1,0,1,1,1,1,0,1,2,3,1,3,2,2,2,1,1,1,1,3,3,1,1,0,1.5,0,0
+1,3,2,2,2,food production sector,sales,sales executive,2,1,1,1,0,1,1,1,2,1,3,3,1,3,2,2,2,0,0,1,0,3,3,0,1,0,0.6666666666666666,0,0
+0,2,2,2,1,tourism sector,accounting,admin accountant,3,1,1,1,0,1,1,1,2,1,2,2,1,3,2,2,3,0,1,1,0,2,2,1,1,0,1.0,2,1
+1,4,2,3,3,medical sector,administration,secretariat,2,3,1,0,0,1,1,0,1,0,1,1,0,3,1,2,2,0,1,0,0,1,2,0,1,0,0.5,0,0
+1,1,2,2,2,financial sector,treasury,treasury agent,4,2,0,0,0,1,0,0,0,0,1,2,1,2,2,2,2,2,1,0,0,3,2,0,0,1,1.3333333333333333,0,0
+0,2,2,2,2,economic sector,administration,administrative manager,3,1,1,1,0,1,1,1,2,1,2,3,1,3,2,2,2,1,1,1,0,2,2,1,1,0,1.0,2,0
+1,2,2,2,2,education sector,teaching,teacher,2,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,2,1,2,0,0,1,1,0,1,0,0.6666666666666666,0,0
+0,1,2,2,1,medical sector,administration,administrative manager,2,1,1,1,1,3,1,1,1,1,1,2,0,3,2,2,2,2,0,0,0,2,2,1,1,0,0.6666666666666666,1,1
+1,1,1,1,1,medical sector,customers service,receptionist,2,0,1,1,0,2,1,1,3,1,1,3,0,2,2,2,2,0,0,0,0,2,2,0,0,1,1.0,0,0
+1,1,2,1,1,medical sector,patient affairs,pharmacist,2,0,1,0,1,2,1,0,0,1,1,2,1,2,2,2,2,2,1,1,0,2,2,1,0,1,1.0,0,0
+1,1,2,2,2,food production sector,production,production supervisor,2,2,1,1,0,3,1,1,1,1,1,2,1,2,2,2,2,2,2,0,0,2,2,0,0,1,0.6666666666666666,0,0
+1,1,1,2,2,medical sector,customers service,customer services representative,2,2,1,1,1,2,1,0,0,0,1,1,1,3,3,2,1,1,2,1,0,3,1,0,0,1,0.6666666666666666,0,0
+0,2,2,2,1,food production sector,administration,manger assistant,2,1,1,0,0,1,1,1,0,0,1,3,1,3,2,1,3,1,1,1,0,3,2,1,1,0,0.6666666666666666,0,1
+0,3,2,4,4,financial sector,customers service,customer services representative,2,2,1,1,0,1,0,0,3,1,1,3,0,3,3,2,2,2,2,0,0,2,2,0,1,0,0.4,0,0
+0,2,3,2,2,financial sector,administration,financial manager,1,1,0,0,0,1,1,1,0,0,1,2,1,3,2,1,3,0,0,1,0,2,2,1,1,0,0.3333333333333333,0,0
+1,1,1,2,2,education sector,administration,manger assistant,2,0,1,0,0,2,1,0,1,1,1,3,1,3,2,1,1,0,1,1,0,2,2,0,1,0,0.6666666666666666,0,0
+1,1,3,1,1,education sector,administration,manger assistant,1,0,0,0,0,2,0,0,1,0,1,1,0,2,2,2,1,2,2,0,0,2,2,1,0,1,0.5,1,0
+0,2,3,2,1,energy sector,relations,relations manager,2,2,1,1,0,1,1,1,2,1,1,3,1,2,2,1,2,1,1,0,0,2,2,1,1,0,0.6666666666666666,2,1
+1,2,2,2,1,medical sector,safety & security,security and safety specialist,1,2,1,1,0,1,0,0,0,0,1,2,0,2,2,1,2,2,2,0,1,2,2,1,1,0,0.3333333333333333,0,1
+0,1,3,2,2,engineering consulting companies,studies and design,civil engineer,3,2,1,0,1,3,0,0,0,0,2,1,0,1,1,2,2,2,2,0,0,1,1,1,1,0,1.0,0,0
+0,1,3,2,1,energy sector,processes,quality specialist,3,3,1,1,1,3,1,1,2,1,2,3,1,2,2,1,2,0,2,1,1,2,2,1,0,1,1.0,2,1
+1,2,1,2,2,economic sector,sales,sales representative,1,2,1,0,0,2,0,0,0,0,1,1,0,3,3,3,2,0,2,0,1,1,1,0,1,0,0.3333333333333333,0,0
+1,1,2,1,1,education sector,training,trainer,1,0,0,0,0,1,1,1,3,1,1,2,1,2,1,1,3,0,0,0,0,3,3,1,0,1,0.5,3,0
+0,1,2,1,1,energy sector,processes,electrical engineer,4,0,0,0,0,2,0,0,1,0,3,1,0,1,3,1,3,1,1,0,0,1,2,1,0,0,2.0,1,0
+1,2,2,2,2,medical sector,sales,sales representative,2,2,1,0,1,2,1,1,2,1,2,2,0,3,2,2,1,0,0,1,0,2,2,0,1,0,0.6666666666666666,0,0
+1,1,3,2,2,financial sector,sales,sales executive,2,0,0,0,0,1,0,0,0,0,1,2,1,3,3,3,2,1,0,1,0,2,2,0,1,0,0.6666666666666666,0,0
+1,2,3,2,1,financial sector,technical support,data entry operator,2,2,1,0,0,2,0,0,0,0,1,1,0,1,2,2,2,0,0,0,1,2,1,0,1,0,0.6666666666666666,0,1
+0,1,1,2,2,transport sector,safety & security,security and safety specialist,1,1,0,0,0,3,0,0,0,0,1,1,0,1,2,2,2,2,0,0,0,1,1,0,0,1,0.3333333333333333,0,0
+0,2,2,3,3,transport sector,sales,sales executive,2,3,1,1,1,3,1,1,2,1,3,3,1,3,3,2,2,2,2,1,0,2,3,1,1,0,0.5,2,0
+1,1,2,1,1,education sector,teaching,teacher,2,1,0,0,0,1,1,0,1,1,1,2,1,1,1,3,2,1,1,0,0,2,2,1,0,1,1.0,1,0
+0,1,2,2,2,medical sector,patient affairs,pharmacist,2,1,1,0,0,1,1,0,1,1,2,2,1,2,2,2,2,1,1,1,0,2,2,0,1,0,0.6666666666666666,0,0
+0,3,2,4,4,education sector,teaching,teacher,1,0,1,0,1,3,1,0,3,1,3,1,0,2,1,2,2,2,2,0,0,2,2,1,1,0,0.2,3,0
+1,1,2,3,2,education sector,teaching,teacher,1,1,1,0,1,3,0,0,0,1,1,1,0,2,3,2,1,1,0,0,0,2,2,1,0,1,0.25,0,1
+1,2,3,3,3,financial sector,administration,administrative manager,4,2,1,1,1,3,1,1,2,1,2,3,1,3,3,2,2,1,1,1,0,3,3,0,1,0,1.0,0,0
+1,1,1,1,1,medical sector,customers service,receptionist,1,0,1,1,1,3,1,1,2,1,1,2,1,2,3,1,2,2,0,1,0,2,2,0,1,0,0.5,0,0
+0,1,3,2,1,financial sector,sales,sales representative,1,0,1,1,1,2,0,0,2,1,3,1,0,2,1,2,1,2,2,0,0,2,1,0,1,0,0.3333333333333333,0,1
+0,3,4,3,1,medical sector,processes,consultant,7,2,1,0,1,2,0,1,2,1,3,2,1,2,2,1,2,2,1,0,0,2,1,1,1,0,1.75,2,2
+0,2,3,2,2,financial sector,administration,financial manager,3,1,1,1,1,3,0,0,1,1,2,3,1,3,2,3,1,0,0,0,0,2,2,1,1,0,1.0,1,0
+1,3,1,2,1,financial sector,sales,sales representative,1,2,1,0,0,3,1,1,1,1,1,3,1,3,3,3,3,0,0,1,0,3,3,0,1,0,0.3333333333333333,0,1
+0,1,2,1,1,energy sector,customers service,customer services representative,1,2,1,0,1,3,0,0,1,1,1,1,0,1,2,3,1,0,0,0,0,1,2,0,1,0,0.5,0,0
+0,2,2,2,2,energy sector,processes,electrical engineer,3,1,1,1,0,1,0,0,1,1,1,2,1,2,2,2,2,0,1,0,1,2,2,1,1,0,1.0,1,0
+0,1,2,1,1,education sector,information technology,it specialist,3,3,1,1,1,3,1,1,2,1,2,2,1,2,2,1,1,0,0,1,0,3,3,1,0,1,1.5,2,0
+0,1,1,1,1,economic sector,safety & security,security and safety specialist,1,0,0,0,0,1,0,0,0,0,1,1,0,2,2,2,2,0,0,0,0,1,2,0,1,0,0.5,0,0
+1,1,1,2,1,education sector,administration,manger assistant,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,2,2,1,1,0,0,1,1,0,0,1,0.3333333333333333,0,1
+0,2,3,2,2,"environment, water, and agriculture sector",hr,hr specialist,2,1,1,0,0,1,0,0,0,0,3,1,0,1,1,1,2,1,2,0,0,2,1,0,0,1,0.6666666666666666,0,0
+0,2,2,2,2,education sector,administration,administrative manager,2,0,1,0,0,1,1,1,3,1,1,3,1,3,2,2,2,0,0,1,0,2,3,0,1,0,0.6666666666666666,0,0
+0,1,1,1,1,transport sector,processes,data entry operator,1,2,1,0,0,1,1,1,2,1,1,2,1,2,2,1,3,1,1,1,0,2,2,0,0,0,0.5,0,0
+0,3,2,3,3,education sector,teaching,teacher,1,0,0,1,0,1,0,0,1,1,1,1,1,3,2,2,3,2,1,1,1,3,2,0,1,0,0.25,0,0
+1,1,2,1,1,economic sector,accounting,accountant,1,0,0,1,0,3,0,0,0,0,1,1,0,1,1,2,1,1,2,0,1,1,2,1,0,1,0.5,0,0
+1,1,1,2,1,economic sector,sales,after sales service manager,2,1,1,1,1,2,1,0,1,1,1,3,1,3,2,2,3,1,2,0,1,3,2,1,1,0,0.6666666666666666,1,1
+0,1,2,1,1,financial sector,processes,financial manager,1,0,0,0,0,3,0,0,1,0,1,3,0,2,2,2,2,2,0,0,0,2,2,1,0,1,0.5,1,0
+1,2,2,1,1,medical sector,patient affairs,nurse,2,1,1,0,0,1,1,0,0,0,1,2,0,2,2,2,2,1,0,0,0,2,2,1,1,0,1.0,0,0
+1,2,2,4,3,education sector,teaching,teacher,1,0,0,0,0,1,0,0,3,1,1,3,0,2,1,2,2,2,2,0,0,2,1,0,0,1,0.2,0,1
+1,1,2,1,1,medical sector,patient affairs,lab specialist,2,3,0,0,0,1,1,1,1,1,2,2,1,2,2,2,1,0,0,1,0,3,3,0,0,1,1.0,0,0
+1,2,2,1,1,communications and it sector,customers service,customer services representative,2,2,1,1,1,3,1,1,1,1,2,3,1,3,2,1,2,1,1,1,0,2,2,0,1,0,1.0,0,0
+0,1,1,1,1,media sector,sales,salesman,1,0,1,1,1,3,1,1,1,1,3,3,0,2,2,2,1,2,2,1,1,3,3,1,0,1,0.5,1,0
+1,2,2,1,1,medical sector,administration,administrative manager,3,3,1,1,1,3,1,1,3,1,3,2,0,2,1,2,1,2,2,0,1,2,1,0,1,0,1.5,0,0
+0,1,2,1,1,food production sector,administration,administrative manager,2,2,1,0,0,1,0,0,0,0,1,1,0,2,1,3,1,1,2,0,0,1,1,0,0,1,1.0,0,0
+1,2,2,2,2,communications and it sector,processes,data entry operator,2,2,0,1,1,3,1,1,3,1,1,3,1,3,2,2,2,1,1,1,0,2,2,0,1,0,0.6666666666666666,0,0
+0,1,2,4,4,education sector,teaching,teacher,1,1,1,1,0,1,1,1,1,1,1,3,1,3,3,1,3,2,0,1,0,2,3,0,1,0,0.2,0,0
+1,1,2,1,1,education sector,administration,administrative manager,1,0,0,0,1,2,0,0,2,1,1,2,1,2,2,1,1,1,2,0,1,2,2,0,1,0,0.5,0,0
+1,1,2,1,1,communications and it sector,customers service,customer services representative,1,0,1,0,0,1,0,0,0,0,1,1,0,1,1,1,2,0,1,0,0,1,1,0,1,0,0.5,0,0
+1,1,1,6,3,food production sector,processes,quality controller,2,3,1,1,0,3,0,0,0,0,1,1,0,2,2,1,2,2,2,0,0,3,1,1,1,0,0.2857142857142857,0,3
+1,3,1,1,1,education sector,administration,manger assistant,1,0,0,0,0,1,0,0,1,1,1,1,0,2,2,2,3,1,1,0,0,2,1,1,1,0,0.5,1,0
+0,2,1,1,1,"environment, water, and agriculture sector",technical support,it specialist,1,3,1,0,0,1,0,0,1,1,1,1,0,1,2,2,1,0,1,0,0,2,1,0,0,1,0.5,0,0
+1,1,2,1,1,medical sector,patient affairs,nurse,1,2,0,1,1,3,1,1,3,1,2,3,1,3,2,2,2,1,1,1,0,2,2,0,0,1,0.5,0,0
+1,1,2,2,1,energy sector,sales,purchase specialist,3,0,1,1,1,3,1,1,1,0,2,2,1,2,2,2,2,2,2,1,0,3,2,1,0,1,1.0,1,1
+0,2,2,1,1,medical sector,patient affairs,doctor,2,1,0,0,0,2,0,0,1,0,2,1,1,1,3,2,2,2,2,0,0,1,3,0,0,1,1.0,0,0
+1,1,3,2,2,education sector,administration,administrative manager,2,0,0,0,0,1,1,1,0,0,1,3,1,2,2,2,3,1,1,1,0,2,3,0,1,0,0.6666666666666666,0,0
+1,3,2,3,1,education sector,teaching,teacher,1,0,0,0,0,2,0,0,3,1,1,1,0,1,3,1,2,2,2,0,1,2,1,1,0,1,0.25,3,2
+0,1,2,1,1,communications and it sector,processes,project manager,3,4,1,1,1,3,1,0,1,0,2,2,1,2,2,2,2,2,2,1,0,2,1,0,0,1,1.5,0,0
+0,1,2,1,1,financial sector,safety & security,security and safety specialist,2,2,1,0,0,1,1,0,1,0,1,2,1,2,2,2,2,1,1,0,0,2,2,0,0,1,1.0,0,0
+1,3,2,2,2,education sector,administration,manger assistant,2,0,0,0,0,1,1,1,2,1,1,2,1,2,2,1,2,1,0,1,0,2,2,0,1,0,0.6666666666666666,0,0
+1,1,2,2,1,medical sector,customers service,customer services representative,1,0,1,0,0,1,0,1,0,0,1,2,1,2,2,2,2,1,1,0,0,2,2,1,0,1,0.3333333333333333,0,1
+0,2,2,2,2,industry sector,processes,civil engineer,2,0,1,0,0,1,0,0,0,0,1,2,0,2,2,2,2,0,0,0,0,2,3,0,1,0,0.6666666666666666,0,0
+0,2,2,2,2,financial sector,hr,hr specialist,2,1,1,1,0,1,1,1,1,1,2,2,1,2,2,1,3,0,0,1,0,2,2,1,1,0,0.6666666666666666,1,0
+1,1,2,1,1,tourism sector,administration,manger assistant,1,1,1,0,0,2,1,0,1,1,1,2,1,2,2,2,2,1,1,1,0,2,2,1,0,1,0.5,1,0
+0,1,2,1,1,communications and it sector,sales,sales executive,2,1,1,1,1,2,1,1,1,0,1,2,1,2,2,1,2,0,0,1,1,2,2,1,0,1,1.0,1,0
+1,2,2,2,2,education sector,training,teacher,1,0,0,0,0,1,0,1,1,1,1,3,1,3,2,1,3,1,1,0,1,2,2,0,0,1,0.3333333333333333,0,0
+0,2,2,2,2,food production sector,administration,supervisor,3,2,1,1,1,3,1,1,3,1,2,3,1,3,2,1,3,0,0,0,0,3,3,0,1,0,1.0,0,0
+0,1,4,2,2,medical sector,patient affairs,doctor,3,3,1,1,1,3,1,1,3,1,1,2,1,2,2,2,3,0,1,1,0,2,3,0,1,0,1.0,0,0
+1,1,2,1,1,food production sector,sales,salesman,1,3,1,1,1,3,0,0,2,1,1,1,0,2,2,1,2,2,2,1,0,2,2,1,0,1,0.5,2,0
+0,3,2,2,2,education sector,teaching,teacher,1,1,1,0,0,1,0,0,3,1,2,2,0,1,1,2,2,2,2,0,0,1,1,1,1,0,0.3333333333333333,3,0
+1,2,2,2,2,tourism sector,administration,manger assistant,2,1,1,1,0,1,1,1,1,1,1,3,1,3,3,3,3,1,1,1,0,2,3,0,1,0,0.6666666666666666,0,0
+1,1,2,1,1,tourism sector,customers service,customer services representative,2,3,1,1,1,3,0,0,1,1,1,2,1,2,2,2,2,2,2,1,0,1,2,0,0,1,1.0,0,0
+1,2,2,2,2,financial sector,administration,financial manager,3,1,1,1,1,3,1,1,1,1,2,3,1,3,2,1,2,0,1,1,0,2,2,1,0,1,1.0,1,0
+1,1,2,1,1,engineering consulting companies,processes,project manager,2,3,1,0,1,2,0,0,2,1,3,3,1,3,3,2,3,1,1,1,0,3,2,1,1,0,1.0,2,0
+0,2,1,2,2,economic sector,administration,administrative manager,3,4,1,1,1,3,0,0,1,1,3,2,1,2,3,2,3,1,1,1,0,2,2,1,0,1,1.0,1,0
+1,1,2,2,1,medical sector,customers service,customer services representative,2,0,1,0,0,1,0,0,2,1,1,2,1,2,1,3,1,2,1,0,0,2,2,1,0,1,0.6666666666666666,2,1
+0,1,2,2,2,medical sector,patient affairs,nurse,1,3,1,1,1,1,1,1,1,1,1,3,1,3,2,1,3,1,1,1,0,2,3,0,1,0,0.3333333333333333,0,0
+1,3,2,3,3,education sector,teaching,teacher,3,0,0,0,0,2,1,1,3,1,1,2,1,2,2,1,2,1,1,1,0,2,3,0,1,0,0.75,0,0
+1,1,2,1,1,communications and it sector,relations,relationships specialist,1,1,1,1,1,3,1,1,1,1,3,3,1,3,1,3,1,2,2,1,1,3,3,1,1,0,0.5,1,0
+1,1,2,2,2,education sector,teaching,teacher,1,0,0,0,0,1,1,1,2,1,1,2,1,2,2,3,2,1,1,1,0,2,1,1,1,0,0.3333333333333333,2,0
+0,1,2,1,1,education sector,teaching,hr specialist,1,0,0,0,0,1,1,1,1,1,1,2,1,2,1,2,2,1,1,0,0,2,2,1,0,1,0.5,1,0
+0,2,3,2,2,medical sector,patient affairs,nutrition specialist,3,3,1,1,0,1,0,0,2,1,1,2,0,1,3,1,3,1,1,0,0,2,1,1,1,0,1.0,2,0
+0,1,2,1,1,medical sector,patient affairs,dentist,1,1,0,0,0,1,0,0,0,0,1,2,0,2,2,3,1,2,2,0,0,2,1,1,0,1,0.5,0,0
+1,3,2,2,2,food production sector,sales,administrative manager,2,2,1,1,0,2,0,1,3,1,2,2,1,3,2,1,2,1,1,1,0,2,2,1,1,0,0.6666666666666666,3,0
+0,3,1,2,2,tourism sector,customers service,customer services representative,2,2,1,1,0,3,0,0,1,0,1,1,0,3,3,2,1,1,0,0,0,1,3,1,0,0,0.6666666666666666,1,0
+0,1,1,2,2,transport sector,sales,salesman,1,0,1,0,0,1,1,1,2,1,1,3,1,2,2,2,1,0,0,0,0,2,2,0,0,1,0.3333333333333333,0,0
+1,1,2,1,1,communications and it sector,customers service,customer services representative,2,0,1,0,0,1,0,0,1,1,1,3,1,2,2,1,2,0,0,0,0,2,2,1,0,1,1.0,1,0
+0,1,1,2,2,financial sector,customers service,customer services representative,2,2,1,1,1,2,0,0,2,1,1,2,1,2,2,3,2,1,1,1,0,2,1,1,1,0,0.6666666666666666,2,0
+0,2,1,1,1,medical sector,customers service,receptionist,1,0,1,0,1,3,0,0,0,1,1,2,1,2,3,3,3,1,1,0,1,3,2,0,0,1,0.5,0,0
+0,1,2,2,1,food production sector,safety & security,security and safety specialist,3,2,1,0,1,2,0,0,1,1,1,1,0,1,3,3,1,1,2,0,0,1,1,1,1,0,1.0,1,1
+0,2,2,4,1,transport sector,training,trainer,1,2,1,0,1,3,0,0,1,1,1,2,0,2,2,1,3,0,0,1,0,2,2,1,1,0,0.2,1,3
+0,3,3,3,2,energy sector,hr,hiring specialist,3,2,1,1,0,1,1,1,3,1,2,3,1,3,2,3,1,0,2,0,0,3,2,1,0,0,0.75,3,1
+1,2,2,1,1,education sector,teaching,teacher,1,0,1,1,1,3,1,1,0,0,1,2,1,2,2,2,2,1,1,0,1,2,1,0,1,0,0.5,0,0
+0,2,2,3,1,medical sector,patient affairs,nurse,2,2,1,1,0,1,1,1,2,1,1,2,1,2,2,2,1,2,0,1,1,3,2,1,1,0,0.5,2,2
+1,1,2,1,1,economic sector,sales,salesman,1,1,1,0,1,2,0,0,0,0,1,1,0,1,2,2,1,2,2,0,0,2,1,1,0,1,0.5,0,0
+1,1,2,2,2,medical sector,patient affairs,nurse,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,3,2,0,0,0,1,2,2,0,1,0,0.3333333333333333,0,0
+0,2,3,2,2,financial sector,sales,admin accountant,4,2,1,1,1,3,1,1,2,1,2,3,1,3,2,1,2,0,0,1,0,2,2,1,1,0,1.3333333333333333,2,0
+1,1,1,1,1,tourism sector,administration,manger assistant,1,0,0,0,0,1,0,0,0,0,1,2,0,1,2,2,2,1,1,0,0,2,1,0,0,1,0.5,0,0
+0,1,1,2,1,communications and it sector,customers service,customer services representative,1,0,0,0,0,1,0,0,0,0,1,1,0,1,2,2,2,1,0,0,0,2,1,0,0,1,0.3333333333333333,0,1
+0,1,3,1,1,education sector,administration,administrative manager,2,0,0,0,0,2,0,0,0,0,2,1,0,2,2,2,2,2,2,0,0,1,1,1,0,1,1.0,0,0
+1,2,2,4,4,education sector,teaching,teacher,3,1,0,0,0,1,1,1,3,1,2,2,0,2,2,2,2,2,2,1,0,2,3,0,1,0,0.6,0,0
+1,1,2,1,1,transport sector,administration,administrative manager,1,0,0,0,0,1,0,0,0,0,1,2,0,1,1,3,2,2,2,0,0,1,1,1,1,0,0.5,0,0
+1,1,2,1,1,financial sector,banking operations,banking operations,2,2,1,1,0,1,1,0,1,1,1,2,0,2,2,3,2,2,2,0,0,1,1,0,1,0,1.0,0,0
+1,1,1,1,1,food production sector,sales,salesman,1,2,1,1,1,3,1,0,2,1,1,2,1,2,2,1,2,2,1,1,0,2,2,0,0,1,0.5,0,0
+0,1,3,2,1,energy sector,processes,mechanical engineer,3,2,1,1,1,3,1,0,0,0,3,1,0,3,2,3,2,2,2,1,0,3,1,1,0,1,1.0,0,1
+1,2,2,2,1,education sector,teaching,teacher,2,1,0,0,0,1,0,0,3,0,1,2,1,2,1,2,2,1,1,0,0,2,2,1,1,0,0.6666666666666666,3,1
+0,2,1,1,1,media sector,administration,scribe,1,1,1,1,1,3,0,0,0,0,2,2,1,1,2,1,2,1,1,1,0,2,2,0,1,0,0.5,0,0
+1,1,2,2,2,medical sector,customers service,supervisor,2,2,1,1,1,3,0,1,1,1,1,2,1,3,2,2,2,0,2,0,0,2,2,0,0,1,0.6666666666666666,0,0
+1,3,1,2,1,education sector,customers service,manger assistant,1,1,1,0,0,1,0,0,1,1,1,2,0,2,2,3,2,1,1,0,0,2,2,0,1,0,0.3333333333333333,0,1
+1,2,2,1,1,education sector,teaching,teacher,1,0,0,0,0,1,0,0,1,1,1,2,1,3,3,1,2,2,1,1,0,3,2,0,1,0,0.5,0,0
+0,1,1,2,1,education sector,customers service,customer services representative,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,1,1,2,0,1,1,1,0,0,1,0.3333333333333333,0,1
+1,3,3,4,1,medical sector,patient affairs,lab specialist,3,2,1,1,0,1,1,1,1,1,1,2,1,3,3,1,3,1,0,1,0,3,3,1,1,0,0.6,1,3
+1,1,2,1,1,"environment, water, and agriculture sector",processes,chemical engineer,2,1,0,0,0,1,0,0,0,0,1,1,0,2,2,2,2,0,0,0,0,1,1,0,0,1,1.0,0,0
+0,2,1,2,2,communications and it sector,safety & security,security and safety specialist,1,0,0,0,0,1,0,0,0,0,1,1,1,2,2,2,2,2,2,0,0,2,1,0,0,0,0.3333333333333333,0,0
+1,1,2,2,1,economic sector,sales,salesman,1,2,1,1,1,3,0,0,0,0,1,1,0,2,2,2,2,2,1,0,1,2,2,1,1,0,0.3333333333333333,0,1
+1,3,2,1,1,medical sector,administration,administrative manager,1,0,0,0,1,2,0,0,0,0,1,1,0,1,1,3,3,2,1,0,0,2,1,0,1,0,0.5,0,0
+0,2,3,3,3,education sector,administration,manger assistant,3,1,0,0,0,2,0,0,1,0,1,1,0,1,3,1,2,0,2,1,0,1,1,0,1,0,0.75,0,0
+1,1,1,1,1,medical sector,patient affairs,doctor,2,4,1,1,1,2,0,1,1,1,1,3,1,3,3,1,3,1,0,1,0,2,2,0,0,1,1.0,0,0
+0,2,2,5,2,financial sector,accounting,financial analyst,2,3,1,1,1,2,1,0,1,1,1,2,1,3,2,2,2,1,1,0,0,2,2,0,1,0,0.3333333333333333,0,3
+0,1,2,2,2,medical sector,patient affairs,nurse,1,3,1,1,0,1,1,0,3,1,2,2,1,3,3,3,1,0,1,1,0,2,3,0,0,1,0.3333333333333333,0,0
+0,3,4,4,4,financial sector,information technology,it specialist,2,4,1,1,1,3,1,1,3,1,1,3,1,3,2,2,2,0,0,1,1,3,3,0,1,0,0.4,0,0
+0,1,1,1,1,food production sector,sales,sales executive,2,2,1,1,1,3,0,0,1,1,2,2,1,3,3,2,1,2,2,1,0,2,2,1,0,1,1.0,1,0
+1,3,4,2,2,medical sector,patient affairs,doctor,6,2,0,0,0,1,0,0,0,0,3,1,0,2,2,2,2,1,1,1,1,2,2,1,1,0,2.0,0,0
+1,1,2,2,2,economic sector,hr,hiring specialist,3,1,1,1,1,3,1,0,0,0,1,2,1,2,2,3,1,2,2,1,0,2,2,1,0,1,1.0,0,0
+1,2,2,2,2,tourism sector,relations,relationships specialist,2,1,1,0,0,1,0,0,2,1,1,1,1,3,2,3,2,0,0,0,0,2,2,1,1,0,0.6666666666666666,2,0
+1,1,3,1,1,financial sector,customers service,customer services representative,2,1,1,1,1,3,1,1,3,1,1,3,1,3,3,2,2,0,1,1,0,3,3,0,0,1,1.0,0,0
+0,1,1,2,1,medical sector,relations,relationships specialist,1,0,0,0,0,1,0,0,0,0,1,1,0,1,2,2,2,0,0,0,0,2,1,0,0,1,0.3333333333333333,0,1
+1,2,2,2,2,medical sector,relations,relationships specialist,3,1,1,1,0,1,0,0,2,1,2,2,1,3,2,2,2,2,2,1,1,3,2,1,1,0,1.0,2,0
+1,2,2,1,1,communications and it sector,customers service,customer services representative,1,0,0,0,0,1,0,0,0,0,1,2,1,2,2,2,2,1,1,0,0,1,1,1,1,0,0.5,0,0
+0,3,3,3,2,financial sector,processes,head of treasury,6,3,1,1,1,3,1,1,3,1,2,3,1,3,3,3,1,2,1,0,1,3,2,1,1,0,1.5,3,1
+1,1,2,1,1,medical sector,administration,reports manager,2,2,1,0,0,3,0,0,1,1,1,2,1,2,2,1,2,1,1,0,0,2,2,1,0,1,1.0,1,0
+1,2,3,2,2,education sector,teaching,teacher,2,3,0,0,0,1,1,0,1,1,1,2,1,2,2,2,2,2,2,1,0,2,2,1,1,0,0.6666666666666666,1,0
+0,2,1,2,1,medical sector,technical support,it specialist,2,2,1,1,0,1,0,0,0,0,2,2,0,1,2,2,2,1,2,1,0,2,1,0,1,0,0.6666666666666666,0,1
+1,1,2,1,1,education sector,teaching,teacher,1,0,0,0,0,1,0,0,0,0,1,2,1,3,2,2,2,2,2,0,0,3,2,1,1,0,0.5,0,0
+0,3,3,2,2,medical sector,patient affairs,doctor,3,1,1,1,1,3,1,1,0,0,1,1,0,2,2,1,2,1,1,1,0,2,2,1,1,0,1.0,0,0
+1,2,2,1,1,education sector,teaching,trainer,1,0,0,1,0,1,1,0,1,1,1,1,1,3,2,2,2,1,0,0,0,2,2,1,1,0,0.5,1,0
+0,1,1,2,1,financial sector,customers service,customer services representative,1,2,1,1,1,3,0,1,1,1,1,2,1,2,1,1,2,1,1,0,0,3,2,0,0,1,0.3333333333333333,0,1
+1,1,1,1,1,medical sector,patient affairs,nurse,1,2,1,0,0,1,0,0,0,0,1,1,0,2,2,2,2,0,0,0,0,2,2,1,1,0,0.5,0,0
+1,1,1,2,2,transport sector,customers service,customer services representative,1,3,1,0,0,1,0,0,0,0,1,1,0,1,1,1,1,1,2,0,0,2,1,0,1,0,0.3333333333333333,0,0
+1,1,2,1,1,education sector,training,trainer,1,0,0,0,1,3,0,1,1,1,1,1,1,2,2,2,2,2,2,1,0,2,2,1,1,0,0.5,1,0
+0,1,2,1,1,"environment, water, and agriculture sector",sales,sales executive,2,0,1,1,1,2,0,0,1,0,2,2,1,1,2,1,2,0,1,0,0,2,2,0,0,1,1.0,0,0
+1,1,2,2,2,education sector,teaching,teacher,2,1,1,0,1,2,1,1,1,1,3,2,1,3,2,3,2,2,0,1,0,3,3,0,1,0,0.6666666666666666,0,0
+0,2,2,2,1,financial sector,administration,financial manager,4,1,1,1,0,1,1,1,2,1,2,2,1,2,2,1,1,0,2,1,1,2,2,1,1,0,1.3333333333333333,2,1
+1,1,2,1,1,economic sector,accounting,accountant,1,0,0,0,0,1,0,1,0,0,1,3,1,3,2,2,2,1,2,0,0,3,3,1,0,1,0.5,0,0
+0,1,1,1,1,"environment, water, and agriculture sector",customers service,customer services representative,1,0,1,0,0,1,0,0,0,1,1,2,0,2,1,3,2,2,1,0,0,2,2,0,0,1,0.5,0,0
+0,1,2,2,2,industry sector,processes,quality specialist,2,3,1,1,1,3,1,1,2,1,2,2,1,2,2,2,2,1,1,1,0,2,2,1,0,1,0.6666666666666666,2,0
+1,1,2,2,2,communications and it sector,sales,sales executive,2,1,1,0,0,1,0,0,1,1,1,2,1,3,1,2,2,0,0,1,0,2,2,1,1,0,0.6666666666666666,1,0
+1,2,3,2,2,education sector,administration,administrative manager,2,0,1,1,0,2,1,1,3,1,2,3,1,3,2,2,2,1,1,1,1,3,3,1,1,0,0.6666666666666666,3,0
+0,1,1,2,1,education sector,administration,supervisor,1,0,1,1,1,3,1,1,3,1,2,3,1,3,2,1,2,2,2,1,0,2,2,1,0,1,0.3333333333333333,3,1
+1,2,1,3,1,financial sector,marketing,marketing specialist,2,0,1,0,0,1,0,0,0,0,1,1,0,1,1,3,2,2,2,0,0,2,1,1,1,0,0.5,0,2
+0,2,2,1,1,tourism sector,accounting,accountant,2,0,0,0,0,1,1,0,1,1,1,3,1,2,1,1,2,1,1,0,0,2,2,1,1,0,1.0,1,0
+1,1,2,1,1,education sector,administration,manger assistant,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,3,2,2,2,0,0,1,1,0,1,0,0.5,0,0
+0,2,2,3,3,energy sector,processes,electrical engineer,2,2,1,0,1,3,0,0,0,0,1,3,1,3,3,2,3,1,0,1,0,3,3,1,1,0,0.5,0,0
+1,2,2,2,1,financial sector,relations,relationships specialist,2,1,1,1,0,1,1,1,1,1,1,2,1,2,3,2,2,1,1,1,1,2,2,1,1,0,0.6666666666666666,1,1
+0,2,2,2,2,food production sector,hr,hiring specialist,3,0,1,0,0,1,1,0,1,1,1,2,1,2,2,2,2,0,0,0,0,2,2,1,1,0,1.0,1,0
+1,4,1,1,1,education sector,administration,receptionist,1,0,0,1,1,2,0,0,0,0,1,1,1,3,3,3,1,2,0,1,0,2,2,1,1,0,0.5,0,0
+0,3,1,2,2,financial sector,sales,sales representative,1,2,1,1,1,3,1,1,1,1,1,3,1,3,2,3,1,0,1,0,0,3,2,1,1,0,0.3333333333333333,1,0
+0,2,1,4,1,industry sector,sales,supervisor,1,2,0,1,1,3,0,0,1,1,1,2,0,2,2,3,2,2,2,0,0,2,2,1,1,0,0.2,1,3
+1,1,2,2,2,medical sector,patient affairs,nurse,1,2,1,1,1,3,1,1,1,1,3,3,1,3,1,3,1,0,0,0,0,2,1,0,1,0,0.3333333333333333,0,0
+1,1,1,2,2,education sector,administration,manger assistant,2,4,1,1,1,3,1,1,2,1,1,3,1,3,2,2,2,0,1,1,0,2,3,0,0,1,0.6666666666666666,0,0
+1,1,1,1,1,communications and it sector,customers service,customer services representative,1,0,1,1,1,3,0,0,0,0,1,1,0,2,2,3,3,2,0,0,0,3,2,1,1,0,0.5,0,0
+1,3,2,3,1,education sector,administration,supervisor,1,0,1,0,1,2,0,1,2,1,1,2,1,3,2,2,2,1,2,0,0,3,2,1,1,0,0.25,2,2
+0,2,3,2,2,energy sector,marketing,marketing specialist,2,1,1,0,0,1,1,1,1,1,1,3,1,3,1,2,2,2,2,1,0,2,2,1,1,0,0.6666666666666666,1,0
+0,2,2,2,1,education sector,administration,manger assistant,1,2,1,1,0,1,0,0,1,1,2,2,1,2,2,1,1,2,1,0,0,2,2,0,1,0,0.3333333333333333,0,1
+0,1,2,1,1,medical sector,administration,administrative manager,2,3,1,1,1,3,1,1,3,1,2,3,1,3,2,2,2,0,1,1,0,3,3,0,1,0,1.0,0,0
+0,2,2,2,2,medical sector,patient affairs,nurse,2,3,1,1,1,3,1,1,2,1,2,3,1,3,3,3,2,2,0,1,1,3,2,1,1,0,0.6666666666666666,2,0
+1,1,2,1,1,medical sector,patient affairs,pharmacist,3,2,1,1,1,3,1,1,3,1,1,3,1,2,2,2,1,1,1,0,0,2,2,1,1,0,1.5,3,0
+1,1,2,1,1,law firm,legal affairs,lawyer,1,0,1,0,0,2,0,0,0,0,1,1,1,3,3,1,2,1,1,1,0,3,2,0,1,0,0.5,0,0
+1,1,2,1,1,medical sector,customers service,customer services representative,1,1,1,0,0,3,0,0,0,1,1,1,0,1,1,3,1,2,2,0,1,1,1,0,0,1,0.5,0,0
+0,1,2,1,1,medical sector,patient affairs,pharmacist,2,2,1,1,1,3,1,1,3,1,3,3,1,3,3,1,2,1,1,1,0,3,3,0,0,1,1.0,0,0
+1,1,3,1,1,education sector,teaching,trainer,1,2,0,0,1,2,0,0,0,0,1,1,0,1,3,1,2,1,2,1,0,2,3,1,1,0,0.5,0,0
+1,3,3,3,3,financial sector,accounting,financial analyst,2,4,1,1,1,3,1,1,1,1,2,3,1,3,2,1,3,1,1,1,0,2,2,1,1,0,0.5,1,0
+1,1,2,2,2,financial sector,customers service,receptionist,2,3,1,1,1,3,1,1,3,1,2,3,0,3,2,1,3,1,0,1,0,3,3,0,0,1,0.6666666666666666,0,0
+1,1,2,1,1,education sector,teaching,teacher,1,0,0,0,0,1,0,0,1,1,1,2,1,1,2,1,3,2,2,0,0,1,1,0,0,1,0.5,0,0
+0,1,2,2,1,financial sector,banking operations,banking operations,2,2,1,1,1,1,1,1,1,1,1,2,1,2,2,2,2,1,0,1,0,2,3,1,1,0,0.6666666666666666,1,1
+1,3,2,5,5,education sector,teaching,teacher,1,1,0,0,1,2,0,0,1,1,1,2,1,3,2,2,3,1,1,0,0,3,2,1,1,0,0.16666666666666666,1,0
+1,1,2,1,1,law firm,legal affairs,lawyer,2,0,0,0,1,2,0,0,1,1,1,1,0,3,1,2,3,0,2,0,0,1,2,0,1,0,1.0,0,0
+1,2,2,1,1,food production sector,processes,data entry operator,1,0,1,0,0,1,0,0,1,0,1,1,0,1,1,1,2,0,0,0,0,1,1,0,1,0,0.5,0,0
+0,2,2,2,2,medical sector,patient affairs,doctor,3,4,1,1,1,3,1,1,3,1,1,3,1,2,2,1,3,1,0,1,0,2,3,0,1,0,1.0,0,0
+0,3,2,3,3,economic sector,administration,administrative manager,3,0,1,1,1,3,1,1,2,1,3,2,1,2,2,2,2,0,0,1,1,2,2,1,1,0,0.75,2,0
+0,1,2,2,2,medical sector,processes,supervisor,3,2,1,0,1,2,1,1,3,1,2,2,1,3,2,2,2,0,0,1,0,2,2,1,0,1,1.0,3,0
+1,2,2,2,2,financial sector,sales,salesman,2,2,1,0,0,1,0,0,2,1,2,2,0,1,3,2,3,1,1,0,0,3,3,0,1,0,0.6666666666666666,0,0
+0,1,2,1,1,engineering consulting companies,processes,civil engineer,2,1,0,0,1,2,0,0,0,0,2,1,0,3,3,2,2,1,1,0,0,2,2,1,0,1,1.0,0,0
+1,1,1,1,1,education sector,relations,coordinator,2,0,1,1,1,3,1,1,3,1,2,3,1,3,2,2,1,0,0,1,1,3,2,1,0,1,1.0,3,0
+0,3,3,1,1,medical sector,patient affairs,doctor,3,1,1,1,0,3,1,1,1,1,2,3,1,3,3,1,3,0,0,1,0,3,3,0,1,0,1.5,0,0
+1,1,1,1,1,education sector,teaching,teacher,1,0,0,0,0,1,1,0,1,1,1,2,1,2,3,2,3,2,2,1,0,1,2,0,0,1,0.5,0,0
+0,1,2,2,1,economic sector,administration,secretariat,2,0,1,0,0,1,0,0,0,0,2,2,1,3,1,2,2,0,0,1,1,3,2,1,0,1,0.6666666666666666,0,1
+1,1,1,2,1,media sector,processes,graphic designer,1,0,0,0,0,2,1,0,0,0,1,2,0,2,2,3,3,0,1,0,0,2,1,1,0,1,0.3333333333333333,0,1
+1,1,2,1,1,medical sector,processes,insurance officer,1,0,0,0,0,2,0,0,0,0,1,1,0,1,1,3,1,2,2,0,0,1,1,0,0,1,0.5,0,0
+1,2,2,2,1,education sector,teaching,teacher,1,0,1,0,0,1,0,0,1,0,1,1,0,2,2,2,2,2,2,0,0,2,2,0,1,0,0.3333333333333333,0,1
+0,3,4,3,2,medical sector,patient affairs,doctor,4,4,1,1,1,3,1,1,3,1,3,3,1,3,2,2,2,2,2,1,1,3,3,1,1,0,1.0,3,1
+0,1,2,1,1,industry sector,production,production supervisor,1,0,0,0,0,1,0,0,1,1,1,2,1,2,1,1,3,1,1,0,0,1,1,1,0,1,0.5,1,0
+1,1,2,1,1,medical sector,customers service,customer services representative,1,0,1,1,0,1,0,0,0,0,1,2,1,2,2,1,2,1,1,1,0,2,2,0,0,1,0.5,0,0
+0,1,1,1,1,food production sector,processes,electrical engineer,1,2,0,0,1,3,0,0,2,1,2,2,1,2,2,3,1,1,1,0,0,2,1,1,0,1,0.5,2,0
+1,1,1,3,3,food production sector,sales,salesman,1,1,0,1,1,3,1,1,1,1,1,2,0,3,2,1,3,0,0,1,0,3,3,0,0,1,0.25,0,0
+1,2,2,1,1,food production sector,sales,salesman,1,2,1,1,0,1,0,0,2,1,1,1,1,3,3,2,1,2,2,0,0,2,2,1,0,1,0.5,2,0
+0,2,3,2,1,medical sector,patient affairs,doctor,4,1,1,0,1,2,0,0,1,0,3,1,0,2,2,1,1,2,2,0,0,2,2,1,1,0,1.3333333333333333,1,1
+0,1,1,1,1,medical sector,safety & security,security and safety specialist,1,0,1,0,0,3,0,0,0,0,1,2,0,2,2,2,2,1,2,0,0,2,1,0,0,1,0.5,0,0
+1,1,2,1,1,education sector,teaching,lecturer,2,0,0,0,0,1,1,0,0,0,1,1,0,1,2,3,3,1,2,0,0,2,1,1,0,1,1.0,0,0
+1,2,2,2,2,communications and it sector,administration,administrative manager,2,2,1,0,0,2,0,0,1,0,1,1,1,3,2,3,2,2,0,1,1,3,2,1,1,0,0.6666666666666666,1,0
+1,2,2,1,1,medical sector,sales,sales representative,2,2,1,0,0,1,1,0,0,0,1,1,0,1,3,1,2,2,2,0,0,2,3,1,1,0,1.0,0,0
+1,3,2,2,2,medical sector,patient affairs,doctor,2,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,2,2,2,0,0,1,1,0,1,0,0.6666666666666666,0,0
+0,2,3,2,2,education sector,teaching,teacher,2,0,1,0,0,1,1,1,3,1,1,3,1,3,2,2,2,1,0,1,0,2,2,0,1,0,0.6666666666666666,0,0
+0,1,2,2,1,tourism sector,administration,administrative manager,1,2,0,0,0,2,0,0,0,1,1,2,0,2,2,2,2,2,2,0,0,2,2,0,0,1,0.3333333333333333,0,1
+1,2,2,5,5,energy sector,relations,coordinator,3,2,1,0,0,1,1,1,1,1,2,3,1,3,2,1,2,0,1,1,0,3,3,0,0,0,0.5,0,0
+1,1,2,1,1,"environment, water, and agriculture sector",customers service,customer services representative,3,2,1,1,1,3,0,0,1,1,2,2,0,1,3,3,3,0,2,1,0,2,2,1,1,0,1.5,1,0
+0,3,2,5,3,communications and it sector,customers service,customer services representative,4,2,1,0,0,1,0,1,1,1,2,1,1,2,2,1,3,2,1,0,0,2,2,0,1,0,0.6666666666666666,0,2
+0,2,1,1,1,financial sector,accounting,financial analyst,1,0,0,0,0,1,0,0,0,0,1,2,1,2,2,2,2,1,0,0,0,2,2,1,1,0,0.5,0,0
+0,2,3,2,1,financial sector,processes,operations supervisor,2,2,1,1,0,2,0,0,1,0,1,2,0,2,1,1,1,2,2,0,0,1,1,1,1,0,0.6666666666666666,1,1
+1,1,2,1,1,food production sector,sales,sales representative,1,2,0,0,0,2,1,1,1,1,2,3,1,3,2,2,2,0,0,0,0,2,2,1,0,1,0.5,1,0
+1,1,2,2,1,economic sector,sales,sales representative,1,0,1,0,1,3,0,0,0,0,1,1,0,1,2,2,2,1,1,0,0,1,2,1,0,1,0.3333333333333333,0,1
+1,1,3,2,1,medical sector,administration,supervisor,2,1,0,1,1,3,1,1,1,1,2,3,1,3,2,2,1,0,1,1,0,3,3,1,0,1,0.6666666666666666,1,1
+1,1,2,1,1,"environment, water, and agriculture sector",accounting,accountant,2,0,0,0,1,3,1,1,3,1,1,2,1,3,2,2,2,0,0,0,0,2,2,0,1,0,1.0,0,0
+1,1,2,1,1,financial sector,accounting,accountant,2,4,1,1,1,2,1,1,2,1,1,2,0,2,1,1,2,1,2,1,0,1,1,1,0,1,1.0,2,0
+1,1,2,1,1,medical sector,technical support,it specialist,2,0,1,0,0,1,0,0,1,1,1,2,1,2,2,2,2,0,0,0,0,2,2,1,0,1,1.0,1,0
+1,1,2,2,1,tourism sector,administration,administrative manager,2,2,1,1,1,3,1,0,0,0,1,1,0,1,2,2,2,1,1,0,0,1,1,1,0,1,0.6666666666666666,0,1
+1,2,2,2,2,education sector,teaching,teacher,2,0,1,0,0,1,0,1,0,0,1,3,1,3,2,2,2,1,1,1,0,2,3,0,1,0,0.6666666666666666,0,0
+0,3,1,5,2,medical sector,medical service,supervisor,2,0,1,0,1,3,1,1,1,1,2,3,1,3,3,2,3,2,0,1,0,3,3,1,1,0,0.3333333333333333,1,3
+1,1,2,1,1,food production sector,sales,salesman,1,2,1,0,1,3,0,0,1,0,1,1,0,2,1,2,2,2,2,0,0,2,1,1,0,1,0.5,1,0
+1,2,2,1,1,education sector,teaching,teacher,2,0,0,0,0,1,0,0,0,0,1,1,1,1,2,2,2,0,0,0,0,2,3,1,1,0,1.0,0,0
+0,1,2,3,3,financial sector,treasury,treasury agent,4,2,1,1,1,1,0,0,0,1,1,2,1,1,2,2,2,1,1,0,0,1,1,1,0,1,1.0,0,0
+0,3,2,2,2,industry sector,sales,consultant,2,1,0,0,1,3,0,1,0,0,1,2,1,3,2,2,2,2,1,1,0,2,2,0,0,1,0.6666666666666666,0,0
+1,2,1,1,1,economic sector,sales,sales representative,1,0,1,1,1,3,1,0,0,0,1,2,0,2,1,3,2,2,0,0,0,1,1,0,0,1,0.5,0,0
+1,2,2,1,1,medical sector,patient affairs,nurse,1,0,1,0,0,3,0,0,0,0,1,1,0,1,3,1,2,0,0,0,0,3,1,0,0,1,0.5,0,0
+1,2,1,2,1,medical sector,patient affairs,data entry operator,1,2,0,0,0,1,0,0,2,1,1,2,0,1,3,1,3,2,2,0,0,2,1,1,1,0,0.3333333333333333,2,1
+1,1,3,2,2,medical sector,patient affairs,nurse,1,3,0,0,0,1,1,0,3,1,1,3,1,3,2,2,2,0,0,0,0,2,2,0,1,0,0.3333333333333333,0,0
+0,2,2,1,1,medical sector,administration,administrative manager,2,2,1,0,1,2,0,0,0,0,1,1,1,2,2,1,2,1,2,0,0,2,2,0,1,0,1.0,0,0
+0,2,1,1,1,food production sector,technical support,mechanical engineer,1,3,1,1,1,3,1,1,3,1,3,3,1,2,3,2,2,2,0,1,1,2,2,0,1,0,0.5,0,0
+1,1,1,1,1,tourism sector,technical support,supervisor,1,0,1,1,1,3,0,0,0,0,1,3,1,2,2,2,2,1,1,0,0,2,2,0,0,1,0.5,0,0
+0,2,2,2,2,financial sector,administration,financial manager,3,1,1,1,1,3,1,1,1,1,2,3,1,3,2,2,1,2,1,1,1,2,3,1,0,1,1.0,1,0
+1,1,2,2,1,medical sector,relations,relationships specialist,2,1,1,0,0,1,1,0,2,1,1,2,1,2,2,1,2,0,0,0,0,2,2,1,1,0,0.6666666666666666,2,1
+1,1,1,2,2,financial sector,processes,scribe,2,2,1,0,0,1,1,1,2,1,2,3,1,3,2,2,2,1,1,1,0,3,2,0,1,0,0.6666666666666666,0,0
+0,1,2,1,1,financial sector,customers service,receptionist,2,0,1,0,0,1,1,0,0,0,1,2,1,2,2,1,2,1,0,1,0,3,2,0,0,1,1.0,0,0
+1,2,3,2,2,food production sector,sales,salesman,3,2,1,1,0,2,0,0,1,0,1,2,0,2,3,1,3,0,0,1,0,2,2,1,1,0,1.0,1,0
+0,1,1,1,1,medical sector,customers service,receptionist,2,1,1,0,0,1,1,1,1,1,1,3,1,3,3,1,2,1,1,0,1,2,2,1,0,1,1.0,1,0
+0,3,2,5,1,food production sector,sales,sales executive,2,2,1,1,1,2,0,0,0,0,3,1,0,2,1,3,1,2,2,1,0,1,2,1,1,0,0.3333333333333333,0,4
+0,3,2,2,2,education sector,teaching,teacher,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,2,1,2,2,0,1,1,1,1,1,0,0.3333333333333333,0,0
+1,2,2,2,2,education sector,teaching,teacher,2,0,1,1,0,1,1,1,3,1,1,2,0,2,2,2,2,0,1,1,0,2,2,0,1,0,0.6666666666666666,0,0
+0,2,3,2,2,medical sector,administration,administrative manager,3,1,1,1,1,3,1,1,1,1,1,2,1,2,2,1,2,0,1,1,0,2,2,1,0,1,1.0,1,0
+1,2,3,3,3,"environment, water, and agriculture sector",administration,administrative manager,2,4,1,1,1,3,1,1,2,1,1,3,1,1,3,1,3,0,0,0,0,2,2,0,1,0,0.5,0,0
+0,3,3,1,1,financial sector,accounting,admin accountant,2,0,0,0,1,2,0,0,0,0,1,1,0,3,1,2,1,2,2,0,0,1,1,1,1,0,1.0,0,0
+1,2,2,3,3,education sector,teaching,teacher,3,0,0,0,0,1,1,1,2,1,1,1,0,2,1,1,2,2,2,0,0,2,2,0,1,0,0.75,0,0
+0,2,2,3,3,education sector,teaching,teacher,3,1,0,0,1,3,1,1,3,1,1,3,1,3,3,1,3,1,0,1,0,3,2,0,1,0,0.75,0,0
+0,2,2,4,4,transport sector,customers service,customer services representative,2,3,1,1,1,3,1,1,1,1,1,3,1,3,2,2,2,0,1,1,1,2,2,0,1,0,0.4,0,0
+1,1,2,1,1,food production sector,sales,sales representative,1,2,1,0,1,3,0,0,1,0,2,1,0,1,2,2,1,1,1,0,0,2,1,1,0,1,0.5,1,0
+1,1,2,2,1,food production sector,sales,sales representative,1,2,0,0,1,2,0,0,1,1,2,2,1,2,2,3,2,2,2,0,0,2,1,1,0,1,0.3333333333333333,1,1
+0,1,2,1,1,engineering consulting companies,studies and design,civil engineer,1,2,1,1,1,2,1,1,1,1,1,2,1,2,2,2,1,2,2,1,0,2,2,1,0,1,0.5,1,0
+1,2,2,1,1,education sector,teaching,teacher,1,0,0,0,0,1,0,0,1,1,1,1,1,1,2,1,2,1,0,1,0,2,2,0,1,0,0.5,0,0
+0,2,3,1,1,transport sector,information technology,it specialist,2,4,1,1,1,3,1,1,3,1,3,3,1,3,2,2,2,0,0,1,0,2,2,1,1,0,1.0,3,0
+1,2,3,2,2,financial sector,banking operations,banking operations,3,2,1,0,0,1,1,1,2,1,1,2,1,3,3,2,2,1,1,1,0,3,2,0,1,0,1.0,0,0
+1,1,2,2,2,education sector,teaching,teacher,1,0,0,0,0,1,1,1,3,1,1,3,1,3,3,1,3,0,0,1,0,3,3,1,1,0,0.3333333333333333,3,0
+1,3,2,5,5,education sector,teaching,teacher,2,0,0,0,0,1,1,0,3,1,1,2,1,3,3,2,2,2,2,1,0,3,3,0,1,0,0.3333333333333333,0,0
+1,4,1,7,7,education sector,teaching,teacher,2,1,0,0,0,1,0,0,1,1,1,1,1,2,3,2,3,1,1,1,1,3,2,1,1,0,0.25,1,0
+1,2,2,2,2,medical sector,customers service,receptionist,2,1,0,0,0,1,0,0,3,0,1,1,0,1,2,3,2,1,2,0,0,2,1,1,1,0,0.6666666666666666,3,0
+1,1,2,1,1,economic sector,accounting,accountant,2,2,1,0,0,1,0,1,0,0,1,1,0,3,1,2,1,1,2,1,0,2,1,0,0,1,1.0,0,0
+0,2,2,3,3,education sector,teaching,teacher,2,1,0,0,0,1,0,0,1,1,1,1,0,2,2,2,2,2,1,0,0,2,2,0,1,0,0.5,0,0
+1,1,1,1,1,medical sector,customers service,receptionist,1,1,1,0,1,3,1,1,0,1,1,2,1,3,2,2,3,1,0,1,0,3,3,0,0,1,0.5,0,0
+1,1,2,1,1,education sector,training,trainer,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,3,2,2,0,0,1,1,1,0,1,0.5,0,0
+0,1,2,2,1,financial sector,administration,financial manager,1,0,0,1,0,2,1,1,0,0,2,3,1,3,3,2,3,1,0,0,0,3,3,1,0,1,0.3333333333333333,0,1
+1,3,2,2,2,financial sector,accounting,financial analyst,4,2,1,1,0,1,0,0,0,1,1,2,1,3,2,2,3,0,1,1,0,2,2,1,1,0,1.3333333333333333,0,0
+1,2,2,1,1,education sector,teaching,teacher,1,0,1,0,0,1,0,0,0,0,1,1,0,1,2,2,2,2,2,0,0,2,1,0,1,0,0.5,0,0
+0,3,2,4,1,communications and it sector,information technology,project manager,7,3,1,1,0,1,0,0,2,1,1,2,0,3,2,2,2,0,2,0,0,2,2,1,1,0,1.4,2,3
+0,1,2,1,1,industry sector,hr,hr specialist,1,2,1,0,0,2,0,0,0,0,2,2,1,2,2,1,2,2,1,0,0,2,2,1,0,1,0.5,0,0
+0,1,1,2,1,energy sector,processes,electrical engineer,1,2,1,0,0,1,0,0,0,0,1,1,0,1,1,1,1,2,2,1,0,1,1,0,0,1,0.3333333333333333,0,1
+1,1,1,1,1,education sector,administration,manger assistant,1,0,1,0,0,1,0,0,2,1,1,2,1,2,2,2,2,2,2,0,0,1,2,0,0,1,0.5,0,0
+0,2,3,4,1,food production sector,administration,manger assistant,1,0,0,0,0,1,1,0,1,1,1,1,0,2,1,1,2,0,0,0,0,2,1,0,1,0,0.2,0,3
+1,1,3,1,1,education sector,teaching,teacher,2,3,1,0,1,2,0,1,2,1,1,1,0,2,2,2,1,2,2,0,0,2,2,1,0,1,1.0,2,0
+0,2,2,2,2,food production sector,administration,supervisor,3,2,1,1,0,1,1,1,1,1,2,3,1,2,2,2,2,0,0,1,0,3,3,0,1,0,1.0,0,0
+1,1,2,1,1,financial sector,sales,salesman,1,0,0,0,0,1,0,0,0,0,1,1,0,1,2,1,2,1,2,0,0,1,1,1,0,1,0.5,0,0
+1,1,2,1,1,medical sector,patient affairs,nutrition specialist,2,2,1,0,1,2,0,0,0,0,1,2,0,3,2,2,2,2,2,1,0,1,1,0,0,1,1.0,0,0
+0,2,3,2,2,economic sector,administration,administrative manager,3,2,1,1,1,3,1,1,1,1,3,3,1,2,2,2,2,0,1,1,1,2,2,1,1,0,1.0,1,0
+1,2,4,2,2,medical sector,patient affairs,doctor,7,4,1,1,1,3,1,1,2,1,1,3,1,2,2,2,1,1,1,1,0,2,2,0,1,0,2.3333333333333335,0,0
+1,2,3,1,1,medical sector,customers service,receptionist,2,0,1,0,0,1,0,0,0,0,1,1,0,1,1,2,1,1,2,0,0,1,1,0,1,0,1.0,0,0
+0,1,2,2,1,medical sector,customers service,customer services representative,2,0,1,0,0,1,0,0,2,1,1,2,1,2,1,2,2,0,0,0,0,2,2,1,0,1,0.6666666666666666,2,1
+0,2,2,1,1,medical sector,patient affairs,nurse,1,3,1,1,1,3,1,1,2,1,2,3,1,3,2,2,2,0,0,1,0,2,2,0,0,0,0.5,0,0
+1,1,2,1,1,transport sector,hr,hr specialist,2,2,1,1,0,1,1,1,1,1,1,2,1,2,2,2,1,1,2,0,0,2,2,1,0,1,1.0,1,0
+0,1,1,2,2,medical sector,customers service,receptionist,2,0,1,1,1,3,1,1,2,1,1,2,1,2,2,2,2,0,0,1,0,2,3,1,0,1,0.6666666666666666,2,0
+1,1,2,1,1,economic sector,administration,administrative manager,2,2,1,1,0,3,1,1,0,0,1,2,1,3,3,1,3,2,2,1,0,3,3,0,0,1,1.0,0,0
+1,1,2,2,1,transport sector,processes,purchase specialist,3,0,1,1,1,3,1,1,1,1,2,2,1,2,2,2,2,0,1,1,1,3,2,1,1,0,1.0,1,1
+0,1,2,1,1,financial sector,technical support,it specialist,2,2,1,1,0,1,0,0,0,0,1,1,0,3,2,2,1,1,1,1,0,3,1,0,0,1,1.0,0,0
+1,1,2,1,1,communications and it sector,administration,manger assistant,2,1,0,1,0,1,1,1,2,1,1,2,1,2,2,2,3,1,1,0,0,2,2,0,0,1,1.0,0,0
+1,1,2,1,1,education sector,teaching,teacher,1,0,1,1,0,1,1,1,1,1,1,3,1,3,3,3,2,0,0,1,0,2,2,0,0,1,0.5,0,0
+0,2,2,4,1,communications and it sector,customers service,customer services representative,2,2,1,1,1,3,0,0,3,1,2,1,0,1,1,2,2,2,2,0,0,2,1,0,1,0,0.4,0,3
+1,1,1,1,1,energy sector,sales,sales executive,1,2,1,1,0,2,0,0,1,0,2,3,1,3,2,1,1,2,2,1,0,1,2,1,0,1,0.5,1,0
+1,1,2,1,1,economic sector,administration,secretariat,1,0,0,0,0,1,1,0,0,0,1,1,0,3,3,1,3,0,2,1,1,3,1,1,1,0,0.5,0,0
+1,2,2,2,1,medical sector,administration,secretariat,1,0,1,1,0,1,1,0,1,1,1,2,1,3,2,2,3,1,1,0,0,3,3,0,0,1,0.3333333333333333,0,1
+1,1,2,2,2,transport sector,administration,administrative manager,1,0,0,0,0,1,0,0,0,0,1,1,0,1,3,2,2,1,1,0,0,1,1,0,1,0,0.3333333333333333,0,0
+1,2,2,2,2,energy sector,processes,operations supervisor,3,2,1,1,1,3,1,1,2,1,2,3,1,3,2,2,2,2,1,1,0,3,3,0,1,0,1.0,0,0
+0,2,3,2,2,financial sector,sales,sales executive,2,4,1,1,1,3,1,1,2,1,3,3,1,3,3,1,3,0,0,1,0,3,2,0,1,0,0.6666666666666666,0,0
+1,1,3,2,2,medical sector,administration,administrative manager,3,3,1,1,1,3,1,1,3,1,1,3,1,3,2,2,2,1,2,0,1,2,3,1,0,0,1.0,3,0
+0,2,1,2,2,food production sector,safety & security,security and safety specialist,1,2,0,0,0,1,0,0,0,0,1,3,1,2,1,1,2,1,1,0,0,3,1,0,1,0,0.3333333333333333,0,0
+1,2,1,1,1,food production sector,sales,administrative manager,1,0,0,0,1,3,1,1,0,0,1,1,0,1,2,1,2,1,1,1,0,2,2,0,1,0,0.5,0,0
+1,1,2,2,2,education sector,administration,administrative manager,2,0,0,0,0,2,1,1,2,1,1,3,1,3,2,2,2,1,1,1,0,2,2,0,1,0,0.6666666666666666,0,0
+0,2,1,3,3,medical sector,safety & security,security and safety specialist,2,1,1,0,0,1,1,1,0,0,1,3,1,3,2,2,2,1,1,1,0,3,2,0,1,0,0.5,0,0
+1,1,2,1,1,medical sector,patient affairs,pharmacist,2,0,0,1,0,2,0,1,0,0,1,1,0,2,2,1,1,2,2,0,0,1,1,1,1,0,1.0,0,0
+0,3,1,3,3,food production sector,processes,driver,1,3,1,0,1,3,1,1,2,1,3,3,1,3,2,2,2,0,2,1,1,2,2,1,1,0,0.25,2,0
+1,1,2,1,1,transport sector,customers service,customer services representative,1,1,1,1,1,3,1,0,0,0,1,3,1,2,3,2,1,1,1,0,0,3,2,1,0,1,0.5,0,0
+0,1,4,4,4,medical sector,patient affairs,doctor,4,4,1,1,1,3,1,1,3,1,1,3,1,3,3,1,2,0,1,1,0,3,3,0,1,0,0.8,0,0
+1,3,2,3,3,education sector,administration,administrative manager,3,2,1,1,1,3,1,1,3,1,2,3,1,3,2,2,2,0,0,1,0,2,2,1,1,0,0.75,3,0
+1,1,1,1,1,economic sector,customers service,customer services representative,1,2,1,0,0,1,1,0,0,0,1,2,1,2,3,2,2,2,2,0,0,2,2,0,0,1,0.5,0,0
+0,2,2,2,1,energy sector,processes,electrical engineer,2,2,1,0,0,3,0,0,0,0,1,2,0,1,2,3,1,2,2,0,0,1,2,1,1,0,0.6666666666666666,0,1
+1,2,2,1,1,medical sector,customers service,nurse,1,3,1,1,1,3,1,1,2,1,1,3,1,2,2,2,2,2,0,1,1,3,2,1,1,0,0.5,2,0
+1,1,2,1,1,medical sector,customers service,receptionist,2,0,1,0,1,2,1,1,3,1,2,2,1,2,2,2,2,0,0,0,0,2,2,1,1,0,1.0,3,0
+0,1,2,2,2,medical sector,technical support,it specialist,1,0,1,0,0,1,0,0,0,0,1,1,0,2,3,1,3,2,2,0,1,2,1,1,1,0,0.3333333333333333,0,0
+1,2,2,2,2,education sector,teaching,teacher,2,0,0,0,0,1,1,0,3,1,1,3,1,3,2,2,2,1,1,1,0,2,2,0,1,0,0.6666666666666666,0,0
+1,1,2,2,1,medical sector,customers service,receptionist,1,0,0,0,0,1,0,0,2,1,1,2,0,2,2,2,2,0,2,0,0,2,1,0,0,1,0.3333333333333333,0,1
+0,1,1,1,1,food production sector,processes,quality controller,2,0,1,0,0,1,0,0,1,0,1,2,0,2,1,2,2,1,1,0,0,2,2,1,0,1,1.0,1,0
+1,1,3,2,1,education sector,administration,coordinator,1,1,0,0,1,2,0,0,1,0,1,1,0,3,1,3,1,2,2,0,0,2,1,1,1,0,0.3333333333333333,1,1
+0,1,2,1,1,food production sector,hr,supervisor,3,2,1,1,0,1,1,1,3,1,2,2,1,3,2,1,2,0,0,1,0,3,3,0,0,1,1.5,0,0
+1,3,2,4,4,education sector,teaching,teacher,3,1,0,0,0,1,1,0,3,1,1,1,1,3,2,2,2,1,1,1,0,3,3,0,1,0,0.6,0,0
+0,1,1,1,1,transport sector,administration,supervisor,1,4,1,1,1,3,1,1,1,1,2,3,1,3,2,2,2,0,0,1,0,3,3,0,0,1,0.5,0,0
+1,1,2,2,1,medical sector,administration,supervisor,1,1,0,1,1,3,1,0,1,1,1,2,0,2,2,3,1,2,2,0,0,2,2,1,1,0,0.3333333333333333,1,1
+1,2,1,2,2,food production sector,sales,sales representative,1,1,1,1,0,3,1,0,1,1,1,2,1,2,2,2,2,1,1,1,0,2,2,1,1,0,0.3333333333333333,1,0
+1,1,2,2,1,communications and it sector,sales,sales executive,2,0,1,1,1,3,0,0,1,1,2,2,1,2,1,3,2,1,1,1,0,2,2,1,1,0,0.6666666666666666,1,1
+0,1,2,2,1,restaurant sector,administration,administrative manager,2,2,1,1,0,1,1,0,1,1,1,1,0,3,2,3,1,2,2,0,0,1,1,1,0,1,0.6666666666666666,1,1
+1,1,2,1,1,medical sector,patient affairs,dentist,2,1,1,1,0,1,1,1,0,1,1,3,1,3,3,2,2,2,0,1,0,3,3,1,0,1,1.0,0,0
+0,2,3,1,1,communications and it sector,hr,consultant,3,1,0,0,0,1,0,0,1,1,2,1,0,1,2,1,3,1,1,1,0,2,2,0,1,0,1.5,0,0
+1,3,2,4,4,education sector,teaching,teacher,1,1,0,0,0,1,1,0,2,1,1,2,1,2,3,1,2,2,1,1,0,2,2,0,1,0,0.2,0,0
+0,1,2,1,1,medical sector,administration,administrative manager,1,0,1,0,1,3,0,0,1,1,2,1,0,1,2,2,2,2,2,0,0,2,1,0,0,1,0.5,0,0
+1,2,2,2,1,medical sector,administration,manger assistant,1,0,0,0,0,1,0,0,1,1,1,2,0,2,2,1,2,0,0,0,0,2,2,0,1,0,0.3333333333333333,0,1
+0,1,1,2,2,energy sector,safety & security,security and safety specialist,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,3,1,1,0,0,1,1,0,0,1,0.3333333333333333,0,0
+0,3,4,1,1,education sector,teaching,teacher,1,1,0,0,0,1,0,0,2,0,1,1,0,1,1,2,3,2,2,0,0,1,1,1,1,0,0.5,2,0
+1,1,1,1,1,communications and it sector,customers service,customer services representative,2,0,1,1,1,2,0,0,1,1,1,2,1,2,2,1,2,1,1,1,0,2,2,1,0,1,1.0,1,0
+0,1,1,1,1,transport sector,customers service,receptionist,1,1,1,0,1,2,0,0,0,0,1,2,1,3,3,2,2,1,0,0,0,2,3,0,0,1,0.5,0,0
+0,1,2,1,1,medical sector,patient affairs,dentist,2,1,1,0,1,2,0,0,1,1,2,2,0,3,2,2,2,2,2,0,0,2,1,1,0,1,1.0,1,0
+0,4,2,7,7,tourism sector,technical support,supervisor,2,0,0,0,0,2,1,0,1,0,1,3,1,2,3,2,2,2,2,0,0,2,2,0,1,0,0.25,0,0
+0,2,3,3,1,financial sector,accounting,accountant,2,0,1,0,0,1,0,0,1,0,1,1,0,1,2,1,2,0,0,0,0,2,2,0,1,0,0.5,0,2
+1,1,2,1,1,communications and it sector,customers service,customer services representative,1,0,1,0,1,2,0,0,1,1,1,2,0,2,1,1,2,0,0,0,0,2,2,1,0,1,0.5,1,0
+0,1,1,1,1,transport sector,customers service,customer services representative,1,1,0,1,1,3,0,0,0,1,1,1,1,2,2,2,2,1,1,1,0,3,3,0,0,1,0.5,0,0
+0,1,2,1,1,medical sector,patient affairs,receptionist,2,2,1,0,0,1,0,0,1,0,1,2,0,2,1,1,1,2,2,0,0,1,1,1,0,1,1.0,1,0
+0,2,2,2,2,medical sector,patient affairs,nurse,1,0,1,1,1,3,0,0,0,0,1,2,0,2,2,2,2,0,2,0,0,2,1,0,1,0,0.3333333333333333,0,0
+1,1,1,1,1,food production sector,sales,salesman,1,1,1,1,0,2,1,1,0,1,1,2,1,2,2,1,2,1,0,1,0,2,2,0,0,1,0.5,0,0
+0,2,2,2,2,"environment, water, and agriculture sector",hr,hiring specialist,3,2,1,0,0,1,0,0,1,1,1,3,1,2,2,2,2,0,0,1,0,2,2,1,1,0,1.0,1,0
+1,1,2,1,1,law firm,legal affairs,lawyer,1,0,0,0,1,2,0,0,0,0,1,1,0,1,1,3,2,2,2,0,0,1,1,1,0,1,0.5,0,0
+0,1,2,2,1,financial sector,treasury,head of treasury,4,2,1,0,1,1,0,0,0,0,1,1,1,2,2,2,1,1,0,1,0,1,2,1,0,1,1.3333333333333333,0,1
+0,1,2,1,1,medical sector,customers service,receptionist,2,0,0,0,0,1,0,0,0,0,1,1,0,1,3,2,2,1,2,0,0,1,1,1,1,0,1.0,0,0
+0,2,2,2,1,economic sector,administration,administrative manager,3,2,1,0,0,1,0,0,1,1,2,2,0,2,2,3,2,0,1,0,0,2,2,1,0,1,1.0,1,1
+1,4,2,1,1,education sector,teaching,teacher,1,0,0,1,0,2,0,1,1,1,1,3,1,3,2,2,2,1,1,1,0,2,2,1,1,0,0.5,1,0
+1,1,2,2,1,food production sector,hr,hiring specialist,3,1,1,1,1,3,1,1,1,1,1,3,1,2,2,1,2,1,1,1,0,3,3,1,1,0,1.0,1,1
+1,2,3,2,2,education sector,teaching,lecturer,2,1,0,0,0,1,0,0,1,1,1,2,1,2,1,3,2,2,2,1,0,2,2,1,0,1,0.6666666666666666,1,0
+1,1,2,1,1,tourism sector,customers service,receptionist,1,2,1,0,0,1,1,0,1,1,2,3,1,3,2,2,2,1,1,0,0,3,2,0,1,0,0.5,0,0
+1,1,2,2,2,transport sector,relations,coordinator,2,0,1,1,1,2,1,1,2,1,1,3,1,3,2,2,3,0,1,1,1,3,3,1,1,0,0.6666666666666666,2,0
+1,1,2,1,1,financial sector,administration,manger assistant,1,0,0,1,1,1,0,0,1,1,1,2,1,2,2,2,2,2,2,1,0,2,2,0,0,1,0.5,0,0
+0,2,1,4,1,food production sector,processes,lab specialist,1,0,0,0,1,2,0,0,2,1,1,1,0,2,2,1,2,1,1,0,0,2,1,1,1,0,0.2,2,3
+0,1,2,2,1,industry sector,marketing,marketing specialist,1,1,1,1,1,3,0,0,0,0,2,1,0,2,2,2,3,0,1,1,0,2,2,0,0,1,0.3333333333333333,0,1
+0,1,2,1,1,medical sector,customers service,customer services representative,1,0,1,0,1,2,0,0,1,1,1,2,1,2,2,1,2,0,0,0,0,2,2,1,0,1,0.5,1,0
+0,1,2,5,5,education sector,teaching,teacher,1,0,1,0,1,2,0,0,1,1,1,2,0,3,3,2,3,2,0,1,0,2,2,0,1,0,0.16666666666666666,0,0
+1,3,2,4,4,education sector,teaching,teacher,2,0,0,0,0,1,1,0,3,1,1,1,1,3,2,2,2,2,1,1,0,2,2,0,1,0,0.4,0,0
+0,2,2,2,2,financial sector,administration,admin accountant,3,2,1,1,0,1,1,1,2,1,2,2,1,3,3,3,2,0,1,1,1,3,2,1,1,0,1.0,2,0
+1,2,3,2,2,education sector,administration,administrative manager,2,2,1,1,1,2,1,1,3,1,1,3,1,3,2,2,2,0,0,1,0,2,2,1,1,0,0.6666666666666666,3,0
+1,1,2,1,1,financial sector,customers service,receptionist,2,0,1,1,1,3,1,1,1,1,2,2,1,3,2,1,2,1,1,1,0,2,3,1,0,1,1.0,1,0
+1,3,2,6,6,medical sector,patient affairs,doctor,1,0,1,1,1,3,0,0,3,1,1,1,0,1,3,1,1,2,2,0,0,1,2,1,1,0,0.14285714285714285,3,0
+0,1,2,2,2,financial sector,sales,sales executive,3,4,1,1,0,1,1,0,1,1,2,2,1,3,3,1,2,2,2,1,0,2,3,0,0,1,1.0,0,0
+1,3,2,5,5,education sector,teaching,teacher,2,1,0,0,0,2,1,1,3,1,1,3,1,3,3,1,3,1,1,1,0,3,3,0,1,0,0.3333333333333333,0,0
+0,2,3,1,1,tourism sector,information technology,it specialist,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,2,1,1,0,0,1,1,0,1,0,0.5,0,0
+0,2,2,2,2,education sector,teaching,teacher,2,0,1,0,1,3,1,1,3,1,1,3,1,3,2,2,2,0,1,1,1,3,3,1,1,0,0.6666666666666666,3,0
+1,2,2,3,3,education sector,teaching,lecturer,3,1,0,0,0,1,1,1,3,1,1,1,0,3,2,2,2,1,1,0,0,2,2,0,1,0,0.75,0,0
+1,1,1,1,1,communications and it sector,customers service,customer services representative,1,0,1,0,0,1,0,0,0,0,1,2,1,2,2,2,1,1,1,0,0,2,2,1,0,1,0.5,0,0
+1,2,2,1,1,financial sector,treasury,treasury agent,4,2,1,1,1,1,1,1,1,1,1,1,0,1,1,2,2,2,2,0,1,1,1,1,0,1,2.0,1,0
+0,2,2,3,1,medical sector,patient affairs,nurse,1,1,1,1,1,3,0,0,1,1,1,2,0,2,2,2,1,1,1,0,0,2,2,0,1,0,0.25,0,2
+1,1,1,1,1,medical sector,patient affairs,nurse,1,1,1,1,1,3,0,1,0,0,1,3,1,2,2,2,2,1,1,1,0,2,2,0,0,1,0.5,0,0
+0,2,4,4,4,financial sector,processes,head of treasury,6,4,1,1,1,3,1,1,1,1,1,3,1,3,3,2,2,0,1,1,1,2,3,0,1,0,1.2,0,0
+1,1,1,1,1,education sector,administration,manger assistant,1,0,0,0,0,1,0,0,0,0,1,1,0,1,2,2,2,0,0,0,0,1,1,0,0,1,0.5,0,0
+1,1,3,2,2,communications and it sector,relations,relationships specialist,2,0,1,1,1,3,1,1,1,1,1,3,1,2,2,2,1,0,2,1,1,2,2,1,0,1,0.6666666666666666,1,0
+1,2,2,2,2,education sector,administration,administrative manager,3,0,1,0,0,2,1,1,3,1,1,3,1,3,2,2,2,0,0,1,0,3,3,0,1,0,1.0,0,0
+0,2,2,1,1,economic sector,hr,scribe,1,0,1,1,1,3,1,1,1,1,3,2,1,3,2,3,2,2,2,1,1,3,3,1,1,0,0.5,1,0
+0,2,2,2,2,education sector,teaching,teacher,2,0,0,0,0,2,0,0,0,0,1,1,0,1,2,2,3,0,1,1,0,2,2,0,1,0,0.6666666666666666,0,0
+0,1,2,1,1,medical sector,patient affairs,dentist,2,1,0,0,0,1,0,0,0,0,1,2,0,2,2,3,2,1,2,0,0,3,2,0,0,1,1.0,0,0
+1,3,2,2,1,medical sector,safety & security,security and safety specialist,1,0,0,0,0,3,0,0,1,1,3,1,0,1,2,2,1,2,1,0,1,2,2,1,1,0,0.3333333333333333,1,1
+1,1,2,2,2,medical sector,accounting,accountant,1,0,1,0,0,1,0,0,0,0,1,1,0,1,2,2,2,1,1,0,0,1,1,0,0,1,0.3333333333333333,0,0
+1,3,3,2,2,medical sector,patient affairs,nurse,2,3,1,1,1,3,1,1,3,1,1,3,1,3,2,2,2,1,1,1,0,2,2,1,1,0,0.6666666666666666,3,0
+0,2,1,2,2,"environment, water, and agriculture sector",administration,administrative manager,2,3,1,0,0,2,1,1,1,1,1,3,1,3,2,1,2,1,1,1,0,3,2,0,1,0,0.6666666666666666,0,0
+0,1,1,1,1,transport sector,relations,coordinator,1,0,1,0,1,3,0,0,1,1,1,2,1,2,1,2,2,1,1,0,0,2,2,0,0,1,0.5,0,0
+1,2,2,3,1,education sector,teaching,teacher,2,0,0,0,0,1,0,0,3,1,1,2,1,1,2,2,2,1,1,1,0,2,2,0,1,0,0.5,0,2
+0,2,3,2,2,medical sector,patient affairs,nurse,2,4,1,1,1,3,1,1,3,1,1,3,1,3,2,3,2,1,1,1,1,2,3,0,1,0,0.6666666666666666,0,0
+1,3,2,3,3,education sector,teaching,teacher,1,0,0,0,0,1,1,1,0,0,1,2,1,2,2,1,2,2,2,0,0,2,2,0,1,0,0.25,0,0
+1,3,2,4,4,education sector,teaching,teacher,3,0,0,0,0,1,1,0,2,1,1,2,1,2,2,1,2,1,1,1,0,2,2,0,1,0,0.6,0,0
+1,1,1,1,1,food production sector,customers service,receptionist,2,2,0,0,0,1,0,0,0,0,1,2,0,2,2,1,1,2,1,0,0,2,2,0,1,0,1.0,0,0
+1,1,2,2,1,education sector,teaching,teacher,2,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,3,1,1,0,0,2,1,1,0,1,0.6666666666666666,0,1
+0,2,1,2,2,economic sector,sales,supervisor,2,0,1,1,1,2,0,0,1,1,2,2,0,2,3,2,1,0,2,0,0,2,2,0,1,0,0.6666666666666666,0,0
+1,1,2,2,2,energy sector,accounting,accountant,1,2,1,1,1,3,1,1,2,1,1,3,1,2,3,1,3,2,1,1,0,2,3,0,1,0,0.3333333333333333,0,0
+1,2,2,2,1,energy sector,hr,hiring specialist,2,1,1,0,0,1,1,1,1,0,1,2,1,2,2,2,2,0,0,1,1,2,2,0,1,0,0.6666666666666666,0,1
+1,2,2,1,1,education sector,administration,manger assistant,1,1,1,0,0,1,1,1,1,1,1,2,1,2,2,2,2,0,0,1,0,2,2,0,0,1,0.5,0,0
+0,2,3,2,2,media sector,administration,administrative manager,4,2,1,0,0,1,0,0,1,1,2,1,0,2,2,3,2,2,2,1,1,2,2,1,1,0,1.3333333333333333,1,0
+1,1,2,1,1,medical sector,patient affairs,pharmacist,1,0,1,0,1,1,0,0,0,0,1,1,0,3,2,3,1,2,2,0,0,2,1,0,0,1,0.5,0,0
+1,2,2,2,1,economic sector,hr,hiring specialist,3,1,1,1,1,2,1,1,1,1,2,2,1,2,2,2,2,0,1,1,1,2,2,1,1,0,1.0,1,1
+0,2,3,3,2,medical sector,patient affairs,nurse,1,1,1,1,1,3,0,1,1,1,2,2,1,2,2,2,2,1,0,0,0,2,2,1,0,1,0.25,1,1
+0,2,3,2,2,financial sector,administration,financial manager,3,4,1,1,1,3,1,1,2,1,2,3,1,3,2,2,2,0,0,1,0,2,2,0,1,0,1.0,0,0
+1,1,2,1,1,education sector,teaching,teacher,1,0,0,0,1,2,0,0,0,0,1,1,1,2,2,2,2,1,1,0,0,2,1,0,0,1,0.5,0,0
+0,2,3,3,3,financial sector,administration,administrative manager,4,3,1,1,1,3,1,1,3,1,3,3,1,3,2,2,2,0,0,1,0,3,3,0,1,0,1.0,0,0
+1,1,1,1,1,medical sector,customers service,receptionist,1,2,1,0,1,3,0,0,0,0,1,1,0,1,1,1,2,2,2,0,0,1,1,1,0,1,0.5,0,0
+0,2,3,2,2,medical sector,patient affairs,nurse,2,3,1,1,1,3,1,1,2,1,1,3,1,2,2,2,2,0,0,1,0,2,3,0,1,0,0.6666666666666666,0,0
+1,2,2,2,2,medical sector,patient affairs,nurse,1,3,1,1,0,1,1,1,0,1,2,2,1,3,2,1,3,0,0,1,0,2,2,1,1,0,0.3333333333333333,0,0
+0,1,2,1,1,medical sector,patient affairs,lab specialist,2,0,1,0,1,3,0,0,0,0,1,1,0,2,2,3,1,1,2,0,0,1,1,0,0,1,1.0,0,0
+1,2,2,2,2,education sector,teaching,teacher,2,0,0,0,0,1,1,1,3,1,1,3,1,3,2,2,2,1,1,1,0,2,2,0,1,0,0.6666666666666666,0,0
+1,1,1,2,2,medical sector,customers service,receptionist,2,0,1,0,0,1,1,1,0,0,1,2,0,2,2,2,2,1,1,0,1,2,1,1,1,0,0.6666666666666666,0,0
+0,2,2,1,1,education sector,teaching,teacher,2,2,0,0,0,1,1,1,2,1,1,3,1,2,1,1,3,1,1,1,0,3,3,1,1,0,1.0,2,0
+1,3,2,1,1,education sector,teaching,trainer,1,0,0,0,0,1,0,0,1,1,1,2,1,3,2,3,1,1,1,0,0,3,3,1,1,0,0.5,1,0
+0,2,2,2,2,transport sector,relations,relationships specialist,2,4,1,1,1,3,1,1,1,1,1,3,1,3,3,3,2,0,0,1,0,2,3,1,1,0,0.6666666666666666,1,0
+1,2,2,2,2,medical sector,customers service,receptionist,2,0,1,1,1,3,1,1,1,1,1,2,1,3,2,1,2,0,0,1,0,2,2,1,1,0,0.6666666666666666,1,0
+0,2,2,3,3,education sector,administration,administrative manager,2,0,0,0,0,1,0,0,0,0,1,1,1,3,3,2,3,1,0,0,0,2,2,0,0,1,0.5,0,0
+0,2,1,2,1,industry sector,safety & security,supervisor,1,2,1,0,0,3,0,0,0,0,3,1,0,1,3,3,1,2,2,0,1,1,1,1,1,0,0.3333333333333333,0,1
+1,2,2,3,3,medical sector,patient affairs,doctor,3,1,0,0,0,1,1,1,1,1,1,1,0,3,3,3,3,2,2,1,0,2,2,1,1,0,0.75,1,0
+1,1,2,2,1,medical sector,administration,marketing specialist,2,1,1,1,0,1,1,0,1,1,1,3,1,2,2,2,2,2,1,0,0,3,2,1,0,1,0.6666666666666666,1,1
+1,3,4,2,2,medical sector,patient affairs,doctor,7,2,0,0,1,2,1,0,0,0,3,1,0,1,2,2,2,0,0,1,0,2,2,1,1,0,2.3333333333333335,0,0
+0,2,3,2,1,energy sector,hr,coordinator,2,0,0,0,0,1,0,0,0,0,2,2,0,2,2,2,2,1,1,0,0,2,1,1,1,0,0.6666666666666666,0,1
+1,1,1,1,1,education sector,sales,sales executive,2,2,1,1,1,3,0,0,0,1,1,2,1,3,2,2,3,1,0,0,0,2,2,1,0,1,1.0,0,0
+1,1,2,1,1,education sector,administration,manger assistant,2,1,0,1,1,3,1,1,1,1,2,3,1,3,3,2,2,1,0,1,0,3,3,0,0,1,1.0,0,0
+0,3,4,4,4,medical sector,patient affairs,doctor,7,4,1,1,0,1,1,1,3,1,1,3,1,3,2,2,2,1,0,1,0,3,3,0,1,0,1.4,0,0
+0,1,2,2,1,engineering consulting companies,studies and design,graphic designer,1,2,1,0,0,1,0,0,0,0,1,1,1,2,2,2,2,1,1,0,0,1,1,0,0,1,0.3333333333333333,0,1
+1,1,2,2,1,communications and it sector,technical support,it specialist,2,1,1,0,1,2,0,0,1,1,1,2,1,2,1,2,2,1,1,0,0,2,2,1,1,0,0.6666666666666666,1,1
+1,2,2,1,1,law firm,legal affairs,lawyer,2,1,1,0,0,1,0,1,0,0,1,3,1,2,2,3,2,1,2,0,0,1,1,1,0,1,1.0,0,0
+1,2,1,1,1,financial sector,accounting,supervisor,1,3,1,1,0,2,0,0,2,1,2,2,0,2,3,2,1,2,2,1,0,2,2,1,1,0,0.5,2,0
+1,2,2,2,1,financial sector,customers service,customer services representative,2,2,1,0,0,1,0,0,2,1,2,2,1,3,2,2,3,1,2,1,0,3,2,1,0,1,0.6666666666666666,2,1
+0,1,1,2,2,medical sector,customers service,receptionist,2,0,1,0,0,1,1,1,2,1,1,2,1,2,2,2,2,0,0,1,0,2,2,0,0,1,0.6666666666666666,0,0
+1,2,2,1,1,medical sector,customers service,sales representative,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,3,0,0,0,0,2,2,0,1,0,0.5,0,0
+1,1,2,1,1,medical sector,patient affairs,nurse,1,3,1,1,1,2,1,1,1,1,3,3,1,3,2,2,2,0,0,1,0,3,2,0,1,0,0.5,0,0
+1,2,2,2,2,medical sector,patient affairs,pharmacist,2,2,1,1,1,2,1,1,0,0,1,2,1,2,2,2,2,0,0,0,1,2,2,1,1,0,0.6666666666666666,0,0
+1,1,1,1,1,food production sector,sales,salesman,1,0,0,0,1,3,0,0,0,0,1,1,0,1,1,1,2,2,2,0,1,1,1,1,1,0,0.5,0,0
+0,1,2,2,2,education sector,teaching,teacher,1,0,1,0,0,1,1,0,1,1,1,2,1,2,2,2,2,1,1,0,0,3,2,0,0,1,0.3333333333333333,0,0
+1,1,2,1,1,medical sector,patient affairs,nurse,1,0,1,1,0,2,0,0,1,1,2,2,1,2,2,2,2,0,1,1,0,1,2,1,1,0,0.5,1,0
+0,2,2,3,1,energy sector,administration,supervisor,2,2,1,0,1,3,0,0,0,0,1,1,0,2,2,3,2,2,2,0,0,1,1,1,1,0,0.5,0,2
+1,2,2,2,2,education sector,teaching,hr specialist,1,0,0,0,0,2,0,0,0,0,1,1,0,1,1,2,1,2,2,0,0,1,1,0,1,0,0.3333333333333333,0,0
+1,1,2,1,1,financial sector,information technology,it specialist,1,2,1,0,0,3,0,0,1,0,1,2,0,2,2,1,3,0,2,0,0,2,2,1,0,1,0.5,1,0
+1,3,1,2,2,medical sector,processes,insurance officer,1,1,1,0,1,2,0,0,0,0,1,1,0,3,2,1,2,1,2,0,0,2,2,1,0,1,0.3333333333333333,0,0
+0,2,2,2,2,food production sector,administration,administrative manager,2,2,1,1,0,1,1,1,1,1,2,3,1,3,3,1,2,1,0,1,0,3,3,0,1,0,0.6666666666666666,0,0
+0,2,2,2,2,energy sector,accounting,financial analyst,3,3,1,1,0,1,1,1,2,1,1,3,1,3,3,2,3,1,0,1,0,3,3,0,1,0,1.0,0,0
+0,3,2,6,6,education sector,teaching,teacher,1,0,1,1,0,1,1,0,3,1,3,2,1,3,3,1,3,0,0,1,0,3,3,0,1,0,0.14285714285714285,0,0
+1,1,2,1,1,medical sector,customers service,receptionist,2,2,1,0,0,1,1,1,0,0,1,3,1,3,2,2,2,1,1,0,1,2,2,1,1,0,1.0,0,0
+1,1,2,1,1,food production sector,customers service,customer services representative,1,4,1,0,1,2,0,0,0,0,1,1,0,1,1,3,2,1,2,0,0,2,1,0,0,1,0.5,0,0
+0,2,2,2,2,transport sector,technical support,engineer,2,3,1,1,1,3,1,1,1,1,3,3,1,3,2,2,3,1,0,1,1,3,3,0,1,0,0.6666666666666666,0,0
+1,1,2,1,1,education sector,teaching,teacher,2,0,1,0,0,1,1,1,2,1,1,2,1,3,2,1,3,1,1,1,0,3,3,0,0,1,1.0,0,0
+1,1,1,2,2,food production sector,sales,consultant,2,2,1,1,0,1,0,0,3,1,1,3,1,3,2,1,2,1,1,0,0,2,2,0,1,0,0.6666666666666666,0,0
+0,1,1,3,3,food production sector,administration,supervisor,2,4,1,1,1,3,1,1,2,1,2,3,1,3,2,2,2,0,0,1,0,2,2,0,1,0,0.5,0,0
+1,2,2,2,2,medical sector,relations,coordinator,2,0,0,0,0,1,0,0,2,0,1,1,1,3,1,2,2,1,1,0,0,2,2,0,1,0,0.6666666666666666,0,0
+1,2,1,1,1,economic sector,accounting,accountant,1,0,0,0,1,3,0,0,0,0,1,1,0,2,2,2,2,2,2,0,0,2,1,0,0,1,0.5,0,0
+1,1,2,1,1,medical sector,patient affairs,nurse,1,2,1,1,1,3,1,1,3,1,1,3,1,3,2,2,2,1,1,1,0,3,2,0,1,0,0.5,0,0
+0,2,2,4,1,engineering consulting companies,studies and design,civil engineer,2,4,1,1,1,3,1,1,0,0,2,1,1,2,3,1,3,0,0,1,0,3,3,1,1,0,0.4,0,3
+1,1,2,2,1,transport sector,marketing,marketing specialist,2,1,1,1,1,3,1,1,1,1,2,3,1,3,3,2,2,0,1,1,0,2,2,1,0,1,0.6666666666666666,1,1
+0,2,2,2,2,"environment, water, and agriculture sector",processes,purchase specialist,3,1,1,0,0,1,0,0,2,1,2,2,1,3,2,2,2,0,0,0,1,2,2,1,1,0,1.0,2,0
+1,1,3,2,2,financial sector,processes,operations supervisor,2,3,1,1,1,3,1,1,3,1,1,3,1,3,3,2,3,1,0,1,1,3,3,0,0,1,0.6666666666666666,0,0
+0,4,1,6,3,financial sector,safety & security,security and safety specialist,1,1,1,0,0,1,0,0,0,0,1,1,0,1,1,2,2,0,0,1,0,3,2,0,1,0,0.14285714285714285,0,3
+0,3,2,7,7,transport sector,administration,administrative manager,7,0,1,0,0,1,1,1,3,1,2,3,1,3,1,2,3,0,0,1,0,3,2,0,1,0,0.875,0,0
+0,2,2,2,2,education sector,administration,administrative manager,2,0,1,0,0,1,0,0,1,1,1,1,0,2,3,2,2,2,2,0,0,2,2,1,1,0,0.6666666666666666,1,0
+0,2,2,2,2,financial sector,hr,hiring specialist,4,2,1,1,0,1,1,0,1,1,2,2,1,2,2,1,2,1,1,0,0,2,2,1,1,0,1.3333333333333333,1,0
+0,3,2,4,4,education sector,teaching,teacher,1,2,1,0,0,1,1,0,2,1,1,2,0,3,3,1,3,0,0,0,0,2,2,0,1,0,0.2,0,0
+0,2,1,1,1,food production sector,sales,sales representative,1,3,1,1,1,3,1,1,2,1,1,2,1,3,1,2,1,0,0,1,0,3,2,0,1,0,0.5,0,0
+0,2,2,2,2,"environment, water, and agriculture sector",processes,purchase specialist,3,1,1,1,0,1,1,0,1,1,2,3,1,3,2,2,1,2,2,1,0,3,2,1,1,0,1.0,1,0
+1,2,2,2,2,financial sector,sales,sales executive,2,2,1,1,1,3,1,1,3,1,1,3,1,3,2,2,3,1,0,1,0,3,3,0,1,0,0.6666666666666666,0,0
+1,1,2,2,1,financial sector,sales,sales executive,2,1,1,1,0,1,1,1,2,1,1,2,1,2,2,3,2,0,1,1,0,2,2,1,1,0,0.6666666666666666,2,1
+1,1,2,2,2,food production sector,accounting,accountant,2,0,1,0,0,1,0,0,2,1,1,3,0,2,2,3,2,2,2,1,0,2,2,0,0,1,0.6666666666666666,0,0
+0,1,2,1,1,transport sector,administration,scribe,2,1,0,0,0,1,0,0,1,1,1,1,0,2,2,2,2,0,0,0,1,2,2,0,1,0,1.0,0,0
+1,2,2,2,2,economic sector,administration,manger assistant,2,1,1,1,0,1,1,1,1,1,1,2,1,2,2,3,2,0,0,1,0,2,2,1,1,0,0.6666666666666666,1,0
+1,1,3,1,1,medical sector,patient affairs,pharmacist,3,4,1,1,1,3,1,1,1,1,2,3,1,3,1,3,2,1,1,0,0,3,2,1,1,0,1.5,1,0
+1,2,2,2,2,education sector,teaching,teacher,2,2,1,1,0,2,1,1,1,1,1,2,1,3,2,1,3,1,1,1,0,2,2,0,1,0,0.6666666666666666,0,0
+0,2,3,2,2,transport sector,technical support,electrical engineer,3,4,1,1,1,3,1,1,3,1,2,2,1,2,1,2,2,0,0,1,0,2,3,0,1,0,1.0,0,0
+1,1,2,2,2,education sector,teaching,teacher,2,0,1,1,1,3,1,1,3,1,2,3,1,2,2,2,2,0,0,1,0,2,2,0,1,0,0.6666666666666666,0,0
+1,2,1,3,1,medical sector,patient affairs,nurse,1,3,1,1,1,3,1,1,1,1,1,3,1,3,2,1,3,0,0,1,0,3,3,1,1,0,0.25,1,2
+0,1,2,1,1,medical sector,patient affairs,pharmacist,3,1,1,0,1,3,1,0,1,1,1,2,0,3,2,1,1,2,2,0,1,2,2,0,0,1,1.5,0,0
+1,1,2,2,1,energy sector,marketing,marketing specialist,2,2,1,1,0,1,1,1,1,1,1,2,1,2,3,2,2,0,1,1,0,2,2,1,0,1,0.6666666666666666,1,1
+1,1,2,2,2,financial sector,accounting,accountant,2,0,1,0,0,1,1,1,2,1,1,3,1,3,2,2,2,1,1,1,0,2,2,1,0,1,0.6666666666666666,2,0
+1,1,2,2,2,financial sector,customers service,customer services representative,2,1,1,1,0,1,0,0,0,0,2,2,0,2,3,1,1,2,2,0,0,1,2,0,0,1,0.6666666666666666,0,0
+1,1,1,1,1,medical sector,patient affairs,radiographer,1,0,1,0,0,3,0,0,0,0,1,2,0,1,1,3,2,2,2,0,0,3,2,1,0,1,0.5,0,0
+1,1,2,2,2,financial sector,accounting,admin accountant,2,2,1,0,0,2,0,0,0,0,1,2,0,2,2,1,3,0,0,1,0,3,2,0,0,1,0.6666666666666666,0,0
+1,3,2,2,2,economic sector,administration,administrative manager,2,0,1,0,0,1,1,1,0,0,1,1,1,1,2,2,2,0,0,1,0,2,2,1,1,0,0.6666666666666666,0,0
+0,2,2,2,1,industry sector,processes,civil engineer,3,1,1,0,0,1,0,0,1,1,2,1,0,2,3,3,2,2,1,1,0,2,2,1,1,0,1.0,1,1
+0,2,2,3,2,financial sector,administration,financial manager,4,1,1,1,1,3,1,1,1,1,3,3,1,3,3,3,1,2,2,1,1,3,3,1,1,0,1.0,1,1
+1,2,2,1,1,industry sector,hr,hiring specialist,2,2,1,0,0,1,0,0,0,0,1,2,0,2,2,2,2,0,0,0,0,2,1,1,1,0,1.0,0,0
+1,1,2,1,1,communications and it sector,customers service,customer services representative,1,2,1,0,1,2,0,0,0,0,1,1,0,3,1,3,2,2,2,0,0,1,1,0,1,0,0.5,0,0
+0,1,1,1,1,transport sector,processes,warehouse officer,1,2,1,1,1,2,1,1,1,1,2,2,1,2,2,3,1,2,2,0,1,2,1,1,1,0,0.5,1,0
+0,2,1,3,3,food production sector,processes,driver,1,2,0,1,1,3,0,0,1,1,1,3,1,3,2,1,2,1,1,0,0,2,2,0,1,0,0.25,0,0
+0,1,2,1,1,medical sector,processes,sales representative,1,0,1,0,1,3,0,0,1,0,1,1,0,1,2,3,2,0,2,1,1,2,3,0,0,1,0.5,0,0
+1,1,2,1,1,"environment, water, and agriculture sector",accounting,accountant,1,0,1,0,0,1,0,0,0,0,1,2,0,2,2,2,2,1,2,0,0,1,2,1,0,1,0.5,0,0
+0,1,2,2,1,energy sector,sales,sales representative,2,4,1,0,0,1,1,0,0,0,1,2,1,3,2,3,2,2,2,1,0,3,3,1,1,0,0.6666666666666666,0,1
+0,3,3,4,3,financial sector,accounting,reports manager,2,3,1,1,1,3,0,0,3,1,2,3,1,2,2,1,1,2,2,1,0,3,3,1,1,0,0.4,3,1
+1,4,1,7,7,education sector,teaching,teacher,2,0,0,0,0,1,1,1,3,1,1,3,1,3,3,1,3,0,1,1,0,3,3,1,1,0,0.25,3,0
+1,2,2,2,2,education sector,teaching,teacher,2,0,0,0,0,1,0,1,3,1,1,1,1,3,2,2,2,0,0,0,0,2,2,0,1,0,0.6666666666666666,0,0
+1,1,2,1,1,financial sector,banking operations,banking operations,2,2,1,1,0,1,1,0,2,1,1,2,1,1,2,2,2,1,2,0,0,2,2,0,0,1,1.0,0,0
+1,1,2,1,1,economic sector,sales,sales representative,1,0,1,1,1,3,0,0,1,1,1,1,0,1,3,1,1,2,2,0,1,1,1,0,0,1,0.5,0,0
+0,1,2,1,1,communications and it sector,sales,sales executive,2,1,1,1,0,1,1,1,2,1,1,3,1,3,2,2,3,0,1,1,0,3,2,0,0,1,1.0,0,0
+1,1,2,1,1,education sector,training,trainer,3,0,0,0,0,1,1,0,2,1,1,2,1,2,2,1,2,2,2,1,0,1,2,0,0,1,1.5,0,0
+0,2,2,2,2,food production sector,administration,supervisor,3,4,1,1,1,3,1,1,2,1,3,3,1,3,2,2,2,0,0,1,0,2,2,0,1,0,1.0,0,0
+0,2,2,2,2,medical sector,administration,administrative manager,3,1,1,1,1,3,1,0,2,1,1,3,1,3,2,2,2,0,0,0,0,2,2,1,1,0,1.0,2,0
+0,3,2,5,1,energy sector,administration,administrative manager,7,2,1,1,1,3,1,1,2,1,3,3,1,3,3,1,3,0,0,0,0,3,3,0,1,0,1.1666666666666667,0,4
+1,3,2,2,2,medical sector,administration,manger assistant,2,1,1,0,0,1,0,0,1,1,2,2,1,2,2,1,2,2,2,0,0,2,2,1,1,0,0.6666666666666666,1,0
+1,1,1,1,1,tourism sector,customers service,supervisor,1,0,1,0,0,1,0,0,0,0,1,1,0,2,3,2,2,2,2,0,0,2,1,0,1,0,0.5,0,0
+1,2,1,1,1,economic sector,sales,salesman,1,2,1,1,1,3,1,0,3,1,1,1,0,1,1,2,2,2,2,0,0,1,1,1,1,0,0.5,3,0
+1,1,2,3,3,education sector,teaching,teacher,2,0,1,1,1,2,1,1,2,1,1,3,1,3,2,2,2,1,0,1,1,2,2,1,1,0,0.5,2,0
+0,1,1,2,2,medical sector,patient affairs,nurse,1,1,1,1,0,1,1,1,1,1,1,3,1,3,3,1,3,0,0,1,0,3,3,0,1,0,0.3333333333333333,0,0
+0,2,3,1,1,medical sector,patient affairs,doctor,4,3,1,1,0,2,1,1,1,1,2,2,1,3,2,2,2,1,1,1,0,2,2,0,1,0,2.0,0,0
+1,2,2,3,3,education sector,teaching,teacher,3,1,0,0,0,1,1,0,2,1,1,2,1,3,2,2,2,2,2,1,0,2,2,0,1,0,0.75,0,0
+0,2,2,1,1,education sector,teaching,teacher,1,0,0,0,1,2,1,0,0,0,1,1,1,2,1,1,2,1,0,1,0,2,2,1,0,0,0.5,0,0
+1,1,3,1,1,education sector,administration,administrative manager,1,0,0,0,0,1,1,0,0,0,1,2,1,2,2,2,2,2,2,1,0,2,2,0,0,1,0.5,0,0
+1,1,2,1,1,medical sector,customers service,customer services representative,1,1,1,0,0,1,0,0,1,1,1,3,1,2,2,1,2,1,1,0,0,2,2,1,1,0,0.5,1,0
+1,1,1,1,1,medical sector,customers service,customer services representative,2,3,1,1,1,3,1,1,0,0,1,3,1,3,2,1,2,2,2,1,0,3,3,0,0,1,1.0,0,0
+1,1,2,1,1,law firm,legal affairs,lawyer,2,0,0,1,1,2,0,0,1,1,2,1,0,3,3,2,1,2,2,0,0,2,1,1,1,0,1.0,1,0
+1,1,1,1,1,energy sector,accounting,accountant,2,0,1,1,0,1,0,1,1,1,1,2,1,2,3,1,2,0,1,0,0,2,2,1,1,0,1.0,1,0
+1,1,1,2,1,medical sector,customers service,receptionist,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,1,1,2,0,0,1,1,0,0,1,0.3333333333333333,0,1
+1,3,1,2,2,medical sector,patient affairs,nurse,1,0,0,0,0,3,1,1,1,0,1,3,1,2,3,1,1,1,2,1,0,2,2,0,1,0,0.3333333333333333,0,0
+0,4,4,5,5,financial sector,administration,administrative manager,7,4,1,1,1,3,1,1,3,1,3,3,1,3,2,3,2,0,0,1,1,3,3,0,1,0,1.1666666666666667,0,0
+1,1,1,2,2,education sector,administration,manger assistant,1,0,0,0,0,1,0,0,0,0,1,1,0,1,2,1,2,1,0,0,0,2,2,0,1,0,0.3333333333333333,0,0

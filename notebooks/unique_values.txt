@@ -1,0 +1,257 @@
+Attrition:
+  - yes
+  - no
+--------------------------------------------------
+Gender:
+  - female
+  - male
+--------------------------------------------------
+Age:
+  - 31 to 40
+  - 21 to 30
+  - 41 to 50
+  - 51 to 60
+--------------------------------------------------
+Maritalstatus:
+  - married
+  - single
+  - divorced
+--------------------------------------------------
+Academic_degree:
+  - master's
+  - bachelor's
+  - diploma or secondary
+  - ph.d
+--------------------------------------------------
+Years_Experience:
+  - less than 5 years
+  - from 5 to 10 years
+  - from 11 to 15 years
+  - from 16 to 20 years
+  - from 21 to 25 years
+  - from 31 to 35 years
+  - from 26 to 30 years
+--------------------------------------------------
+Years_experience_lastorganization:
+  - less than 5 years
+  - from 5 to 10 years
+  - from 11 to 15 years
+  - from 16 to 20 years
+  - from 21 to 25 years
+  - from 31 to 35 years
+  - from 26 to 30 years
+--------------------------------------------------
+Sector:
+  - medical sector
+  - education sector
+  - communications and it sector
+  - tourism sector
+  - financial sector
+  - economic sector
+  - transport sector
+  - food production sector
+  - industry sector
+  - media sector
+  - engineering consulting companies
+  - environment, water, and agriculture sector
+  - law firm
+  - energy sector
+  - restaurant sector
+--------------------------------------------------
+Department:
+  - accounting
+  - teaching
+  - relations
+  - hr
+  - administration
+  - processes
+  - banking operations
+  - customers service
+  - sales
+  - safety & security
+  - technical support
+  - training
+  - information technology
+  - patient affairs
+  - marketing
+  - legal affairs
+  - treasury
+  - production
+  - medical service
+  - studies and design
+  - engineering
+--------------------------------------------------
+JobTitle:
+  - accountant
+  - teacher
+  - relationships specialist
+  - manger assistant
+  - administrative manager
+  - project manager
+  - banking operations
+  - coordinator
+  - customer services representative
+  - lecturer
+  - scribe
+  - sales executive
+  - sales representative
+  - salesman
+  - consultant
+  - security and safety specialist
+  - admin accountant
+  - it specialist
+  - trainer
+  - cybersecurity director
+  - doctor
+  - hr specialist
+  - operations supervisor
+  - data entry operator
+  - quality specialist
+  - marketing specialist
+  - application specialist
+  - chemical engineer
+  - lawyer
+  - driver
+  - secretariat
+  - electrical engineer
+  - supervisor
+  - nurse
+  - treasury agent
+  - receptionist
+  - head of treasury
+  - quality controller
+  - hiring specialist
+  - warehouse officer
+  - mechanical engineer
+  - production supervisor
+  - pharmacist
+  - reports manager
+  - radiographer
+  - dentist
+  - lab specialist
+  - insurance officer
+  - graphic designer
+  - civil engineer
+  - nutrition specialist
+  - financial analyst
+  - project engineer
+  - engineer
+  - business partners
+  - relations manager
+  - purchase specialist
+  - financial manager
+  - operation and maintenance manager (acting)
+  - passenger services assistant
+  - after sales service manager
+  - social worker
+--------------------------------------------------
+MonthlySalary:
+  - from 5000 to 10000 s.r
+  - from 11000 to 15000 s.r
+  - less than 5000 sar
+  - from 16000 to 20000 s.r
+  - s.r 31000 - and more
+  - from 21000 to 25000 s.r
+  - from 26000 to 30000 s.r
+--------------------------------------------------
+MedicalInsurance:
+  - no
+  - yes
+--------------------------------------------------
+Bonus:
+  - no
+  - yes
+--------------------------------------------------
+OverTime:
+  - no
+  - yes
+--------------------------------------------------
+Payment_Overtime:
+  - i don't have overtime
+  - no
+  - yes
+--------------------------------------------------
+Rewards&Wages_Satisfaction:
+  - yes
+  - no
+--------------------------------------------------
+Get_ Deserved_Promotion:
+  - yes
+  - no
+--------------------------------------------------
+Training_programs_ During_last_three_years:
+  - from 1 to 3 training programs
+  - i did not receive any training
+  - from 4 to 6 training programs
+  - from 7  training programs to more
+--------------------------------------------------
+Useful_Training_Programs:
+  - yes
+  - no
+--------------------------------------------------
+Business_Travel:
+  - i do not travel for work
+  - travel rarely
+  - travel frequently
+--------------------------------------------------
+Job_Support:
+  - medium
+  - low
+  - high
+--------------------------------------------------
+Recognition:
+  - no
+  - yes
+--------------------------------------------------
+Emotional_Commitment:
+  - medium
+  - low
+  - high
+--------------------------------------------------
+Job_Engagement:
+  - medium
+  - difficult
+  - easy
+--------------------------------------------------
+Distance_to_work:
+  - medium
+  - close
+  - far
+--------------------------------------------------
+Work_Live_Balance:
+  - medium
+  - difficult
+  - easy
+--------------------------------------------------
+Physical_Stress:
+  - yes
+  - no
+  - sometimes
+--------------------------------------------------
+Psychological_Exhaustion:
+  - no
+  - sometimes
+  - yes
+--------------------------------------------------
+Job_Stability:
+  - no
+  - yes
+--------------------------------------------------
+Health_Issues:
+  - yes
+  - no
+--------------------------------------------------
+Environment_Satisfaction:
+  - medium
+  - low
+  - high
+--------------------------------------------------
+Job_Satisfaction:
+  - not satisfied
+  - satisfied
+  - very satisfied
+--------------------------------------------------
+Job_Opportunities:
+  - yes
+  - no
+--------------------------------------------------
