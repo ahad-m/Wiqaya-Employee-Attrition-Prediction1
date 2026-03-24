@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/tlv2tzQq)
 # Wiqaya (وِقَايَة) — Employee Attrition Prediction System
 
 An ML-powered system that predicts employee attrition in the Saudi government sector using **XGBoost classification** and **KMeans clustering**, served through an interactive **React dashboard**.
